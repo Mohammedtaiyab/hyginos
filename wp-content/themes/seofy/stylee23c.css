@@ -1,0 +1,62 @@
+/*
+Theme Name: Seofy
+Theme URI: http://seofy.webgeniuslab.net/
+Author: WebGeniusLab
+Author URI: http://webgeniuslab.net/
+Description: WebGeniusLab team presents absolutely fresh and powerful WordPress theme. It combines new technologies and functional design that helps to showcase your content in better way. This WordPress theme is developed with attention to details, so you can create effective presentation of a website easily. Enjoy building web pages with our product!
+Version: 1.5.18
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: seofy
+*/
+
+.primary-nav ul li.mega-menu-links>ul>li>a{
+	padding-top:0px !important;
+	padding-bottom:0px !important;
+}
+
+.primary-nav>ul li.mega-menu>ul.mega-menu {
+    left: 0px !important;
+}
+/* Scrollable Image  */
+.wpb_single_image.wpb_content_element.vc_align_center.scroll_image {
+    overflow: hidden;
+    height: 300px;
+	
+}
+
+.scroll_image > figure > div > img:hover {
+    margin-top: 300px;
+    transform: translate(0,-100%);
+    transition-timing-function: ease;
+    transition-duration: 3s;
+}
+.scroll_image > figure > a > img:hover {
+    margin-top: 300px;
+    transform: translate(0,-100%);
+    transition-timing-function: ease;
+    transition-duration: 3s;
+}
+
+.wpb_single_image.wpb_content_element.vc_align_center.scroll_image:before {
+/*     content: "View Full";
+    position: absolute;
+    bottom: 0;
+	color:#fff;
+    background: #0f0f136b;
+    padding: 5px;
+	width:90%; */
+}
+
+.scroll_image > h2.wpb_heading.wpb_singleimage_heading{
+	position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 24px;
+    color: #fff;
+    background: #0f0f136b;
+}
+
+
+/* End Scrollable Images */

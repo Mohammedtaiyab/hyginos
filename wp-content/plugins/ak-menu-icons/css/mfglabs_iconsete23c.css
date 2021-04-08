@@ -1,0 +1,287 @@
+/*  MFG Labs iconset 1.0
+    
+    -------------------------------------------------------
+    
+    License
+    -------------------------------------------------------
+    • The MFG Labs iconset font is licensed under the SIL Open Font License - http://scripts.sil.org/OFL
+    • MFG Labs inconset CSS files are licensed under the MIT License -
+      http://opensource.org/licenses/mit-license.html
+    • The MFG Labs iconset pictograms are licensed under the CC BY 3.0 License - http://creativecommons.org/licenses/by/3.0/
+    • Attribution is no longer required in Font Awesome 3.0, but much appreciated:
+      MFG Labs inconset by MFG Labs
+
+    Contact
+    -------------------------------------------------------
+    Email: martin.charpentier@mfglabs.com
+    Twitter: http://twitter.com/mfg_labs
+    
+
+    */
+@font-face {
+    font-family: 'mfg_labs_iconsetregular';
+    src: url('fonts/mfglabsiconset-webfont.eot');
+    src: url('fonts/mfglabsiconset-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('fonts/mfglabsiconset-webfont.woff') format('woff'),
+         url('fonts/mfglabsiconset-webfont.ttf') format('truetype'),
+         url('fonts/mfglabsiconset-webfont.svg#mfg_labs_iconsetregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+i, .mfglabsiconset {
+  font-family: 'mfg_labs_iconsetregular';
+  font-style: normal;
+  speak: none;
+  font-weight: normal;
+  font-size: 1em;
+  -webkit-font-smoothing: antialiased;
+}
+
+
+.icon2x { font-size: 2em; }
+.icon3x { font-size: 3em; }
+
+
+
+/* style exemples */
+.gradient {
+  color: #999;
+  text-shadow: 1px 1px 1px rgba(27, 27, 27, 0.19);
+  
+  background-image: -webkit-gradient(
+  linear,
+  left top, left bottom,
+  from(rgba( 182, 182, 182, 1)),
+  to(rgba(60, 60, 60, 1))
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  -webkit-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
+}
+
+.gradient:hover, .gradient .current {
+  color: #eee;
+  text-shadow: 0px 0px 3px rgba(255, 255, 255, 0.25);
+  
+  background-image: -webkit-gradient(
+  linear,
+  left top, left bottom,
+  from(rgba( 255, 255, 255, 1)),
+  to(rgba(187, 187, 187, 1))
+  );
+  
+}
+
+/*  MFG Labs iconset uses the Unicode Private Use Area (PUA) to ensure screen
+    readers do not read off random characters that represent icons.
+    We also use semantic unicode when they are available for the icon we provide. */
+
+.mfglabsiconset-cloud:before                { content: "\2601"; }
+.mfglabsiconset-at:before                   { content: "\0040"; }
+.mfglabsiconset-plus:before                 { content: "\002B"; }
+.mfglabsiconset-minus:before                { content: "\2212"; }
+
+.mfglabsiconset-arrow_up:before             { content: "\2191"; }
+.mfglabsiconset-arrow_down:before           { content: "\2193"; }
+.mfglabsiconset-arrow_right:before          { content: "\2192"; }
+.mfglabsiconset-arrow_left:before           { content: "\2190"; }
+.mfglabsiconset-chevron_down:before         { content: "\f004"; }
+.mfglabsiconset-chevron_up:before           { content: "\f005"; }
+.mfglabsiconset-chevron_right:before        { content: "\f006"; }
+.mfglabsiconset-chevron_left:before         { content: "\f007"; }
+.mfglabsiconset-reorder:before              { content: "\f008"; }
+.mfglabsiconset-list:before                 { content: "\f009"; }
+.mfglabsiconset-reorder_square:before       { content: "\f00a"; }
+.mfglabsiconset-reorder_square_line:before  { content: "\f00b"; }
+.mfglabsiconset-coverflow:before            { content: "\f00c"; }
+.mfglabsiconset-coverflow_line:before       { content: "\f00d"; }
+.mfglabsiconset-pause:before                { content: "\f00e"; }
+.mfglabsiconset-play:before                 { content: "\f00f"; }
+
+.mfglabsiconset-step_forward:before         { content: "\f010"; }
+.mfglabsiconset-step_backward:before        { content: "\f011"; }
+.mfglabsiconset-fast_forward:before         { content: "\f012"; }
+.mfglabsiconset-fast_backward:before        { content: "\f013"; }
+.mfglabsiconset-cloud_upload:before         { content: "\f014"; }
+.mfglabsiconset-cloud_download:before       { content: "\f015"; }
+.mfglabsiconset-data_science:before         { content: "\f016"; }
+.mfglabsiconset-data_science_black:before   { content: "\f017"; }
+.mfglabsiconset-globe:before                { content: "\f018"; }
+.mfglabsiconset-globe_black:before          { content: "\f019"; }
+.mfglabsiconset-math_ico:before             { content: "\f01a"; }
+.mfglabsiconset-math:before                 { content: "\f01b"; }
+.mfglabsiconset-math_black:before           { content: "\f01c"; }
+.mfglabsiconset-paperplane_ico:before       { content: "\f01d"; }
+.mfglabsiconset-paperplane:before           { content: "\f01e"; }
+.mfglabsiconset-paperplane_black:before     { content: "\f01f"; }
+
+/* \f020 doesn't work in Safari. all shifted one down */
+.mfglabsiconset-color_balance:before        { content: "\f020"; }
+.mfglabsiconset-star:before                 { content: "\2605"; }
+.mfglabsiconset-star_half:before            { content: "\f022"; }
+.mfglabsiconset-star_empty:before           { content: "\2606"; }
+.mfglabsiconset-star_half_empty:before      { content: "\f024"; }
+.mfglabsiconset-reload:before               { content: "\f025"; }
+
+.mfglabsiconset-heart:before                { content: "\2665"; }
+.mfglabsiconset-heart_broken:before         { content: "\f028"; }
+.mfglabsiconset-hashtag:before              { content: "\f029"; }
+.mfglabsiconset-reply:before                { content: "\f02a"; }
+.mfglabsiconset-retweet:before              { content: "\f02b"; }
+.mfglabsiconset-signin:before               { content: "\f02c"; }
+.mfglabsiconset-signout:before              { content: "\f02d"; }
+.mfglabsiconset-download:before             { content: "\f02e"; }
+.mfglabsiconset-upload:before               { content: "\f02f"; }
+
+
+.mfglabsiconset-placepin:before             { content: "\f031"; }
+.mfglabsiconset-display_screen:before       { content: "\f032"; }
+.mfglabsiconset-tablet:before               { content: "\f033"; }
+.mfglabsiconset-smartphone:before           { content: "\f034"; }
+.mfglabsiconset-connected_object:before     { content: "\f035"; }
+.mfglabsiconset-lock:before                 { content: "\F512"; }
+.mfglabsiconset-unlock:before               { content: "\F513"; }
+.mfglabsiconset-camera:before               { content: "\F4F7"; }
+.mfglabsiconset-isight:before               { content: "\f039"; }
+.mfglabsiconset-video_camera:before         { content: "\f03a"; }
+.mfglabsiconset-random:before               { content: "\f03b"; }
+.mfglabsiconset-message:before              { content: "\F4AC"; }
+.mfglabsiconset-discussion:before           { content: "\f03d"; }
+.mfglabsiconset-calendar:before             { content: "\F4C5"; }
+.mfglabsiconset-ringbell:before             { content: "\f03f"; }
+
+.mfglabsiconset-movie:before                { content: "\f040"; }
+.mfglabsiconset-mail:before                 { content: "\2709"; }
+.mfglabsiconset-pen:before                  { content: "\270F"; }
+.mfglabsiconset-settings:before             { content: "\9881"; }
+.mfglabsiconset-measure:before              { content: "\f044"; }
+.mfglabsiconset-vector:before               { content: "\f045"; }
+.mfglabsiconset-vector_pen:before           { content: "\2712"; }
+.mfglabsiconset-mute_on:before              { content: "\f047"; }
+.mfglabsiconset-mute_off:before             { content: "\f048"; }
+.mfglabsiconset-home:before                 { content: "\2302"; }
+.mfglabsiconset-sheet:before                { content: "\f04a"; }
+.mfglabsiconset-arrow_big_right:before      { content: "\21C9"; }
+.mfglabsiconset-arrow_big_left:before       { content: "\21C7"; }
+.mfglabsiconset-arrow_big_down:before       { content: "\21CA"; }
+.mfglabsiconset-arrow_big_up:before         { content: "\21C8"; }
+.mfglabsiconset-dribbble_circle:before      { content: "\f04f"; }
+
+.mfglabsiconset-dribbble:before             { content: "\f050"; }
+.mfglabsiconset-facebook_circle:before      { content: "\f051"; }
+.mfglabsiconset-facebook:before             { content: "\f052"; }
+.mfglabsiconset-git_circle_alt:before       { content: "\f053"; }
+.mfglabsiconset-git_circle:before           { content: "\f054"; }
+.mfglabsiconset-git:before                  { content: "\f055"; }
+.mfglabsiconset-octopus:before              { content: "\f056"; }
+.mfglabsiconset-twitter_circle:before       { content: "\f057"; }
+.mfglabsiconset-twitter:before              { content: "\f058"; }
+.mfglabsiconset-google_plus_circle:before   { content: "\f059"; }
+.mfglabsiconset-google_plus:before          { content: "\f05a"; }
+.mfglabsiconset-linked_in_circle:before     { content: "\f05b"; }
+.mfglabsiconset-linked_in:before            { content: "\f05c"; }
+.mfglabsiconset-instagram:before            { content: "\f05d"; }
+.mfglabsiconset-instagram_circle:before     { content: "\f05e"; }
+.mfglabsiconset-mfg_icon:before             { content: "\f05f"; }
+.mfglabsiconset-xing:before                 { content: "\F532"; }
+.mfglabsiconset-xing_circle:before          { content: "\F533"; }
+
+.mfglabsiconset-mfg_icon_circle:before      { content: "\f060"; }
+.mfglabsiconset-user:before                 { content: "\f061"; }
+.mfglabsiconset-user_male:before            { content: "\f062"; }
+.mfglabsiconset-user_female:before          { content: "\f063"; }
+.mfglabsiconset-users:before                { content: "\f064"; }
+
+.mfglabsiconset-file_open:before            { content: "\F4C2"; }
+.mfglabsiconset-file_close:before           { content: "\f067"; }
+.mfglabsiconset-file_alt:before             { content: "\f068"; }
+.mfglabsiconset-file_close_alt:before       { content: "\f069"; }
+.mfglabsiconset-attachment:before           { content: "\f06a"; }
+.mfglabsiconset-check:before                { content: "\2713"; }
+.mfglabsiconset-cross_mark:before           { content: "\274C"; }
+.mfglabsiconset-cancel_circle:before        { content: "\F06E"; }
+.mfglabsiconset-check_circle:before         { content: "\f06d"; }
+.mfglabsiconset-magnifying:before           { content: "\F50D"; }
+
+.mfglabsiconset-inbox:before                { content: "\f070"; }
+.mfglabsiconset-clock:before                { content: "\23F2"; }
+.mfglabsiconset-stopwatch:before            { content: "\23F1"; }
+.mfglabsiconset-hourglass:before            { content: "\231B"; }
+.mfglabsiconset-trophy:before               { content: "\f074"; }
+.mfglabsiconset-unlock_alt:before           { content: "\F075"; }
+.mfglabsiconset-lock_alt:before             { content: "\F510"; }
+.mfglabsiconset-arrow_doubled_right:before  { content: "\21D2"; }
+.mfglabsiconset-arrow_doubled_left:before   { content: "\21D0"; }
+.mfglabsiconset-arrow_doubled_down:before   { content: "\21D3"; }
+.mfglabsiconset-arrow_doubled_up:before     { content: "\21D1"; }
+.mfglabsiconset-link:before                 { content: "\f07B"; }
+.mfglabsiconset-warning:before              { content: "\2757"; }
+.mfglabsiconset-warning_alt:before          { content: "\2755"; }
+.mfglabsiconset-magnifying_plus:before      { content: "\f07E"; }
+.mfglabsiconset-magnifying_minus:before     { content: "\f07F"; }
+
+.mfglabsiconset-white_question:before       { content: "\2754"; }
+.mfglabsiconset-black_question:before       { content: "\2753"; }
+.mfglabsiconset-stop:before                 { content: "\f080"; }
+.mfglabsiconset-share:before                { content: "\f081"; }
+.mfglabsiconset-eye:before                  { content: "\f082"; }
+.mfglabsiconset-trash_can:before            { content: "\f083"; }
+.mfglabsiconset-hard_drive:before           { content: "\f084"; }
+.mfglabsiconset-information_black:before    { content: "\f085"; }
+.mfglabsiconset-information_white:before    { content: "\f086"; }
+.mfglabsiconset-printer:before              { content: "\f087"; }
+.mfglabsiconset-letter:before               { content: "\f088"; }
+.mfglabsiconset-soundcloud:before           { content: "\f089"; }
+.mfglabsiconset-soundcloud_circle:before    { content: "\f08A"; }
+.mfglabsiconset-anchor:before               { content: "\2693"; }
+
+.mfglabsiconset-female_sign:before          { content: "\2640"; }
+.mfglabsiconset-male_sign:before            { content: "\2642"; }
+.mfglabsiconset-joystick:before             { content: "\F514"; }
+.mfglabsiconset-high_voltage:before         { content: "\26A1"; }
+.mfglabsiconset-fire:before                 { content: "\F525"; }
+.mfglabsiconset-newspaper:before            { content: "\F4F0"; }
+.mfglabsiconset-chart:before                { content: "\F526"; }
+.mfglabsiconset-spread:before               { content: "\F527"; }
+
+.mfglabsiconset-spinner_1:before            { content: "\F528"; }
+.mfglabsiconset-spinner_2:before            { content: "\F529"; }
+
+.mfglabsiconset-chart_alt:before            { content: "\F530"; }
+.mfglabsiconset-label:before                { content: "\F531"; }
+
+.mfglabsiconset-brush:before                { content: "\E000"; }
+.mfglabsiconset-refresh:before              { content: "\E001"; }
+
+.mfglabsiconset-node:before                 { content: "\E002"; }
+.mfglabsiconset-node_2:before               { content: "\E003"; }
+.mfglabsiconset-node_3:before               { content: "\E004"; }
+.mfglabsiconset-link_2_nodes:before         { content: "\E005"; }
+.mfglabsiconset-link_3_nodes:before         { content: "\E006"; }
+.mfglabsiconset-link_loop_nodes:before      { content: "\E007"; }
+.mfglabsiconset-node_size:before            { content: "\E008"; }
+.mfglabsiconset-node_color:before           { content: "\E009"; }
+.mfglabsiconset-layout_directed:before      { content: "\E010"; }
+.mfglabsiconset-layout_radial:before        { content: "\E011"; }
+.mfglabsiconset-layout_hierarchical:before  { content: "\E012"; }
+.mfglabsiconset-node_link_direction:before  { content: "\E013"; }
+.mfglabsiconset-node_link_short_path:before { content: "\E014"; }
+.mfglabsiconset-node_cluster:before         { content: "\E015"; }
+.mfglabsiconset-display_graph:before        { content: "\E016"; }
+.mfglabsiconset-node_link_weight:before     { content: "\E017"; }
+.mfglabsiconset-more_node_links:before      { content: "\E018"; }
+.mfglabsiconset-node_shape:before           { content: "\E00A"; }
+.mfglabsiconset-node_icon:before            { content: "\E00B"; }
+.mfglabsiconset-node_text:before            { content: "\E00C"; }
+.mfglabsiconset-node_link_text:before       { content: "\E00D"; }
+.mfglabsiconset-node_link_color:before      { content: "\E00E"; }
+.mfglabsiconset-node_link_shape:before      { content: "\E00F"; }
+
+.mfglabsiconset-credit_card:before          { content: "\F4B3"; }
+.mfglabsiconset-disconnect:before           { content: "\F534"; }
+.mfglabsiconset-graph:before                { content: "\F535"; }
+.mfglabsiconset-new_user:before             { content: "\F536"; }
