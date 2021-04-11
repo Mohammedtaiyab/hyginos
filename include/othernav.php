@@ -1,47 +1,401 @@
 <body class="page-template-default page page-id-446 wp-embed-responsive theme-seofy woocommerce-no-js wpb-js-composer js-comp-ver-6.5.0 vc_responsive theme-gradient">
-    <header class='wgl-theme-header'><div class='wgl-site-header mobile_header_custom'>
-		<div class='container-wrapper'><div class="wgl-header-row wgl-header-row-section_top" style="background-color: rgba(255,255,255,1);border-bottom-width: 1px;border-bottom-color: rgba(45,45,66,0.1);border-bottom-style: solid;color: rgba(143,143,143,1);"><div class="wgl-container"><div class="wgl-header-row_wrapper" style="height: 50px;"><div class='position_left_top header_side display_normal v_align_middle h_align_left'></div><div class='position_center_top header_side display_normal v_align_middle h_align_left'></div><div class='position_right_top header_side display_normal v_align_middle h_align_right'><div class='header_area_container'><div class='bottom_header html4_editor header_render_editor header_render'><div class='wrapper'><span style="font-size:14px;">
-    <a href="mailto:info@aarvytechnologies.com" style="font-weight: 400">
-        <span style="color: #3224e9;"><i class="wgl-icon fa fa-envelope  " ></i></span>
-        info@aarvytechnologies.com
-    </a>
-</span></div></div><div class="delimiter" style="height: 50px;width: 1px;background-color: rgba(45,45,66,0.1);margin-left:27px;margin-right:28px;"></div><div class='bottom_header html1_editor header_render_editor header_render'><div class='wrapper'>
-<a href="https://www.facebook.com/Aarvytechnology/" style="margin-right: 21px;font-size: 13px;">
-    <i class="wgl-icon fa fa-facebook  " ></i>
-<a href="https://www.instagram.com/aarvy_technologies/" style="margin-right: 21px;font-size: 13px;">
-    <i class="wgl-icon fa fa-instagram  " ></i>
-</a></a>
+   <header class='wgl-theme-header'>
+      <div class='wgl-site-header mobile_header_custom'>
+         <div class='container-wrapper'>
+            <div class="wgl-header-row wgl-header-row-section_top" style="background-color: rgba(255,255,255,1);border-bottom-width: 1px;border-bottom-color: rgba(45,45,66,0.1);border-bottom-style: solid;color: rgba(143,143,143,1);">
+            <div class="wgl-container">
+                     <div class="wgl-header-row_wrapper" style="height: 50px;">
+                        <div class='position_left_top header_side display_normal v_align_middle h_align_left'>
+                           <div class='header_area_container'>
+                              <div class='bottom_header html4_editor header_render_editor header_render'>
+                                 <div class='wrapper'><span style="font-size:14px;">
+                                    <a href="mailto:hyginos.in@gmail.com" style="font-weight: 400">
+                                    <span><i class="wgl-icon fa fa-envelope  " ></i></span>
+                                    Hyginos.in@gmail.com
+                                    </a>
+                                    </span>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class='position_center_top header_side display_normal v_align_middle h_align_left'></div>
+                        <div class='position_right_top header_side display_normal v_align_middle h_align_right'>
+                           <div class='header_area_container'>
+                              <div class='bottom_header html1_editor header_render_editor header_render'>
+                                 <div class='wrapper'>
+                                    <div>
+                                       <a href="https://www.facebook.com/" target="_blank" style="margin-right: 21px;font-size: 13px;">
+                                       <i class="wgl-icon fa fa-facebook  " ></i>
+                                       </a>
+                                       <a href="https://www.instagram.com/" style="margin-right: 21px;font-size: 13px;" target="_blank">
+                                       <i class="wgl-icon fa fa-instagram  " ></i>
+                                       </a>
+                                       <a href="https://www.linkedin.com/"  target="_blank"style="margin-right: 21px;font-size: 13px;">
+                                       <i class="wgl-icon fa fa-linkedin  " ></i>
+                                       </a>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+            </div>
+            <div class="wgl-header-row wgl-header-row-section_middle" style="background-color: rgba(255,255,255,1);color: rgba(37,37,37,1);">
+            <div class="wgl-container">
+                     <div class="wgl-header-row_wrapper" style="height: 110px;">
+                        <div class='position_left_middle header_side display_normal v_align_middle h_align_left'>
+                           <div class='header_area_container'>
+                              <div class='wgl-logotype-container logo-sticky_enable logo-mobile_enable'>
+                                 <a href='index.php'>
 
-<a href="https://www.linkedin.com/company/aarvy-technologies/" style="margin-right: 21px;font-size: 13px;">
-    <i class="wgl-icon fa fa-linkedin  " ></i>
-</a>
-</div></div><div class="delimiter" style="height: 50px;width: 1px;background-color: rgba(45,45,66,0.1);margin-left:30px;margin-right:-2px;"></div></div></div></div></div></div><div class="wgl-header-row wgl-header-row-section_middle" style="background-color: rgba(255,255,255,1);color: rgba(37,37,37,1);"><div class="wgl-container"><div class="wgl-header-row_wrapper" style="height: 110px;"><div class='position_left_middle header_side display_normal v_align_middle h_align_left'><div class='header_area_container'><div class='wgl-logotype-container logo-sticky_enable logo-mobile_enable'>
-            <a href='../index.html'>
-									<img class="default_logo" src="../wp-content/uploads/2021/01/Aarvy-Technologies-Logo-copy.png" alt="" >
-					            </a>
+                                 <img class="default_logo" src="" alt="HYGINOS"  style="height:90px;">
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                        <div class='position_center_middle header_side display_normal v_align_middle h_align_center'>
+                           <div class='header_area_container'>
+                              <nav class='primary-nav'  style="height: 110px;">
+                                 <ul id="menu-main" class="menu">
+									      <li id="menu-item-2594" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="index.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Home</span></span><span class="menu-item_plus"></span></span></a></li>
+                                    <li id="menu-item-2452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  wpmi-iposition-left wpmi-custom-style-2452 menu-item-2452 mega-menu mega-menu-links mega-columns-5col ">
+                                       <a href="services.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Services</span></span><span class="menu-item_plus"></span></span></a>
+                                       <ul class="mega-menu sub-menu sub-menu-columns">
+                                          <li id="menu-item-2454" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2454 menu-item-2454">
+                                             <a href="websitedevelopment.php">
+                                                <span>
+                                                   <div class='wpmicons-set wpmicons-customicon wpmi-enable-circular' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'>
+                                                      <img src='wp-content/uploads/2021/02/intiate-ecommerce-website-brand.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/>
+                                                   </div>
+                                                   <div class='wpmi-icon-divider'></div>
+                                                   <span class='wpmi-mlabel'>Website Design <br>&#038; Development</span><span class="menu-item_plus"></span>
+                                                </span>
+                                             </a>
+                                          </li>
+                                          <li id="menu-item-2455" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2455 menu-item-2455">
+                                             <a href="mobile-develpment.php">
+                                                <span>
+                                                   <div class='wpmicons-set wpmicons-customicon wpmi-enable-circular' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'>
+                                                      <img src='wp-content/uploads/2021/02/Mobile-Application.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/>
+                                                   </div>
+                                                   <div class='wpmi-icon-divider'></div>
+                                                   <span class='wpmi-mlabel'><span class='wpmi-mlabel'>Mobile Development</span></span><span class="menu-item_plus"></span>
+                                                </span>
+                                             </a>
+                                          </li>
+                                          <li id="menu-item-2456" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2456 menu-item-2456">
+                                             <a href="digital-marketing.php">
+                                                <span>
+                                                   <div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'>
+                                                      <img src='wp-content/uploads/2021/02/Digital-Marketing-1.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/>
+                                                   </div>
+                                                   <div class='wpmi-icon-divider'></div>
+                                                   <span class='wpmi-mlabel'><span class='wpmi-mlabel'>Digital Marketing</span></span><span class="menu-item_plus"></span>
+                                                </span>
+                                             </a>
+                                          </li>
+                                          <li id="menu-item-2453" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2453 menu-item-2453">
+                                             <a href="ui-ux-development.php">
+                                                <span>
+                                                   <div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'>
+                                                      <img src='wp-content/uploads/2021/02/ezgif.com-gif-maker-4.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/>
+                                                   </div>
+                                                   <div class='wpmi-icon-divider'></div>
+                                                   <span class='wpmi-mlabel'><span class='wpmi-mlabel'>Ui / Ux Development</span></span><span class="menu-item_plus"></span>
+                                                </span>
+                                             </a>
+                                          </li>
+                                          <li id="menu-item-2434" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2434 menu-item-2434">
+                                             <a href="softwere-development.php">
+                                                <span>
+                                                   <div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='wp-content/uploads/2021/02/ezgif.com-gif-maker-1.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
+                                                   <div class='wpmi-icon-divider'></div>
+                                                   <span class='wpmi-mlabel'><span class='wpmi-mlabel'>Softwere Development</span></span><span class="menu-item_plus"></span>
+                                                </span>
+                                             </a>
+                                          </li>
+                                       </ul>
+                                    </li>
+									<li id="menu-item-2594" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="aboutus.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>About us</span></span><span class="menu-item_plus"></span></span></a></li>
+                                    <li id="menu-item-2594" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourclients.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Our Clients</span></span><span class="menu-item_plus"></span></span></a></li>
+                                 </ul>
+                              </nav>
+                              <div class="mobile-hamburger-toggle">
+                                 <div class="hamburger-box">
+                                    <div class="hamburger-inner"></div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class='position_right_middle header_side display_normal v_align_middle h_align_right'>
+                           <div class='header_area_container'>
+                              <div class="header_button">
+                                 <div class="wrapper">
+                                    <div class="seofy_module_button wgl_button wgl_button-s button_def aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-width:1px; " class="wgl_button_link">Get In Touch</a></div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
             </div>
-            </div></div><div class='position_center_middle header_side display_normal v_align_middle h_align_center'><div class='header_area_container'><nav class='primary-nav'  style="height: 110px;"><ul id="menu-main" class="menu"><li id="menu-item-2452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  wpmi-iposition-left wpmi-custom-style-2452 menu-item-2452 mega-menu mega-menu-links mega-columns-5col "><a href="../services/index.html"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Services</span></span><span class="menu-item_plus"></span></span></a><ul class="mega-menu sub-menu sub-menu-columns">	<li id="menu-item-2454" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2454 menu-item-2454"><a href="../website-design-development/index.html"><span><div class='wpmicons-set wpmicons-customicon wpmi-enable-circular' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/intiate-ecommerce-website-brand.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div><div class='wpmi-icon-divider'></div><span class='wpmi-mlabel'>Website Design <br>&#038; Development</span><span class="menu-item_plus"></span></span></a></li>	<li id="menu-item-2455" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2455 menu-item-2455"><a href="../mobile-development/index.html"><span><div class='wpmicons-set wpmicons-customicon wpmi-enable-circular' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/Mobile-Application.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div><div class='wpmi-icon-divider'></div><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Mobile Development</span></span><span class="menu-item_plus"></span></span></a></li>	<li id="menu-item-2456" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2456 menu-item-2456"><a href="../digital-marketing/index.html"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/Digital-Marketing-1.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div><div class='wpmi-icon-divider'></div><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Digital Marketing</span></span><span class="menu-item_plus"></span></span></a></li>	<li id="menu-item-2453" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2453 menu-item-2453"><a href="../ui-ux-development/index.html"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/ezgif.com-gif-maker-4.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div><div class='wpmi-icon-divider'></div><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Ui / Ux Development</span></span><span class="menu-item_plus"></span></span></a></li>	<li id="menu-item-2434" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2434 menu-item-2434"><a href="../softwere-development/index.html"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/ezgif.com-gif-maker-1.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div><div class='wpmi-icon-divider'></div><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Softwere Development</span></span><span class="menu-item_plus"></span></span></a></li></ul>
-</li><li id="menu-item-2501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  wpmi-iposition-left wpmi-custom-style-2501 menu-item-2501 mega-menu mega-menu-links mega-columns-3col "><a href="../solutions/index.html"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Solutions</span></span><span class="menu-item_plus"></span></span></a><ul class="mega-menu sub-menu sub-menu-columns">	<li id="menu-item-2502" class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2502 menu-item-2502"><a href="../college-erp/index.html"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/college.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>College ERP</span><span class="menu-item_plus"></span></span></a></li>	<li id="menu-item-2503" class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2503 menu-item-2503"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/School.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>School ERP</span><span class="menu-item_plus"></span></span></a></li>	<li id="menu-item-2508" class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2508 menu-item-2508"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/college-1.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>Learning Management System</span><span class="menu-item_plus"></span></span></a></li>	<li id="menu-item-2509" class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2509 menu-item-2509"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/ecommerce.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>E-Commerce Management</span><span class="menu-item_plus"></span></span></a></li>	<li id="menu-item-2510" class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2510 menu-item-2510"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/grocery.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>Grocery Management</span><span class="menu-item_plus"></span></span></a></li>	<li id="menu-item-2505" class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2505 menu-item-2505"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/hospital.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>Hospital Management</span><span class="menu-item_plus"></span></span></a></li>	<li id="menu-item-2504" class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2504 menu-item-2504"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/societymanagement.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>Society Management</span><span class="menu-item_plus"></span></span></a></li>	<li id="menu-item-2507" class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2507 menu-item-2507"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/pharma.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>Pharma Management</span><span class="menu-item_plus"></span></span></a></li>	<li id="menu-item-2506" class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2506 menu-item-2506"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/gym.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>GYM Management</span><span class="menu-item_plus"></span></span></a></li>	<li id="menu-item-2511" class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2511 menu-item-2511"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/college-2.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>CV Creator</span><span class="menu-item_plus"></span></span></a></li></ul>
-</li><li id="menu-item-2594" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="../our-portfolio/index.html"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Our Portfolio</span></span><span class="menu-item_plus"></span></span></a></li></ul></nav><div class="mobile-hamburger-toggle"><div class="hamburger-box"><div class="hamburger-inner"></div></div></div></div></div><div class='position_right_middle header_side display_normal v_align_middle h_align_right'><div class='header_area_container'><div class="header_button"><div class="wrapper"><div id=seofy_button_60657eff54f59 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="../contact-us/index.html" title='Get In Touch' target="_blank" style="border-width:1px; " class="wgl_button_link">Get In Touch</a></div>
-</div></div></div></div></div></div></div></div></div><div class='wgl-sticky-header header_sticky_shadow' style="background-color: rgba(255,255,255,1);color: #404040;" data-style="standard"><div class='container-wrapper'><div class="wgl-header-row wgl-header-row-section_middle"><div class="wgl-container"><div class="wgl-header-row_wrapper" style="height: 100px;"><div class='position_left_middle header_side display_normal v_align_middle h_align_left'><div class='header_area_container'><div class='wgl-logotype-container logo-sticky_enable logo-mobile_enable'>
-            <a href='../index.html'>
-								<img class="logo-sticky" src="../wp-content/uploads/2021/01/Aarvy-Technologies-Logo-copy.png" alt="" >
-					            </a>
+         </div>
+         <div class='wgl-sticky-header header_sticky_shadow' style="background-color: rgba(255,255,255,1);color: #404040;" data-style="standard">
+            <div class='container-wrapper'>
+               <div class="wgl-header-row wgl-header-row-section_middle">
+                  <div class="wgl-container">
+                     <div class="wgl-header-row_wrapper" style="height: 100px;">
+                        <div class='position_left_middle header_side display_normal v_align_middle h_align_left'>
+                           <div class='header_area_container'>
+                              <div class='wgl-logotype-container logo-sticky_enable logo-mobile_enable'>
+                                 <a href='index.php'>
+                                 <img class="logo-sticky" src="" alt="HYGINOS"  style="height:80px;">
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                        <div class='position_center_middle header_side display_normal v_align_middle h_align_center'>
+                           <div class='header_area_container'>
+                              <nav class='primary-nav'  style="height: 100px;">
+                                 <ul id="menu-main-1" class="menu">
+									<li id="menu-item-2594" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="index.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Home</span></span><span class="menu-item_plus"></span></span></a></li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  wpmi-iposition-left wpmi-custom-style-2452 menu-item-2452 mega-menu mega-menu-links mega-columns-5col ">
+                                       <a href="services.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Services</span></span><span class="menu-item_plus"></span></span></a>
+                                       <ul class="mega-menu sub-menu sub-menu-columns">
+                                          <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2454 menu-item-2454">
+                                             <a href="websitedevelopment.php">
+                                                <span>
+                                                   <div class='wpmicons-set wpmicons-customicon wpmi-enable-circular' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='wp-content/uploads/2021/02/intiate-ecommerce-website-brand.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
+                                                   <div class='wpmi-icon-divider'></div>
+                                                   <span class='wpmi-mlabel'>Website Design <br>&#038; Development</span><span class="menu-item_plus"></span>
+                                                </span>
+                                             </a>
+                                          </li>
+                                          <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2455 menu-item-2455">
+                                             <a href="mobile-develpment.php">
+                                                <span>
+                                                   <div class='wpmicons-set wpmicons-customicon wpmi-enable-circular' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='wp-content/uploads/2021/02/Mobile-Application.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
+                                                   <div class='wpmi-icon-divider'></div>
+                                                   <span class='wpmi-mlabel'><span class='wpmi-mlabel'>Mobile Development</span></span><span class="menu-item_plus"></span>
+                                                </span>
+                                             </a>
+                                          </li>
+                                          <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2456 menu-item-2456">
+                                             <a href="digital-marketing.php">
+                                                <span>
+                                                   <div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='wp-content/uploads/2021/02/Digital-Marketing-1.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
+                                                   <div class='wpmi-icon-divider'></div>
+                                                   <span class='wpmi-mlabel'><span class='wpmi-mlabel'>Digital Marketing</span></span><span class="menu-item_plus"></span>
+                                                </span>
+                                             </a>
+                                          </li>
+                                          <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2453 menu-item-2453">
+                                             <a href="ui-ux-development.php">
+                                                <span>
+                                                   <div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='wp-content/uploads/2021/02/ezgif.com-gif-maker-4.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
+                                                   <div class='wpmi-icon-divider'></div>
+                                                   <span class='wpmi-mlabel'><span class='wpmi-mlabel'>Ui / Ux Development</span></span><span class="menu-item_plus"></span>
+                                                </span>
+                                             </a>
+                                          </li>
+                                          <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2434 menu-item-2434">
+                                             <a href="softwere-development.php">
+                                                <span>
+                                                   <div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='wp-content/uploads/2021/02/ezgif.com-gif-maker-1.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
+                                                   <div class='wpmi-icon-divider'></div>
+                                                   <span class='wpmi-mlabel'><span class='wpmi-mlabel'>Softwere Development</span></span><span class="menu-item_plus"></span>
+                                                </span>
+                                             </a>
+                                          </li>
+                                       </ul>
+                                    </li>
+									<li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="aboutus.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>About us</span></span><span class="menu-item_plus"></span></span></a></li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourclients.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Our Clients</span></span><span class="menu-item_plus"></span></span></a></li>
+                                 </ul>
+                              </nav>
+                              <div class="mobile-hamburger-toggle">
+                                 <div class="hamburger-box">
+                                    <div class="hamburger-inner"></div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class='position_right_middle header_side display_normal v_align_middle h_align_right'>
+                           <div class='header_area_container'>
+                              <div class="header_button">
+                                 <div class="wrapper">
+                                    <div id=seofy_button_60657ec70bf0f class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-width:1px; " class="wgl_button_link">Get In Touch</a></div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
             </div>
-            </div></div><div class='position_center_middle header_side display_normal v_align_middle h_align_center'><div class='header_area_container'><nav class='primary-nav'  style="height: 100px;"><ul id="menu-main-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  wpmi-iposition-left wpmi-custom-style-2452 menu-item-2452 mega-menu mega-menu-links mega-columns-5col "><a href="../services/index.html"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Services</span></span><span class="menu-item_plus"></span></span></a><ul class="mega-menu sub-menu sub-menu-columns">	<li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2454 menu-item-2454"><a href="../website-design-development/index.html"><span><div class='wpmicons-set wpmicons-customicon wpmi-enable-circular' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/intiate-ecommerce-website-brand.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div><div class='wpmi-icon-divider'></div><span class='wpmi-mlabel'>Website Design <br>&#038; Development</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2455 menu-item-2455"><a href="../mobile-development/index.html"><span><div class='wpmicons-set wpmicons-customicon wpmi-enable-circular' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/Mobile-Application.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div><div class='wpmi-icon-divider'></div><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Mobile Development</span></span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2456 menu-item-2456"><a href="../digital-marketing/index.html"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/Digital-Marketing-1.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div><div class='wpmi-icon-divider'></div><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Digital Marketing</span></span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2453 menu-item-2453"><a href="../ui-ux-development/index.html"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/ezgif.com-gif-maker-4.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div><div class='wpmi-icon-divider'></div><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Ui / Ux Development</span></span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2434 menu-item-2434"><a href="../softwere-development/index.html"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/ezgif.com-gif-maker-1.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div><div class='wpmi-icon-divider'></div><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Softwere Development</span></span><span class="menu-item_plus"></span></span></a></li></ul>
-</li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  wpmi-iposition-left wpmi-custom-style-2501 menu-item-2501 mega-menu mega-menu-links mega-columns-3col "><a href="../solutions/index.html"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Solutions</span></span><span class="menu-item_plus"></span></span></a><ul class="mega-menu sub-menu sub-menu-columns">	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2502 menu-item-2502"><a href="../college-erp/index.html"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/college.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>College ERP</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2503 menu-item-2503"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/School.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>School ERP</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2508 menu-item-2508"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/college-1.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>Learning Management System</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2509 menu-item-2509"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/ecommerce.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>E-Commerce Management</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2510 menu-item-2510"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/grocery.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>Grocery Management</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2505 menu-item-2505"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/hospital.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>Hospital Management</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2504 menu-item-2504"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/societymanagement.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>Society Management</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2507 menu-item-2507"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/pharma.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>Pharma Management</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2506 menu-item-2506"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/gym.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>GYM Management</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2511 menu-item-2511"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/college-2.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>CV Creator</span><span class="menu-item_plus"></span></span></a></li></ul>
-</li><li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="../our-portfolio/index.html"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Our Portfolio</span></span><span class="menu-item_plus"></span></span></a></li></ul></nav><div class="mobile-hamburger-toggle"><div class="hamburger-box"><div class="hamburger-inner"></div></div></div></div></div><div class='position_right_middle header_side display_normal v_align_middle h_align_right'><div class='header_area_container'><div class="header_button"><div class="wrapper"><div id=seofy_button_60657eff5b6e2 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="../contact-us/index.html" title='Get In Touch' target="_blank" style="border-width:1px; " class="wgl_button_link">Get In Touch</a></div>
-</div></div></div></div></div></div></div></div></div><div class='wgl-mobile-header' style="background-color: rgba(34,35,40,1);color: #ffffff;"><div class='container-wrapper'><div class="wgl-header-row wgl-header-row-section"><div class="wgl-container"><div class="wgl-header-row_wrapper" style="height: 100px;"><div class='position_left header_side'><div class='header_area_container'><nav class='primary-nav'  style="height: 100px;"><ul id="menu-main-2" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  wpmi-iposition-left wpmi-custom-style-2452 menu-item-2452 mega-menu mega-menu-links mega-columns-5col "><a href="../services/index.html"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Services</span></span><span class="menu-item_plus"></span></span></a><ul class="mega-menu sub-menu sub-menu-columns">	<li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2454 menu-item-2454"><a href="../website-design-development/index.html"><span><div class='wpmicons-set wpmicons-customicon wpmi-enable-circular' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/intiate-ecommerce-website-brand.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div><div class='wpmi-icon-divider'></div><span class='wpmi-mlabel'>Website Design <br>&#038; Development</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2455 menu-item-2455"><a href="../mobile-development/index.html"><span><div class='wpmicons-set wpmicons-customicon wpmi-enable-circular' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/Mobile-Application.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div><div class='wpmi-icon-divider'></div><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Mobile Development</span></span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2456 menu-item-2456"><a href="../digital-marketing/index.html"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/Digital-Marketing-1.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div><div class='wpmi-icon-divider'></div><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Digital Marketing</span></span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2453 menu-item-2453"><a href="../ui-ux-development/index.html"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/ezgif.com-gif-maker-4.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div><div class='wpmi-icon-divider'></div><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Ui / Ux Development</span></span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2434 menu-item-2434"><a href="../softwere-development/index.html"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/ezgif.com-gif-maker-1.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div><div class='wpmi-icon-divider'></div><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Softwere Development</span></span><span class="menu-item_plus"></span></span></a></li></ul>
-</li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  wpmi-iposition-left wpmi-custom-style-2501 menu-item-2501 mega-menu mega-menu-links mega-columns-3col "><a href="../solutions/index.html"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Solutions</span></span><span class="menu-item_plus"></span></span></a><ul class="mega-menu sub-menu sub-menu-columns">	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2502 menu-item-2502"><a href="../college-erp/index.html"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/college.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>College ERP</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2503 menu-item-2503"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/School.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>School ERP</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2508 menu-item-2508"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/college-1.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>Learning Management System</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2509 menu-item-2509"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/ecommerce.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>E-Commerce Management</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2510 menu-item-2510"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/grocery.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>Grocery Management</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2505 menu-item-2505"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/hospital.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>Hospital Management</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2504 menu-item-2504"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/societymanagement.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>Society Management</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2507 menu-item-2507"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/pharma.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>Pharma Management</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2506 menu-item-2506"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/gym.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>GYM Management</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2511 menu-item-2511"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/college-2.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>CV Creator</span><span class="menu-item_plus"></span></span></a></li></ul>
-</li><li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="../our-portfolio/index.html"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Our Portfolio</span></span><span class="menu-item_plus"></span></span></a></li></ul></nav><div class="mobile-hamburger-toggle"><div class="hamburger-box"><div class="hamburger-inner"></div></div></div></div></div><div class='position_center header_side'><div class='header_area_container'><div class='wgl-logotype-container logo-sticky_enable logo-mobile_enable'>
-            <a href='../index.html'>
-								<img class="logo-mobile" src="../wp-content/uploads/2021/01/Aarvy-Technologies-Logo-copy.png" alt="" >
-					            </a>
+         </div>
+         <div class='wgl-mobile-header' style="background-color: rgba(34,35,40,1);color: #ffffff;">
+            <div class='container-wrapper'>
+               <div class="wgl-header-row wgl-header-row-section">
+                  <div class="wgl-container">
+                     <div class="wgl-header-row_wrapper" style="height: 100px;">
+                        <div class='position_left header_side'>
+                           <div class='header_area_container'>
+                              <nav class='primary-nav'  style="height: 100px;">
+                                 <ul id="menu-main-2" class="menu">
+									<li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="index.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Home</span></span><span class="menu-item_plus"></span></span></a></li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  wpmi-iposition-left wpmi-custom-style-2452 menu-item-2452 mega-menu mega-menu-links mega-columns-5col ">
+                                       <a href="services.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Services</span></span><span class="menu-item_plus"></span></span></a>
+                                       <ul class="mega-menu sub-menu sub-menu-columns">
+                                          <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2454 menu-item-2454">
+                                             <a href="websitedevelopment.php">
+                                                <span>
+                                                   <div class='wpmicons-set wpmicons-customicon wpmi-enable-circular' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='wp-content/uploads/2021/02/intiate-ecommerce-website-brand.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
+                                                   <div class='wpmi-icon-divider'></div>
+                                                   <span class='wpmi-mlabel'>Website Design <br>&#038; Development</span><span class="menu-item_plus"></span>
+                                                </span>
+                                             </a>
+                                          </li>
+                                          <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2455 menu-item-2455">
+                                             <a href="mobile-develpment.php">
+                                                <span>
+                                                   <div class='wpmicons-set wpmicons-customicon wpmi-enable-circular' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='wp-content/uploads/2021/02/Mobile-Application.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
+                                                   <div class='wpmi-icon-divider'></div>
+                                                   <span class='wpmi-mlabel'><span class='wpmi-mlabel'>Mobile Development</span></span><span class="menu-item_plus"></span>
+                                                </span>
+                                             </a>
+                                          </li>
+                                          <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2456 menu-item-2456">
+                                             <a href="digital-marketing.php">
+                                                <span>
+                                                   <div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='wp-content/uploads/2021/02/Digital-Marketing-1.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
+                                                   <div class='wpmi-icon-divider'></div>
+                                                   <span class='wpmi-mlabel'><span class='wpmi-mlabel'>Digital Marketing</span></span><span class="menu-item_plus"></span>
+                                                </span>
+                                             </a>
+                                          </li>
+                                          <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2453 menu-item-2453">
+                                             <a href="ui-ux-development.php">
+                                                <span>
+                                                   <div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='wp-content/uploads/2021/02/ezgif.com-gif-maker-4.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
+                                                   <div class='wpmi-icon-divider'></div>
+                                                   <span class='wpmi-mlabel'><span class='wpmi-mlabel'>Ui / Ux Development</span></span><span class="menu-item_plus"></span>
+                                                </span>
+                                             </a>
+                                          </li>
+                                          <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2434 menu-item-2434">
+                                             <a href="softwere-development.php">
+                                                <span>
+                                                   <div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='wp-content/uploads/2021/02/ezgif.com-gif-maker-1.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
+                                                   <div class='wpmi-icon-divider'></div>
+                                                   <span class='wpmi-mlabel'><span class='wpmi-mlabel'>Softwere Development</span></span><span class="menu-item_plus"></span>
+                                                </span>
+                                             </a>
+                                          </li>
+                                       </ul>
+                                    </li>
+									<li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="aboutus.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>About us</span></span><span class="menu-item_plus"></span></span></a></li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourclients.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Our Clients</span></span><span class="menu-item_plus"></span></span></a></li>
+                                 </ul>
+                              </nav>
+                              <div class="mobile-hamburger-toggle">
+                                 <div class="hamburger-box">
+                                    <div class="hamburger-inner"></div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class='position_center header_side'>
+                           <div class='header_area_container'>
+                              <div class='wgl-logotype-container logo-sticky_enable logo-mobile_enable'>
+                                 <a href='index.php'>
+                                 <img class="logo-mobile" src="" alt="HYGINOS"   style="height:50px;">
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                        <div class='position_right header_side'>
+                           <div class='header_area_container'>
+                              <div class="header_search search_standard" style="height: 100px;">
+                                 <div class="header_search-button"></div>
+                                 <div class="header_search-field">
+                                    <form role="search" method="get" action="" class="search-form">
+                                       <input type="text" id="search-form-60657ec7102d8" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+                                       <input class="search-button" type="submit" value="Search">
+                                    </form>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class='mobile_nav_wrapper' data-mobile-width='1200'>
+                  <div class='container-wrapper'>
+                     <div class='wgl-menu_outer'>
+                        <nav class='primary-nav'>
+                           <ul id="menu-main-3" class="menu">
+							<li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="index.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Home</span></span><span class="menu-item_plus"></span></span></a></li>
+                              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  wpmi-iposition-left wpmi-custom-style-2452 menu-item-2452 mega-menu mega-menu-links mega-columns-5col ">
+                                 <a href="services.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Services</span></span><span class="menu-item_plus"></span></span></a>
+                                 <ul class="mega-menu sub-menu sub-menu-columns">
+                                    
+									<li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2454 menu-item-2454">
+                                       <a href="websitedevelopment.php">
+                                          <span>
+                                             <div class='wpmicons-set wpmicons-customicon wpmi-enable-circular' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='wp-content/uploads/2021/02/intiate-ecommerce-website-brand.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
+                                             <div class='wpmi-icon-divider'></div>
+                                             <span class='wpmi-mlabel'>Website Design <br>&#038; Development</span><span class="menu-item_plus"></span>
+                                          </span>
+                                       </a>
+                                    </li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2455 menu-item-2455">
+                                       <a href="mobile-develpment.php">
+                                          <span>
+                                             <div class='wpmicons-set wpmicons-customicon wpmi-enable-circular' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='wp-content/uploads/2021/02/Mobile-Application.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
+                                             <div class='wpmi-icon-divider'></div>
+                                             <span class='wpmi-mlabel'><span class='wpmi-mlabel'>Mobile Development</span></span><span class="menu-item_plus"></span>
+                                          </span>
+                                       </a>
+                                    </li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2456 menu-item-2456">
+                                       <a href="digital-marketing.php">
+                                          <span>
+                                             <div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='wp-content/uploads/2021/02/Digital-Marketing-1.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
+                                             <div class='wpmi-icon-divider'></div>
+                                             <span class='wpmi-mlabel'><span class='wpmi-mlabel'>Digital Marketing</span></span><span class="menu-item_plus"></span>
+                                          </span>
+                                       </a>
+                                    </li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2453 menu-item-2453">
+                                       <a href="ui-ux-development.php">
+                                          <span>
+                                             <div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='wp-content/uploads/2021/02/ezgif.com-gif-maker-4.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
+                                             <div class='wpmi-icon-divider'></div>
+                                             <span class='wpmi-mlabel'><span class='wpmi-mlabel'>Ui / Ux Development</span></span><span class="menu-item_plus"></span>
+                                          </span>
+                                       </a>
+                                    </li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2434 menu-item-2434">
+                                       <a href="softwere-development.php">
+                                          <span>
+                                             <div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='wp-content/uploads/2021/02/ezgif.com-gif-maker-1.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
+                                             <div class='wpmi-icon-divider'></div>
+                                             <span class='wpmi-mlabel'><span class='wpmi-mlabel'>Softwere Development</span></span><span class="menu-item_plus"></span>
+                                          </span>
+                                       </a>
+                                    </li>
+                                 </ul>
+                              </li>
+							  <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="aboutus.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>About us</span></span><span class="menu-item_plus"></span></span></a></li>
+                              <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourclients.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Our Clients</span></span><span class="menu-item_plus"></span></span></a></li>
+                           </ul>
+                        </nav>
+                     </div>
+                  </div>
+               </div>
             </div>
-            </div></div><div class='position_right header_side'><div class='header_area_container'><div class="header_search search_standard" style="height: 100px;"><div class="header_search-button"></div><div class="header_search-field"><form role="search" method="get" action="https://aarvytechnologies.com/" class="search-form">
-    <input type="text" id="search-form-60657eff5f397" class="search-field" placeholder="Search &hellip;" value="" name="s" />
-    <input class="search-button" type="submit" value="Search">
-</form></div></div></div></div></div></div></div><div class='mobile_nav_wrapper' data-mobile-width='1200'><div class='container-wrapper'><div class='wgl-menu_outer'><nav class='primary-nav'><ul id="menu-main-3" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  wpmi-iposition-left wpmi-custom-style-2452 menu-item-2452 mega-menu mega-menu-links mega-columns-5col "><a href="../services/index.html"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Services</span></span><span class="menu-item_plus"></span></span></a><ul class="mega-menu sub-menu sub-menu-columns">	<li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2454 menu-item-2454"><a href="../website-design-development/index.html"><span><div class='wpmicons-set wpmicons-customicon wpmi-enable-circular' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/intiate-ecommerce-website-brand.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div><div class='wpmi-icon-divider'></div><span class='wpmi-mlabel'>Website Design <br>&#038; Development</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2455 menu-item-2455"><a href="../mobile-development/index.html"><span><div class='wpmicons-set wpmicons-customicon wpmi-enable-circular' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/Mobile-Application.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div><div class='wpmi-icon-divider'></div><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Mobile Development</span></span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2456 menu-item-2456"><a href="../digital-marketing/index.html"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/Digital-Marketing-1.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div><div class='wpmi-icon-divider'></div><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Digital Marketing</span></span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2453 menu-item-2453"><a href="../ui-ux-development/index.html"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/ezgif.com-gif-maker-4.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div><div class='wpmi-icon-divider'></div><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Ui / Ux Development</span></span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2434 menu-item-2434"><a href="../softwere-development/index.html"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/ezgif.com-gif-maker-1.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div><div class='wpmi-icon-divider'></div><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Softwere Development</span></span><span class="menu-item_plus"></span></span></a></li></ul>
-</li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  wpmi-iposition-left wpmi-custom-style-2501 menu-item-2501 mega-menu mega-menu-links mega-columns-3col "><a href="../solutions/index.html"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Solutions</span></span><span class="menu-item_plus"></span></span></a><ul class="mega-menu sub-menu sub-menu-columns">	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2502 menu-item-2502"><a href="../college-erp/index.html"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/college.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>College ERP</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2503 menu-item-2503"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/School.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>School ERP</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2508 menu-item-2508"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/college-1.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>Learning Management System</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2509 menu-item-2509"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/ecommerce.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>E-Commerce Management</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2510 menu-item-2510"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/grocery.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>Grocery Management</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2505 menu-item-2505"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/hospital.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>Hospital Management</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2504 menu-item-2504"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/societymanagement.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>Society Management</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2507 menu-item-2507"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/pharma.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>Pharma Management</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2506 menu-item-2506"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/gym.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>GYM Management</span><span class="menu-item_plus"></span></span></a></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom  wpmi-iposition-left wpmi-custom-style-2511 menu-item-2511"><a href="#"><span><div class='wpmicons-set wpmicons-customicon' data-iposition='left' data-eanimation='0' data-animation='hvr-icon-back'><img src='../wp-content/uploads/2021/02/college-2.png' class='wpmi-custom-icon' alt=''/></div><span class='wpmi-mlabel'>CV Creator</span><span class="menu-item_plus"></span></span></a></li></ul>
-</li><li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="../our-portfolio/index.html"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Our Portfolio</span></span><span class="menu-item_plus"></span></span></a></li></ul></nav></div></div></div></div></div></header>
-
+         </div>
+      </header>
