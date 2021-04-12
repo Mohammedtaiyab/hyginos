@@ -12,7 +12,7 @@ require('include/othernav.php');
          <div class='page-header_content'>
             <h1 class='page-header_title' style="color:#252525; font-size:42px; line-height:54px;">Our Portfolio</h1>
             <div class='page-header_breadcrumbs' style="color:#252525; font-size:16px; line-height:34px;">
-               <div class="breadcrumbs"><a href="../index.html" class="home">Home</a> <span class="divider"></span> <span class="current">Our Portfolio</span></div>
+               <div class="breadcrumbs"><a href="../index.php" class="home">Home</a> <span class="divider"></span> <span class="current">Our Portfolio</span></div>
                <!-- .breadcrumbs -->
             </div>
          </div>

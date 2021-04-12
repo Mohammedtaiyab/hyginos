@@ -4,7 +4,7 @@ require('include/headstyle.php');
 require('include/othernav.php');
 ?>
 
-<div class='page-header  page-header_align_center' style="background-color:#f4f6fd; height:220px; margin-bottom:50px; padding-top:0px; padding-bottom:0px;" ><div class='page-header_wrapper'><div class='wgl-container'><div class='page-header_content'><h1 class='page-header_title' style="color:#252525; font-size:42px; line-height:54px;">Website Design &#038; Development</h1><div class='page-header_breadcrumbs' style="color:#252525; font-size:16px; line-height:34px;"><div class="breadcrumbs"><a href="index.html" class="home">Home</a> <span class="divider"></span> <span class="current">Website Design &#038; Development</span></div><!-- .breadcrumbs --></div></div></div></div>
+<div class='page-header  page-header_align_center' style="background-color:#f4f6fd; height:220px; margin-bottom:50px; padding-top:0px; padding-bottom:0px;" ><div class='page-header_wrapper'><div class='wgl-container'><div class='page-header_content'><h1 class='page-header_title' style="color:#252525; font-size:42px; line-height:54px;">Website Design &#038; Development</h1><div class='page-header_breadcrumbs' style="color:#252525; font-size:16px; line-height:34px;"><div class="breadcrumbs"><a href="index.php" class="home">Home</a> <span class="divider"></span> <span class="current">Website Design &#038; Development</span></div><!-- .breadcrumbs --></div></div></div></div>
 <div id="page-title-particles-js" class="particles-js" data-particles-type="hexagons" data-particles-number="30" data-particles-line="false" data-particles-size="5" data-particles-speed="2" data-particles-hover="false" data-particles-hover-mode="bubble" data-particles-colors-type="random_colors" data-particles-color="#ff7e00,#3224e9,#69e9f2"></div>
 </div>   
 <main id="main">
@@ -25,12 +25,12 @@ require('include/othernav.php');
                            <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_zoomInLeft zoomInLeft" >
                               <div class="wpb_wrapper">
                                  <div class="heading head-left"></div>
-                                 <p><strong>Hyginos Technologies</strong> specialize in Static website design and development. As a pioneering static web design agency based in Delhi, we render dynamic solutions that become an asset to your business.</p>
+                                 <p><strong>Hyginos </strong> specialize in Static website design and development. As a pioneering static web design agency based in Delhi, we render dynamic solutions that become an asset to your business.</p>
                                  <p>Our team of designing experts combine technical acumen with innovation for quality deliverables. Whether its aesthetics or functionality, you can rely on us for an end product that takes your business to an all new level.</p>
                                  <p>A static site is ten times faster than a dynamic site that is built with a CMS.<span> </span><span>Another reason for a </span>static website to run faster<span> is that it can be served from the node closest to the browser.</span></p>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee19db06 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee19db06 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -73,11 +73,11 @@ require('include/othernav.php');
                            <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp" >
                               <div class="wpb_wrapper">
                                  <div class="heading head-left"></div>
-                                 <p><strong>Hyginos Technologies</strong> is a reputed PHP development company offering comprehensive PHP web development solutions to a widespread clientele. Our bespoke PHP web development are aimed at helping big and small enterprises meet their business objectives with sheer ease whilst simplifying their work-flow and organizational structure at all levels.</p>
+                                 <p><strong>Hyginos </strong> is a reputed PHP development company offering comprehensive PHP web development solutions to a widespread clientele. Our bespoke PHP web development are aimed at helping big and small enterprises meet their business objectives with sheer ease whilst simplifying their work-flow and organizational structure at all levels.</p>
                                  <p>Low operational costs and increased ROI are guaranteed, if you choose <strong>Hyginos </strong> for PHP web development solutions. Hire PHP developers for all round PHP solutions.</p>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee19f180 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee19f180 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -103,14 +103,14 @@ require('include/othernav.php');
                                        <div class="heading head-left">
                                           <div class="heading head-left">
                                              <div class="heading head-left"></div>
-                                             <p>Looking for top notch bespoke ASP.net development solutions? <strong>Hyginos Technolgy</strong> got to be your preferred destination then. We offer comprehensive ASP.NET development solutions which includes ASP dotnet conslutation, application development, migration and various integrated ASP.NET services.</p>
+                                             <p>Looking for top notch bespoke ASP.net development solutions? <strong>Hyginos </strong> got to be your preferred destination then. We offer comprehensive ASP.NET development solutions which includes ASP dotnet conslutation, application development, migration and various integrated ASP.NET services.</p>
                                           </div>
                                        </div>
                                     </div>
                                  </div>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee19faa9 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee19faa9 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -136,7 +136,7 @@ require('include/othernav.php');
                         <div class="wpb_wrapper">
                            <div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_rotateInUpLeft rotateInUpLeft">
                               <figure class="wpb_wrapper vc_figure">
-                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="wp-content/uploads/2021/02/code-igniter-web-development-1.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" srcset="https://Hyginostechnologies.com/wp-content/uploads/2021/02/code-igniter-web-development-1.png 600w, https://Hyginostechnologies.com/wp-content/uploads/2021/02/code-igniter-web-development-1-300x200.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></div>
+                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="wp-content/uploads/2021/02/code-igniter-web-development-1.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" srcset="https://aarvytechnologies.com/wp-content/uploads/2021/02/code-igniter-web-development-1.png 600w, https://aarvytechnologies.com/wp-content/uploads/2021/02/code-igniter-web-development-1-300x200.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></div>
                               </figure>
                            </div>
                         </div>
@@ -170,7 +170,7 @@ require('include/othernav.php');
                                                                            <div class="heading head-left">
                                                                               <div class="heading head-left">
                                                                                  <div class="heading head-left"></div>
-                                                                                 <p><span><strong>Hyginos Technolgy</strong> is one of the top Codeigniter development company in India. We have developed many Websites on Codeigniter MVC framework. <strong>Hyginos Technolgy</strong> team members are young and well trained, so we always keep update ourselves with latest versions of Codeigniter, therefore we are producing the beneficial result to our extreme clients.</span><br />
+                                                                                 <p><span><strong>Hyginos </strong> is one of the top Codeigniter development company in India. We have developed many Websites on Codeigniter MVC framework. <strong>Hyginos </strong> team members are young and well trained, so we always keep update ourselves with latest versions of Codeigniter, therefore we are producing the beneficial result to our extreme clients.</span><br />
                                                                                     <span>CodeIgniter is an Open source web application framework for utilize in creating dynamic web sites with PHP. It’s a powerful PHP framework, which allows a simple and elegant toolkit, to build a full- featured dynamic web application for the PHP developers. CodeIgniter is entirely based on the popular model view controller development model.Codeigniter is a lightweight web application frame written in PHP that accepts the model-view-controller approach to development. Codeigniter is based on model view controller (MVC) architecture is well-suited with standard shared hosting accounts.</span>
                                                                                  </p>
                                                                               </div>
@@ -191,7 +191,7 @@ require('include/othernav.php');
                                  </div>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee1a0f27 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee1a0f27 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -221,7 +221,7 @@ require('include/othernav.php');
                                  </div>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee1a18ed class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee1a18ed class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -281,7 +281,7 @@ require('include/othernav.php');
                                                                            <div class="heading head-left">
                                                                               <div class="heading head-left">
                                                                                  <div class="heading head-left"></div>
-                                                                                 <p><span><strong>Hyginos Technolgy</strong> offering superb services in Node JS development to clients for businesses.</span></p>
+                                                                                 <p><span><strong>Hyginos </strong> offering superb services in Node JS development to clients for businesses.</span></p>
                                                                                  <p><span><b>Hyginos </b> is the finest Node JS API development firm in India helping clients to manage high- speed facts and augment the data exchange besides retrieval presentation through innovative initiative web solutions. </span></p>
                                                                                  <p><span>We influence the forte of Node JS to form high performing actual time web uses. We offer services on following grounds which is appreciated by our business clients.</span><span>well-suited with standard shared hosting accounts.</span></p>
                                                                               </div>
@@ -302,7 +302,7 @@ require('include/othernav.php');
                                  </div>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee1a2d04 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee1a2d04 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -331,7 +331,7 @@ require('include/othernav.php');
                                                 <div class="heading head-left">
                                                    <div class="heading head-left">
                                                       <div class="heading head-left"></div>
-                                                      <p><span><strong>At Hyginos Technolgy, </strong>O</span>ur developers have been providing Laravel application development services for years. With qualified staff and impressive infrastructure, we can fulfill our client’s all the business application requirements easily. We follow all the standards for coding to improve the user experience.</p>
+                                                      <p><span><strong>At Hyginos , </strong>O</span>ur developers have been providing Laravel application development services for years. With qualified staff and impressive infrastructure, we can fulfill our client’s all the business application requirements easily. We follow all the standards for coding to improve the user experience.</p>
                                                       <p>Having years of experience in web development and mobile development, we, at Hyginos  provide a top-notch solution that reflects your objectives in an appropriate timeline. By using the additional functionalities of Laravel, we work hard to achieve provide you the platform through which you can achieve your desired goals and beat your competitors.</p>
                                                       <p><span></span><span>well-suited with standard shared hosting accounts.</span></p>
                                                    </div>
@@ -343,7 +343,7 @@ require('include/othernav.php');
                                  </div>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee1a372f class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee1a372f class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -392,7 +392,7 @@ require('include/othernav.php');
                                  </div>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee1a4acd class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee1a4acd class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -431,7 +431,7 @@ require('include/othernav.php');
                                  </div>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee1a54e1 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee1a54e1 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -478,7 +478,7 @@ require('include/othernav.php');
                                  <p><strong>Hyginos </strong> is an esteemed Drupal development company with a proven track record and unparalleled experience in offering robust, cutting-edge and innovative drupal web development solutions. With an emphasis on customization and scalability, our team of experts are known for remarkable drupal development offerings that make a difference.</p>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee1a6860 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee1a6860 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -518,7 +518,7 @@ require('include/othernav.php');
                                  </div>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee1a71a3 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee1a71a3 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -544,7 +544,7 @@ require('include/othernav.php');
                         <div class="wpb_wrapper">
                            <div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_rotateInDownRight rotateInDownRight">
                               <figure class="wpb_wrapper vc_figure">
-                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="2621" height="512" src="wp-content/uploads/2021/02/5848185bcef1014c0b5e49a4-1.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" srcset="https://Hyginostechnologies.com/wp-content/uploads/2021/02/5848185bcef1014c0b5e49a4-1.png 2621w, https://Hyginostechnologies.com/wp-content/uploads/2021/02/5848185bcef1014c0b5e49a4-1-300x59.png 300w, https://Hyginostechnologies.com/wp-content/uploads/2021/02/5848185bcef1014c0b5e49a4-1-1024x200.png 1024w, https://Hyginostechnologies.com/wp-content/uploads/2021/02/5848185bcef1014c0b5e49a4-1-768x150.png 768w, https://Hyginostechnologies.com/wp-content/uploads/2021/02/5848185bcef1014c0b5e49a4-1-1536x300.png 1536w, https://Hyginostechnologies.com/wp-content/uploads/2021/02/5848185bcef1014c0b5e49a4-1-2048x400.png 2048w, https://Hyginostechnologies.com/wp-content/uploads/2021/02/5848185bcef1014c0b5e49a4-1-1080x211.png 1080w" sizes="(max-width: 2621px) 100vw, 2621px" /></div>
+                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="2621" height="512" src="wp-content/uploads/2021/02/5848185bcef1014c0b5e49a4-1.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" srcset="https://aarvytechnologies.com/wp-content/uploads/2021/02/5848185bcef1014c0b5e49a4-1.png 2621w, https://aarvytechnologies.com/wp-content/uploads/2021/02/5848185bcef1014c0b5e49a4-1-300x59.png 300w, https://aarvytechnologies.com/wp-content/uploads/2021/02/5848185bcef1014c0b5e49a4-1-1024x200.png 1024w, https://aarvytechnologies.com/wp-content/uploads/2021/02/5848185bcef1014c0b5e49a4-1-768x150.png 768w, https://aarvytechnologies.com/wp-content/uploads/2021/02/5848185bcef1014c0b5e49a4-1-1536x300.png 1536w, https://aarvytechnologies.com/wp-content/uploads/2021/02/5848185bcef1014c0b5e49a4-1-2048x400.png 2048w, https://aarvytechnologies.com/wp-content/uploads/2021/02/5848185bcef1014c0b5e49a4-1-1080x211.png 1080w" sizes="(max-width: 2621px) 100vw, 2621px" /></div>
                               </figure>
                            </div>
                         </div>
@@ -565,7 +565,7 @@ require('include/othernav.php');
                                  <p><strong>Hyginos </strong> <span>is a professional team can help you design your site from scratch, add the necessary functionalities and configure the site for your needs. We also offer OpenCart theme Customization &amp; OpenCart Templates, OpenCart module customization, Support &amp; Maintenance.</span></p>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee1a856d class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee1a856d class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -596,7 +596,7 @@ require('include/othernav.php');
                                  </div>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee1a8e9b class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee1a8e9b class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -622,7 +622,7 @@ require('include/othernav.php');
                         <div class="wpb_wrapper">
                            <div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_slideInUp slideInUp">
                               <figure class="wpb_wrapper vc_figure">
-                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="401" height="88" src="wp-content/uploads/2021/02/adnsf-logo-95-lt-bg.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" srcset="https://Hyginostechnologies.com/wp-content/uploads/2021/02/adnsf-logo-95-lt-bg.png 401w, https://Hyginostechnologies.com/wp-content/uploads/2021/02/adnsf-logo-95-lt-bg-300x66.png 300w" sizes="(max-width: 401px) 100vw, 401px" /></div>
+                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="401" height="88" src="wp-content/uploads/2021/02/adnsf-logo-95-lt-bg.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" srcset="https://aarvytechnologies.com/wp-content/uploads/2021/02/adnsf-logo-95-lt-bg.png 401w, https://aarvytechnologies.com/wp-content/uploads/2021/02/adnsf-logo-95-lt-bg-300x66.png 300w" sizes="(max-width: 401px) 100vw, 401px" /></div>
                               </figure>
                            </div>
                         </div>
@@ -662,7 +662,7 @@ require('include/othernav.php');
                                  </div>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee1aa2ad class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee1aa2ad class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -697,7 +697,7 @@ require('include/othernav.php');
                                  </div>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee1aac1d class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee1aac1d class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -706,7 +706,7 @@ require('include/othernav.php');
                         <div class="wpb_wrapper">
                            <div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_rotateInUpLeft rotateInUpLeft">
                               <figure class="wpb_wrapper vc_figure">
-                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1500" height="630" src="wp-content/uploads/2021/02/dnn-website-developing-in-banglore.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" srcset="https://Hyginostechnologies.com/wp-content/uploads/2021/02/dnn-website-developing-in-banglore.png 1500w, https://Hyginostechnologies.com/wp-content/uploads/2021/02/dnn-website-developing-in-banglore-300x126.png 300w, https://Hyginostechnologies.com/wp-content/uploads/2021/02/dnn-website-developing-in-banglore-1024x430.png 1024w, https://Hyginostechnologies.com/wp-content/uploads/2021/02/dnn-website-developing-in-banglore-768x323.png 768w, https://Hyginostechnologies.com/wp-content/uploads/2021/02/dnn-website-developing-in-banglore-1080x454.png 1080w" sizes="(max-width: 1500px) 100vw, 1500px" /></div>
+                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1500" height="630" src="wp-content/uploads/2021/02/dnn-website-developing-in-banglore.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" srcset="https://aarvytechnologies.com/wp-content/uploads/2021/02/dnn-website-developing-in-banglore.png 1500w, https://aarvytechnologies.com/wp-content/uploads/2021/02/dnn-website-developing-in-banglore-300x126.png 300w, https://aarvytechnologies.com/wp-content/uploads/2021/02/dnn-website-developing-in-banglore-1024x430.png 1024w, https://aarvytechnologies.com/wp-content/uploads/2021/02/dnn-website-developing-in-banglore-768x323.png 768w, https://aarvytechnologies.com/wp-content/uploads/2021/02/dnn-website-developing-in-banglore-1080x454.png 1080w" sizes="(max-width: 1500px) 100vw, 1500px" /></div>
                               </figure>
                            </div>
                         </div>
@@ -757,7 +757,7 @@ require('include/othernav.php');
                                  </div>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee1ac1ae class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee1ac1ae class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -794,7 +794,7 @@ require('include/othernav.php');
                                  </div>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee1acadd class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee1acadd class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -856,7 +856,7 @@ require('include/othernav.php');
                                  </div>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee1ade90 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee1ade90 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -895,7 +895,7 @@ require('include/othernav.php');
                                  </div>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee1ae7fb class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee1ae7fb class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -958,7 +958,7 @@ require('include/othernav.php');
                                  </div>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee1afbbc class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee1afbbc class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>

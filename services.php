@@ -9,7 +9,7 @@ require('include/othernav.php');
          <div class='page-header_content'>
             <h1 class='page-header_title' style="color:#252525; font-size:42px; line-height:54px;">Services</h1>
             <div class='page-header_breadcrumbs' style="color:#252525; font-size:16px; line-height:34px;">
-               <div class="breadcrumbs"><a href="index.html" class="home">Home</a> <span class="divider"></span> <span class="current">Services</span></div>
+               <div class="breadcrumbs"><a href="index.php" class="home">Home</a> <span class="divider"></span> <span class="current">Services</span></div>
                <!-- .breadcrumbs -->
             </div>
          </div>
@@ -46,7 +46,7 @@ require('include/othernav.php');
                                  <div><span>Our team of designing experts combine technical acumen with innovation for quality deliverables. Whether its aesthetics or functionality, you can rely on us for an end product that takes your business to an all new level.</span></div>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee15ff97 class="seofy_module_button wgl_button wgl_button-s wgl_button-icon_right button_color aleft wpb_animate_when_almost_visible wpb_zoomIn zoomIn"><a href="website-design-development/index.html" title='Website Design &amp; Development' target="_blank" style="border-width:1px; margin-top:20px; " class="wgl_button_link">View More<i class="wgl_button-icon fas fa-angle-right" ></i></a></div>
+                           <div id=seofy_button_60657ee15ff97 class="seofy_module_button wgl_button wgl_button-s wgl_button-icon_right button_color aleft wpb_animate_when_almost_visible wpb_zoomIn zoomIn"><a href="websitedevelopment.php" title='Website Design &amp; Development' target="_blank" style="border-width:1px; margin-top:20px; " class="wgl_button_link">View More<i class="wgl_button-icon fas fa-angle-right" ></i></a></div>
                         </div>
                      </div>
                   </div>
@@ -92,7 +92,7 @@ require('include/othernav.php');
                                  <p><span>Mobile applications nowadays have become a necessity. Whether it’s gaming industry, e-commerce or utility sector, mobile applications are the most popular trend and are taking place in the digital industry at an extensive pace. With appropriate and reliable frontend and backend implementations, we are leading the mobile app development industry with an edge to edge competition. To expand the businesses and for a broader business goal, you must go for mobile app development to engage with the audience in a better and enhanced way.</span></p>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee1616d0 class="seofy_module_button wgl_button wgl_button-s wgl_button-icon_right button_color aleft wpb_animate_when_almost_visible wpb_zoomIn zoomIn"><a href="mobile-development/index.html" title='Website Design &amp; Development' target="_blank" style="border-width:1px; margin-top:20px; " class="wgl_button_link">View More<i class="wgl_button-icon fas fa-angle-right" ></i></a></div>
+                           <div id=seofy_button_60657ee1616d0 class="seofy_module_button wgl_button wgl_button-s wgl_button-icon_right button_color aleft wpb_animate_when_almost_visible wpb_zoomIn zoomIn"><a href="mobile-develpment.php" title='Website Design &amp; Development' target="_blank" style="border-width:1px; margin-top:20px; " class="wgl_button_link">View More<i class="wgl_button-icon fas fa-angle-right" ></i></a></div>
                         </div>
                      </div>
                   </div>
@@ -116,7 +116,7 @@ require('include/othernav.php');
                                  <p><span>Result-oriented digital marketing is the need of the hour. A great strategy for your venture and a well-executed plan is critical for the success in this extremely competitive digital market. Are you looking for a professional digital marketing service provider in Delhi? Look no further! For your brand recognition among the targeted audience, our team of experts is there to deliver reliable solutions as per your expectations!</span></p>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee1620e4 class="seofy_module_button wgl_button wgl_button-s wgl_button-icon_right button_color aleft wpb_animate_when_almost_visible wpb_zoomIn zoomIn"><a href="digital-marketing/index.html" title='Website Design &amp; Development' target="_blank" style="border-width:1px; margin-top:20px; " class="wgl_button_link">View More<i class="wgl_button-icon fas fa-angle-right" ></i></a></div>
+                           <div id=seofy_button_60657ee1620e4 class="seofy_module_button wgl_button wgl_button-s wgl_button-icon_right button_color aleft wpb_animate_when_almost_visible wpb_zoomIn zoomIn"><a href="digital-marketing.php" title='Website Design &amp; Development' target="_blank" style="border-width:1px; margin-top:20px; " class="wgl_button_link">View More<i class="wgl_button-icon fas fa-angle-right" ></i></a></div>
                         </div>
                      </div>
                   </div>
@@ -162,7 +162,7 @@ require('include/othernav.php');
                                  <p><span>User Interaction is pivotal and it’s the design that appeals the users to stay for a long duration at your digital platform. A well-structured design with appealing elements in it will surely capture the eyeballs and engage the users significantly. For captivating U/UX solutions, connect with our skilled professionals, which will help you in designing a spellbound user interface design with a commitment of improved user experience.</span></p>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee1634d8 class="seofy_module_button wgl_button wgl_button-s wgl_button-icon_right button_color aleft wpb_animate_when_almost_visible wpb_zoomIn zoomIn"><a href="ui-ux-development/index.html" title='Website Design &amp; Development' target="_blank" style="border-width:1px; margin-top:20px; " class="wgl_button_link">View More<i class="wgl_button-icon fas fa-angle-right" ></i></a></div>
+                           <div id=seofy_button_60657ee1634d8 class="seofy_module_button wgl_button wgl_button-s wgl_button-icon_right button_color aleft wpb_animate_when_almost_visible wpb_zoomIn zoomIn"><a href="ui-ux-development.php" title='Website Design &amp; Development' target="_blank" style="border-width:1px; margin-top:20px; " class="wgl_button_link">View More<i class="wgl_button-icon fas fa-angle-right" ></i></a></div>
                         </div>
                      </div>
                   </div>
@@ -191,7 +191,7 @@ require('include/othernav.php');
                                  </p>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee163e2f class="seofy_module_button wgl_button wgl_button-s wgl_button-icon_right button_color aleft wpb_animate_when_almost_visible wpb_zoomIn zoomIn"><a href="softwere-development/index.html" title='Website Design &amp; Development' target="_blank" style="border-width:1px; margin-top:20px; " class="wgl_button_link">View More<i class="wgl_button-icon fas fa-angle-right" ></i></a></div>
+                           <div id=seofy_button_60657ee163e2f class="seofy_module_button wgl_button wgl_button-s wgl_button-icon_right button_color aleft wpb_animate_when_almost_visible wpb_zoomIn zoomIn"><a href="softwere-development.php" title='Website Design &amp; Development' target="_blank" style="border-width:1px; margin-top:20px; " class="wgl_button_link">View More<i class="wgl_button-icon fas fa-angle-right" ></i></a></div>
                         </div>
                      </div>
                   </div>

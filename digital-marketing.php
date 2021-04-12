@@ -11,7 +11,7 @@ require('include/othernav.php');
          <div class='page-header_content'>
             <h1 class='page-header_title' style="color:#252525; font-size:42px; line-height:54px;">Digital Marketing</h1>
             <div class='page-header_breadcrumbs' style="color:#252525; font-size:16px; line-height:34px;">
-               <div class="breadcrumbs"><a href="index.html" class="home">Home</a> <span class="divider"></span> <span class="current">Digital Marketing</span></div>
+               <div class="breadcrumbs"><a href="index.php" class="home">Home</a> <span class="divider"></span> <span class="current">Digital Marketing</span></div>
                <!-- .breadcrumbs -->
             </div>
          </div>
@@ -52,7 +52,7 @@ require('include/othernav.php');
                                  <p style="text-align: left;"><span>For business succcess, it is important to have more traffic driven to your website; however, what’s more important is to have relevant and right traffic driven. Hyginos well thought out SEM solutions are focused on conversion. Our solutions are aimed at enhancing business reach to potential customers and convert them into loyal customers for recurring business opportunities.</span></p>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee50603e class="seofy_module_button wgl_button wgl_button-s button_color aleft wpb_animate_when_almost_visible wpb_fadeInDown fadeInDown"><a href="contact-us/index.html" title='Contact Us' target="_blank" style="border-width:1px; margin-top:10px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee50603e class="seofy_module_button wgl_button wgl_button-s button_color aleft wpb_animate_when_almost_visible wpb_fadeInDown fadeInDown"><a href="contactus.php" title='Contact Us' target="_blank" style="border-width:1px; margin-top:10px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -98,7 +98,7 @@ require('include/othernav.php');
                                  <p><span>Social media has revolutionised this planet. It has completely changed the way people communicate and connect.Social media marketing allows your business to encourage your target market to regularly interact with your brand and make them your brand advocates. With a well planned social media strategy, we can help your business generate more leads, increase customer engagement, create more more brand awareness, bring consistent traffic to your website, and create a new direct revenue stream for your website or store.</span></p>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee507634 class="seofy_module_button wgl_button wgl_button-s button_color aleft wpb_animate_when_almost_visible wpb_fadeInDown fadeInDown"><a href="contact-us/index.html" title='Contact Us' target="_blank" style="border-width:1px; margin-top:10px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee507634 class="seofy_module_button wgl_button wgl_button-s button_color aleft wpb_animate_when_almost_visible wpb_fadeInDown fadeInDown"><a href="contactus.php" title='Contact Us' target="_blank" style="border-width:1px; margin-top:10px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -121,7 +121,7 @@ require('include/othernav.php');
                                  <p style="text-align: left;"><span>You might be aware that more than 90 percent of internet users don’t bother to check out websites on the second page of Google. Good news is that Hyginos search engine optimization (SEO) solutions are there at your disposal. Inspite of the ever increasing stiff competition,Hyginos has a proven track record of not only assisting businesses rank on the first page, but maintain good ranking as well.</span></p>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee507f95 class="seofy_module_button wgl_button wgl_button-s button_color aleft wpb_animate_when_almost_visible wpb_fadeInDown fadeInDown"><a href="contact-us/index.html" title='Contact Us' target="_blank" style="border-width:1px; margin-top:10px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee507f95 class="seofy_module_button wgl_button wgl_button-s button_color aleft wpb_animate_when_almost_visible wpb_fadeInDown fadeInDown"><a href="contactus.php" title='Contact Us' target="_blank" style="border-width:1px; margin-top:10px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -176,7 +176,7 @@ require('include/othernav.php');
                                  </section>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee5092e9 class="seofy_module_button wgl_button wgl_button-s button_color aleft wpb_animate_when_almost_visible wpb_fadeInDown fadeInDown"><a href="contact-us/index.html" title='Contact Us' target="_blank" style="border-width:1px; margin-top:10px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee5092e9 class="seofy_module_button wgl_button wgl_button-s button_color aleft wpb_animate_when_almost_visible wpb_fadeInDown fadeInDown"><a href="contactus.php" title='Contact Us' target="_blank" style="border-width:1px; margin-top:10px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -199,7 +199,7 @@ require('include/othernav.php');
                                  <p style="text-align: left;"><span>Hyginos affiliate marketing services are aimed at aiding merchants showcase their products/services online in an impressive fashion. Our affiliate marketing experts create a robust strategy which helps greater ROI, lead generation and business growth in due course of time.</span></p>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee509be4 class="seofy_module_button wgl_button wgl_button-s button_color aleft wpb_animate_when_almost_visible wpb_fadeInDown fadeInDown"><a href="contact-us/index.html" title='Contact Us' target="_blank" style="border-width:1px; margin-top:10px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee509be4 class="seofy_module_button wgl_button wgl_button-s button_color aleft wpb_animate_when_almost_visible wpb_fadeInDown fadeInDown"><a href="contactus.php" title='Contact Us' target="_blank" style="border-width:1px; margin-top:10px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -254,7 +254,7 @@ require('include/othernav.php');
                                  </section>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee50aed0 class="seofy_module_button wgl_button wgl_button-s button_color aleft wpb_animate_when_almost_visible wpb_fadeInDown fadeInDown"><a href="contact-us/index.html" title='Contact Us' target="_blank" style="border-width:1px; margin-top:10px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee50aed0 class="seofy_module_button wgl_button wgl_button-s button_color aleft wpb_animate_when_almost_visible wpb_fadeInDown fadeInDown"><a href="contactus.php" title='Contact Us' target="_blank" style="border-width:1px; margin-top:10px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>

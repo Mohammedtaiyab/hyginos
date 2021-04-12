@@ -10,7 +10,7 @@ require('include/othernav.php');
          <div class='page-header_content'>
             <h1 class='page-header_title' style="color:#252525; font-size:42px; line-height:54px;">Ui / Ux Development</h1>
             <div class='page-header_breadcrumbs' style="color:#252525; font-size:16px; line-height:34px;">
-               <div class="breadcrumbs"><a href="index.html" class="home">Home</a> <span class="divider"></span> <span class="current">Ui / Ux Development</span></div>
+               <div class="breadcrumbs"><a href="index.php" class="home">Home</a> <span class="divider"></span> <span class="current">Ui / Ux Development</span></div>
                <!-- .breadcrumbs -->
             </div>
          </div>
@@ -147,7 +147,7 @@ require('include/othernav.php');
                   <div class="wpb_column vc_column_container vc_col-sm-12">
                      <div class="vc_column-inner ">
                         <div class="wpb_wrapper">
-                           <div id=seofy_button_60657ee7b955f class="seofy_module_button wgl_button wgl_button-s button_color acenter wpb_animate_when_almost_visible wpb_appear appear"><a href="contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee7b955f class="seofy_module_button wgl_button wgl_button-s button_color acenter wpb_animate_when_almost_visible wpb_appear appear"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>

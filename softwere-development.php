@@ -12,7 +12,7 @@ require('include/othernav.php');
          <div class='page-header_content'>
             <h1 class='page-header_title' style="color:#252525; font-size:42px; line-height:54px;">Softwere Development</h1>
             <div class='page-header_breadcrumbs' style="color:#252525; font-size:16px; line-height:34px;">
-               <div class="breadcrumbs"><a href="../index.html" class="home">Home</a> <span class="divider"></span> <span class="current">Softwere Development</span></div>
+               <div class="breadcrumbs"><a href="index.php" class="home">Home</a> <span class="divider"></span> <span class="current">Softwere Development</span></div>
                <!-- .breadcrumbs -->
             </div>
          </div>
@@ -54,7 +54,7 @@ require('include/othernav.php');
                         <div class="wpb_wrapper">
                            <div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_fadeInDown fadeInDown">
                               <figure class="wpb_wrapper vc_figure">
-                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1012" height="370" src="../wp-content/uploads/2021/02/software-gif.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
+                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1012" height="370" src="wp-content/uploads/2021/02/software-gif.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
                               </figure>
                            </div>
                         </div>
@@ -127,7 +127,7 @@ require('include/othernav.php');
                         <div class="wpb_wrapper">
                            <div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp">
                               <figure class="wpb_wrapper vc_figure">
-                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1162" height="1064" src="../wp-content/uploads/2021/02/software-development-team.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" srcset="https://aarvytechnologies.com/wp-content/uploads/2021/02/software-development-team.png 1162w, https://aarvytechnologies.com/wp-content/uploads/2021/02/software-development-team-300x275.png 300w, https://aarvytechnologies.com/wp-content/uploads/2021/02/software-development-team-1024x938.png 1024w, https://aarvytechnologies.com/wp-content/uploads/2021/02/software-development-team-768x703.png 768w, https://aarvytechnologies.com/wp-content/uploads/2021/02/software-development-team-1080x989.png 1080w" sizes="(max-width: 1162px) 100vw, 1162px" /></div>
+                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1162" height="1064" src="wp-content/uploads/2021/02/software-development-team.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" srcset="https://aarvytechnologies.com/wp-content/uploads/2021/02/software-development-team.png 1162w, https://aarvytechnologies.com/wp-content/uploads/2021/02/software-development-team-300x275.png 300w, https://aarvytechnologies.com/wp-content/uploads/2021/02/software-development-team-1024x938.png 1024w, https://aarvytechnologies.com/wp-content/uploads/2021/02/software-development-team-768x703.png 768w, https://aarvytechnologies.com/wp-content/uploads/2021/02/software-development-team-1080x989.png 1080w" sizes="(max-width: 1162px) 100vw, 1162px" /></div>
                               </figure>
                            </div>
                         </div>

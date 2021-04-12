@@ -68,5 +68,8 @@
       <script type='text/javascript' src='wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.mine6df.js?ver=6.5.0' id='vc_waypoints-js'></script>
       <script type='text/javascript' src='wp-content/themes/seofy/js/jquery.appeare23c.js?ver=5.7' id='appear-js'></script>
       <script type="text/javascript" id="wgl_custom_footer_js"></script>    
+      <script>
+
+      </script>
    </body>
 </html>

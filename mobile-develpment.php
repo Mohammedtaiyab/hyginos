@@ -12,7 +12,7 @@ require('include/othernav.php');
          <div class='page-header_content'>
             <h1 class='page-header_title' style="color:#252525; font-size:42px; line-height:54px;">Mobile Development</h1>
             <div class='page-header_breadcrumbs' style="color:#252525; font-size:16px; line-height:34px;">
-               <div class="breadcrumbs"><a href="../index.html" class="home">Home</a> <span class="divider"></span> <span class="current">Mobile Development</span></div>
+               <div class="breadcrumbs"><a href="index.php" class="home">Home</a> <span class="divider"></span> <span class="current">Mobile Development</span></div>
                <!-- .breadcrumbs -->
             </div>
          </div>
@@ -38,11 +38,11 @@ require('include/othernav.php');
                            <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bounceInLeft bounceInLeft" >
                               <div class="wpb_wrapper">
                                  <div class="heading head-left"></div>
-                                 <p><strong>Aarvy Technology</strong> is an established android app development firm based in Delhi, India with an enviable client base across the orb. With profound expertise in the domain, our android app development experts offer rich and cutting edge app development solutions that empower your business with that extra edge.</p>
-                                 <p><span>At <strong>Aarvy Technology</strong>, you can expect fully automated and highly scalable android apps that complement the growth of your business. Mobility is vital to your business as mobile users have already outnumbered desktop users. Our android developers are dedicated to help you with your idea from the scratch. From ideation through to back end integration, our team of android consultants and design and development experts can be counted upon.</span></p>
+                                 <p><strong>Hyginos </strong> is an established android app development firm based in Delhi, India with an enviable client base across the orb. With profound expertise in the domain, our android app development experts offer rich and cutting edge app development solutions that empower your business with that extra edge.</p>
+                                 <p><span>At <strong>Hyginos </strong>, you can expect fully automated and highly scalable android apps that complement the growth of your business. Mobility is vital to your business as mobile users have already outnumbered desktop users. Our android developers are dedicated to help you with your idea from the scratch. From ideation through to back end integration, our team of android consultants and design and development experts can be counted upon.</span></p>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee420726 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="../contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee420726 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -51,7 +51,7 @@ require('include/othernav.php');
                         <div class="wpb_wrapper">
                            <div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_flipInY flipInY">
                               <figure class="wpb_wrapper vc_figure">
-                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="800" height="600" src="../wp-content/uploads/2021/02/piechart.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
+                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="800" height="600" src="wp-content/uploads/2021/02/piechart.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
                               </figure>
                            </div>
                         </div>
@@ -68,7 +68,7 @@ require('include/othernav.php');
                         <div class="wpb_wrapper">
                            <div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_flipInY flipInY">
                               <figure class="wpb_wrapper vc_figure">
-                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="800" height="600" src="../wp-content/uploads/2021/02/Real-Estate-Web-App-.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
+                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="800" height="600" src="wp-content/uploads/2021/02/Real-Estate-Web-App-.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
                               </figure>
                            </div>
                         </div>
@@ -91,7 +91,7 @@ require('include/othernav.php');
                                  <p>Planning to build a feature-enriched iPhone/iPad app at a low price and within a stipulated time-frame? Our offshore iOS programmers can definitely help you in this regard! Hire iOS developers on an hourly or full time (dedicated monthly) basis from us and build feature-rich, interactive and secure mobile apps as per your business needs while saving up to 60% of development cost.</p>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee421d29 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="../contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee421d29 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -113,11 +113,11 @@ require('include/othernav.php');
                            <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInLeftBig fadeInLeftBig" >
                               <div class="wpb_wrapper">
                                  <div class="heading head-left"></div>
-                                 <p><strong>At Aarvy Technology</strong> <span>, we are very well adept with every single feature of Flutter and know how to exploit it to deliver solutions that meet your needs. While Flutter offers a variety of widgets and appealing UI, our developers make it even more attractive and improve its robustness by utilizing their years of experience.</span></p>
+                                 <p><strong>At Hyginos </strong> <span>, we are very well adept with every single feature of Flutter and know how to exploit it to deliver solutions that meet your needs. While Flutter offers a variety of widgets and appealing UI, our developers make it even more attractive and improve its robustness by utilizing their years of experience.</span></p>
                                  <p><span> We are a leading Flutter app development company that is committed to helping businesses around the globe by creating modern apps that not only attract more users, but convert them into customers. So, choose our </span><strong>Flutter developers for hire<span> </span></strong><span>today to build versatile mobile applications and fulfill all your dreams.</span></p>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee422651 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="../contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee422651 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -126,7 +126,7 @@ require('include/othernav.php');
                         <div class="wpb_wrapper">
                            <div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_flipInX flipInX">
                               <figure class="wpb_wrapper vc_figure">
-                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="364" src="../wp-content/uploads/2021/02/5eebde66395a96021b665dd4_flutter-slides-4-pillars.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
+                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="364" src="wp-content/uploads/2021/02/5eebde66395a96021b665dd4_flutter-slides-4-pillars.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
                               </figure>
                            </div>
                         </div>
@@ -143,7 +143,7 @@ require('include/othernav.php');
                         <div class="wpb_wrapper">
                            <div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_flipInY flipInY">
                               <figure class="wpb_wrapper vc_figure">
-                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1400" height="800" src="../wp-content/uploads/2021/02/mobile-gif.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
+                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1400" height="800" src="wp-content/uploads/2021/02/mobile-gif.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
                               </figure>
                            </div>
                         </div>
@@ -166,7 +166,7 @@ require('include/othernav.php');
                                  <p>Hire us for devlop your app on <strong>React Native Platform.</strong></p>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee4239b3 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="../contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee4239b3 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -188,11 +188,11 @@ require('include/othernav.php');
                            <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft" >
                               <div class="wpb_wrapper">
                                  <div class="heading head-left"></div>
-                                 <p><strong>At Aarvy Technology</strong> <span>, we are very well adept with every single feature of Flutter and know how to exploit it to deliver solutions that meet your needs. While Flutter offers a variety of widgets and appealing UI, our developers make it even more attractive and improve its robustness by utilizing their years of experience.</span></p>
+                                 <p><strong>At Hyginos </strong> <span>, we are very well adept with every single feature of Flutter and know how to exploit it to deliver solutions that meet your needs. While Flutter offers a variety of widgets and appealing UI, our developers make it even more attractive and improve its robustness by utilizing their years of experience.</span></p>
                                  <p><span> We are a leading Flutter app development company that is committed to helping businesses around the globe by creating modern apps that not only attract more users, but convert them into customers. So, choose our </span><strong>Flutter developers for hire<span> </span></strong><span>today to build versatile mobile applications and fulfill all your dreams.</span></p>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee4242e6 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="../contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee4242e6 class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
@@ -201,7 +201,7 @@ require('include/othernav.php');
                         <div class="wpb_wrapper">
                            <div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_flipInY flipInY">
                               <figure class="wpb_wrapper vc_figure">
-                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="800" height="600" src="../wp-content/uploads/2021/02/6ee4ceab4040a6d20b9b28e137b4c54e.gif" class="vc_single_image-img attachment-large" alt="" loading="lazy" /></div>
+                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="800" height="600" src="wp-content/uploads/2021/02/6ee4ceab4040a6d20b9b28e137b4c54e.gif" class="vc_single_image-img attachment-large" alt="" loading="lazy" /></div>
                               </figure>
                            </div>
                         </div>
@@ -218,7 +218,7 @@ require('include/othernav.php');
                         <div class="wpb_wrapper">
                            <div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_flipInY flipInY">
                               <figure class="wpb_wrapper vc_figure">
-                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="631" height="423" src="../wp-content/uploads/2021/02/6r4s1My.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
+                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="631" height="423" src="wp-content/uploads/2021/02/6r4s1My.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
                               </figure>
                            </div>
                         </div>
@@ -240,7 +240,7 @@ require('include/othernav.php');
                                  <p>We assist you from the point of game conceptualization to develop the actual game to debugging and pilot testing your game.</p>
                               </div>
                            </div>
-                           <div id=seofy_button_60657ee4255fa class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="../contact-us/index.html" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                           <div id=seofy_button_60657ee4255fa class="seofy_module_button wgl_button wgl_button-s button_color aleft"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
