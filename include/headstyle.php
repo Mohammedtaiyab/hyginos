@@ -152,8 +152,7 @@
          }
          }
       </style>
-      <style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1543332231082{margin-top: -40px !important;}.vc_custom_1613247615239{background-color: #ffffff !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1543390890855{background-image: url(wp-content/uploads/2018/11/home2-linecf45.png?id=1075) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}.vc_custom_1613246542443{background-color: #ffffff !important;}.vc_custom_1613318216840{background-color: #ffffff !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1543818928157{padding-top: 0px !important;}.vc_custom_1543818940426{padding-top: 0px !important;}.vc_custom_1543818951354{padding-top: 0px !important;}.vc_custom_1543818963587{padding-top: 0px !important;}.vc_custom_1613325993723{margin-bottom: 40px !important;}.vc_custom_1613325538517{background-image: url(https://aarvytechnologies.com/wp-content/uploads/2019/05/it_agency_layer_4.jpg?id=1775) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}</style>
-      <noscript>
+  <noscript>
          <style> .wpb_animate_when_almost_visible { opacity: 1; }</style>
       </noscript>
    </head>

@@ -34,6 +34,7 @@ Copyright (c) 2009-2019, ThemePunch. All rights reserved.
 This work is subject to the terms at https://www.themepunch.com/links/slider_revolution_wordpress_regular_license (Regular / Extended)
 
 */
+var my="background: linear-gradient(150deg, rgb(111 160 73) 0%, rgb(105 102 24) 100%);width: 100%;height: 100%;opacity: 1;transform: translate(0px, 0px);visibility: inherit;z-index: 20;";
 ! function (e, t) {
 	"use strict";
 	var i;
@@ -1211,7 +1212,7 @@ This work is subject to the terms at https://www.themepunch.com/links/slider_rev
 					height: "100%",
 					overflow: "hidden"
 				}), n.wrap("<rs-sbg-px><rs-sbg-wrap></rs-sbg-wrap></rs-sbg-px>");
-        var my="background: linear-gradient(150deg, rgb(111 160 73) 0%, rgb(105 102 24) 100%);width: 100%;height: 100%;opacity: 1;transform: translate(0px, 0px);visibility: inherit;z-index: 20;";
+      
 				var d = e(i.closestNode(n[0], "RS-SBG-WRAP")),
 					c = s.data("mediafilter"),
 					p = y(n.data(), a),
@@ -7226,3 +7227,44 @@ function (e) {
 			void 0 !== t[i] && void 0 !== t[i] && null != t[i].playingvideos && jQuery.inArray(e, t[i].playingvideos) >= 0 && t[i].playingvideos.splice(jQuery.inArray(e, t[i].playingvideos), 1)
 		}
 }(jQuery);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

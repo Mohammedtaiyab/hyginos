@@ -524,8 +524,8 @@ span.highlighter,
 }
 
 .seofy_module_button a {
-    border-color: #0a1368d6;
-    background: #091267;
+	border-color: #2b350c;
+    background: #2b350c;
 }
 
 .blog-post_meta-date,
@@ -1186,9 +1186,8 @@ h6 span {
 
 
 #seofy_button_60657ec70bf0f a {
-	color: rgba(255, 255, 255, 1);
-    background-color: rgb(8 16 96);
-    border-color: rgb(8 16 96);
+	border-color: #2b350c;
+    background: #2b350c;
 }
 
 #seofy_button_60657ec70bf0f a:hover {
@@ -1399,3 +1398,58 @@ h6 span {
 */
 
 
+.vc_custom_1543332231082 {
+	margin-top: -40px !important;
+}
+
+.vc_custom_1613247615239 {
+	background-color: #ffffff !important;
+	background-position: center !important;
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+}
+
+.vc_custom_1543390890855 {
+	background-image: url(wp-content/uploads/2018/11/home2-linecf45.png?id=1075) !important;
+	background-position: center !important;
+	background-repeat: no-repeat !important;
+	background-size: contain !important;
+}
+
+.vc_custom_1613246542443 {
+	background-color: #ffffff !important;
+}
+
+.vc_custom_1613318216840 {
+	background-color: #ffffff !important;
+	background-position: center !important;
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+}
+
+.vc_custom_1543818928157 {
+	padding-top: 0px !important;
+}
+
+.vc_custom_1543818940426 {
+	padding-top: 0px !important;
+}
+
+.vc_custom_1543818951354 {
+	padding-top: 0px !important;
+}
+
+.vc_custom_1543818963587 {
+	padding-top: 0px !important;
+}
+
+.vc_custom_1613325993723 {
+	margin-bottom: 40px !important;
+}
+
+.vc_custom_1613325538517 {
+	background-color: #709321;
+	background-position: center !important;
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+}
