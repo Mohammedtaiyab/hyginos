@@ -47,7 +47,7 @@ require('include/nav.php');
                                                 data-frame_1_mask="u:t;"
                                                 data-frame_999="o:0;st:w;sR:7900;"
                                                 style="z-index:10;font-family:Crimson Text;"
-                                                >Technology for Effective.... 
+                                                >Mobile App Development 
                                              </rs-layer>
                                              <!--
                                                 -->
@@ -80,7 +80,7 @@ require('include/nav.php');
                                                 data-frame_1_mask="u:t;"
                                                 data-frame_999="o:0;st:w;sR:7900;"
                                                 style="z-index:9;font-family:Crimson Text;"
-                                                >Technology for Feasible.... 
+                                                >UX,UI Development 
                                              </rs-layer>
                                              <!--
                                                 -->
@@ -100,13 +100,13 @@ require('include/nav.php');
                                                 data-frame_1_mask="u:t;"
                                                 data-frame_999="o:0;st:w;sR:7900;"
                                                 style="z-index:8;font-family:Crimson Text;"
-                                                >Technology for Innovators.... 
+                                                >Web Development
                                              </rs-layer>
                                              <!--
                                                 --><a
                                                 id="slider-3-slide-3-layer-26" 
                                                 class="rs-layer gradient-button rev-btn"
-                                                href="contactus.php" target="_blank" rel="noopener"
+                                                href="contactus.php" rel="noopener"
                                                 data-type="button"
                                                 data-color="rgba(255,255,255,1)"
                                                 data-xy="x:l,l,c,c;xo:722px,540px,0,0;yo:520px,523px,616px,595px;"
@@ -311,7 +311,7 @@ require('include/nav.php');
                  
 
                   
-                  <section data-vc-full-width="true" data-vc-full-width-init="false" data-vc-parallax="1.5" data-vc-parallax-o-fade="on" class="vc_section vc_section-has-fill vc_general vc_parallax vc_parallax-content-moving-fade js-vc_parallax-o-fade">
+                  <!-- <section data-vc-full-width="true" data-vc-full-width-init="false" data-vc-parallax="1.5" data-vc-parallax-o-fade="on" class="vc_section vc_section-has-fill vc_general vc_parallax vc_parallax-content-moving-fade js-vc_parallax-o-fade">
                      <div  data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1613318216840 vc_row-has-fill">
                         <div class="wpb_animate_when_almost_visible wpb_fadeInDown fadeInDown wpb_column vc_column_container vc_col-sm-12">
                            <div class="vc_column-inner ">
@@ -404,7 +404,7 @@ require('include/nav.php');
                         </div>
                      </div>
                      <div class="vc_row-full-width vc_clearfix"></div>
-                  </section>
+                  </section> -->
                   <div class="vc_row-full-width vc_clearfix"></div>
                   <div  data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1613247615239 vc_row-has-fill">
                      <div class="wpb_column vc_column_container vc_col-sm-12">
@@ -424,7 +424,7 @@ require('include/nav.php');
                                           <div  class ="seofy_module_spacing">
                                              <div class="spacing_size spacing_size-initial" style="height:19px;"></div>
                                           </div>
-                                          <div class ="seofy_module_text  wpb_animate_when_almost_visible wpb_right-to-left right-to-left" style="font-size:18px;line-height:30px;"><span>We are not seasoned professionals because we are omnichannel experts based in New Delhi, India. Be it social media marketing, web development or mobile application, we are providing a plethora of digital solutions with Innovation, quality and proficiency. We are definitely not boastful about what we do. We are just into the quality and timely deliverables for 100% customer satisfaction. That’s it!</span></div>
+                                          <div class ="seofy_module_text  wpb_animate_when_almost_visible wpb_right-to-left right-to-left" style="font-size:18px;line-height:30px;"><span>We are a Software Development Company in Pune priding itself on our Website Development services. Our experts help you make a statement by designing and maintaining an attractive and sophisticated platform built to attract more business your way, be it in the form of a website or a mobile application. We also deliver websites and apps integrated with Artificial Intelligence and Machine Learning services. Additionally, we cater to clients who are on the lookout to make an online presence using social media platforms.</span></div>
                                           <div class="seofy_module_button wgl_button wgl_button-s button_def aleft wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft"><a href="aboutus.php" title='About Us' style="border-width:1px; " class="wgl_button_link">Read More..</a></div>
                                        </div>
                                     </div>
@@ -446,7 +446,7 @@ require('include/nav.php');
                      </div>
                   </div>
                   <div class="vc_row-full-width vc_clearfix"></div>
-                  <div  class="vc_row wpb_row vc_row-fluid">
+                  <!-- <div  class="vc_row wpb_row vc_row-fluid">
                      <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-offset-2 vc_col-lg-8 vc_col-md-offset-1 vc_col-md-10">
                         <div class="vc_column-inner ">
                            <div class="wpb_wrapper">
@@ -570,7 +570,7 @@ require('include/nav.php');
                            </div>
                         </div>
                      </div>
-                  </div>
+                  </div> -->
                   <div class="vc_row-full-width vc_clearfix"></div>
                   <section data-vc-full-width="true" data-vc-full-width-init="false" class="vc_section">
                      <div  class="vc_row wpb_row vc_row-fluid">
@@ -657,62 +657,157 @@ require('include/nav.php');
                               </div>
                            </div>
                         </div>
-                        <div class="wpb_column vc_column_container vc_col-sm-1/5">
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                         <div class="wpb_column vc_column_container vc_col-sm-1/5">
                            <div class="vc_column-inner ">
                               <div class="wpb_wrapper">
                                  <div  class="wpb_single_image wpb_content_element vc_align_center">
                                     <figure class="wpb_wrapper vc_figure">
-                                       <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="2074" height="1404" src="wp-content/uploads/2021/02/b1.3-1.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
+                                       <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="2074" height="1404" src="wp-content/uploads/2021/02/cloudcomputing.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
                                     </figure>
                                  </div>
                                  <div  class ="seofy_module_spacing">
                                     <div class="spacing_size spacing_size-initial" style="height:18px;"></div>
                                  </div>
-                                 <h5 style="font-size: 16px;line-height: 1;text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft" ><a href="softwere-development.php" title="UI / UX Development">Software Development</a></h5>
+                                 <h5 style="font-size: 16px;line-height: 1;text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft" ><a href="softwere-development.php" title="Cloud">Cloud</a></h5>
                               </div>
                            </div>
                         </div>
+
+
                      </div>
-                     <div  data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1613325538517 vc_row-has-fill">
-                        <div class="wpb_column vc_column_container vc_col-sm-4">
+                     <div  class="vc_row wpb_row vc_row-fluid vc_custom_1613325993723">
+
+                      <div class="wpb_column vc_column_container vc_col-sm-1/5">
                            <div class="vc_column-inner ">
                               <div class="wpb_wrapper">
-                                 <div id=seofy_counter_60657ec723f86 class="seofy_module_counter type_fill layout_top counter_alignment_center wpb_animate_when_almost_visible wpb_fadeInRightBig fadeInRightBig">
-                                    <div class="counter_value_wrap"  style="font-weight:800; "><span class="counter_value_prefix">+</span><span class="counter_value">80</span></div>
-                                    <div class="counter_title"  style="font-weight:700; ">HAPPY CLIENTS</div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="wpb_column vc_column_container vc_col-sm-4">
-                           <div class="vc_column-inner ">
-                              <div class="wpb_wrapper">
-                                 <div id=seofy_counter_60657ec724363 class="seofy_module_counter type_default layout_top counter_alignment_center wpb_animate_when_almost_visible wpb_fadeInLeftBig fadeInLeftBig">
-                                    <div class="counter_value_wrap"  style="font-weight:800; "><span class="counter_value_prefix">+</span><span class="counter_value">4</span></div>
-                                    <div class="counter_title"  style="font-weight:700; ">YEARS OF EXPERIENCE</div>
+                                 <div  class="wpb_single_image wpb_content_element vc_align_center">
+                                    <figure class="wpb_wrapper vc_figure">
+                                       <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="2074" height="1404" src="wp-content/uploads/2021/02/ai.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
+                                    </figure>
                                  </div>
                                  <div  class ="seofy_module_spacing">
-                                    <div class="spacing_size spacing_size-initial" style="height:60px;"></div>
+                                    <div class="spacing_size spacing_size-initial" style="height:18px;"></div>
                                  </div>
+                                 <h5 style="font-size: 16px;line-height: 1;text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft" ><a href="softwere-development.php" title="Artificial Intelligence ">Artificial Intelligence </a></h5>
                               </div>
                            </div>
                         </div>
-                        <div class="wpb_column vc_column_container vc_col-sm-4">
+                     
+                          <div class="wpb_column vc_column_container vc_col-sm-1/5">
                            <div class="vc_column-inner ">
                               <div class="wpb_wrapper">
-                                 <div id=seofy_counter_60657ec724720 class="seofy_module_counter type_default layout_top counter_alignment_center wpb_animate_when_almost_visible wpb_fadeInLeftBig fadeInLeftBig">
-                                    <div class="counter_value_wrap"  style="font-weight:800; "><span class="counter_value_prefix">+</span><span class="counter_value">105</span></div>
-                                    <div class="counter_title"  style="font-weight:700; ">PROJECTS</div>
+                                 <div  class="wpb_single_image wpb_content_element vc_align_center">
+                                    <figure class="wpb_wrapper vc_figure">
+                                       <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="2074" height="1404" src="wp-content/uploads/2021/02/ml.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
+                                    </figure>
                                  </div>
+                                 <div  class ="seofy_module_spacing">
+                                    <div class="spacing_size spacing_size-initial" style="height:18px;"></div>
+                                 </div>
+                                 <h5 style="font-size: 16px;line-height: 1;text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft" ><a href="softwere-development.php" title="Machine Learning ">Machine Learning </a></h5>
                               </div>
                            </div>
                         </div>
+                     
+                     
+                     
+                        <div class="wpb_column vc_column_container vc_col-sm-1/5">
+                           <div class="vc_column-inner ">
+                              <div class="wpb_wrapper">
+                                 <div  class="wpb_single_image wpb_content_element vc_align_center">
+                                    <figure class="wpb_wrapper vc_figure">
+                                       <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="2074" height="1404" src="wp-content/uploads/2021/02/iot.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
+                                    </figure>
+                                 </div>
+                                 <div  class ="seofy_module_spacing">
+                                    <div class="spacing_size spacing_size-initial" style="height:18px;"></div>
+                                 </div>
+                                 <h5 style="font-size: 16px;line-height: 1;text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft" ><a href="softwere-development.php" title="Internet Of Things">Internet Of Things</a></h5>
+                              </div>
+                           </div>
+                        </div>
+                     
+                     
+                        <div class="wpb_column vc_column_container vc_col-sm-1/5">
+                           <div class="vc_column-inner ">
+                              <div class="wpb_wrapper">
+                                 <div  class="wpb_single_image wpb_content_element vc_align_center">
+                                    <figure class="wpb_wrapper vc_figure">
+                                       <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="2074" height="1404" src="wp-content/uploads/2021/02/itcon.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
+                                    </figure>
+                                 </div>
+                                 <div  class ="seofy_module_spacing">
+                                    <div class="spacing_size spacing_size-initial" style="height:18px;"></div>
+                                 </div>
+                                 <h5 style="font-size: 16px;line-height: 1;text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft" ><a href="softwere-development.php" title="IT Consulting">IT Consulting</a></h5>
+                              </div>
+                           </div>
+                        </div>
+                     
+                        <div class="wpb_column vc_column_container vc_col-sm-1/5">
+                           <div class="vc_column-inner ">
+                              <div class="wpb_wrapper">
+                                 <div  class="wpb_single_image wpb_content_element vc_align_center">
+                                    <figure class="wpb_wrapper vc_figure">
+                                       <div class="vc_single_image-wrapper   vc_box_border_grey">
+                                       <img width="2074" height="1404" src="wp-content/uploads/2021/02/b1.3-1.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
+                                    </figure>
+                                 </div>
+                                 <div  class ="seofy_module_spacing">
+                                    <div class="spacing_size spacing_size-initial" style="height:18px;"></div>
+                                 </div>
+                                 <h5 style="font-size: 16px;line-height: 1;text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft" ><a href="softwere-development.php" title="Testing And Quality Assurance">Testing And Quality Assurance</a></h5>
+                              </div>
+                           </div>
+                        </div> 
+                     
+                     
                      </div>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
                      <div class="vc_row-full-width vc_clearfix"></div>
                   </section>
                   <div class="vc_row-full-width vc_clearfix"></div>
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
                   <section data-vc-full-width="true" data-vc-full-width-init="false" class="vc_section vc_custom_1613246542443 vc_section-has-fill">
                      <div  class="vc_row wpb_row vc_row-fluid">
+
+                     <div id=seofy_dbl_60657ec72605d class="seofy_module_double_headings acenter   wpb_animate_when_almost_visible wpb_flipInY flipInY">
+                                    <div class="heading_subtitle" style="font-size:14px; line-height:12px; font-weight:600; ">LET&#039;S MAKE SOMETHING GREAT!</div>
+                                    <div class="heading_title" style="font-size:36px; line-height:1.333; font-weight:800; ">
+                                       <span class="heading_divider"></span>
+                                       <div>Get In Touch</div>
+                                    </div>
+                                 </div>
+                                 <div class="wpb_text_column wpb_content_element " >
+                                    <div class="wpb_wrapper">
+                                       <p style="text-align: center;padding: 10px 0px"><span>Hope you found a match ! and you would like to know more about us. Fill out the form and we will get connect with you and talk about putting together a exciting digital transformation journey for your business. Or you can always call us.</span></p>
+                                    </div>
+                                 </div>
                         <div class="wpb_column vc_column_container vc_col-sm-6">
                            <div class="vc_column-inner ">
                               <div class="wpb_wrapper">
@@ -727,59 +822,13 @@ require('include/nav.php');
                         <div class="wpb_column vc_column_container vc_col-sm-6">
                            <div class="vc_column-inner ">
                               <div class="wpb_wrapper">
-                                 <div id=seofy_dbl_60657ec725469 class="seofy_module_double_headings aleft   wpb_animate_when_almost_visible wpb_flipInY flipInY">
-                                    <div class="heading_subtitle" style="font-size:14px; line-height:12px; font-weight:600; ">Consult With Us</div>
-                                    <div class="heading_title" style="font-size:36px; line-height:1.333; font-weight:800; ">
-                                       <span class="heading_divider"></span>
-                                       <div>Free Consultation</div>
-                                    </div>
-                                 </div>
-                                 <div class="wpb_text_column wpb_content_element " >
-                                    <div class="wpb_wrapper">
-                                       <p style="text-align: left;"><span>Businesses today cross borders and regions, so you need a service provider that goes</span></p>
-                                    </div>
-                                 </div>
-                                 <div class="vc-zigzag-wrapper wpb_animate_when_almost_visible wpb_flipInY flipInY vc-zigzag-align-center">
-                                    <div class="vc-zigzag-inner" style="width: 100%;min-height: 14px;background: 0 repeat-x url(%27data_image/svg%2bxml%3butf-8%2c__xml%20version%3d_1.0_%20encoding%3d_utf/W3C/DTD%20SVG%201.1/EN_%20_http_/www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd___svg%20width%3d_14px_%20height%3d_12px_%20vi/svg_%27.56.delaye);"></div>
-                                 </div>
-                                 <div class="wpb_text_column wpb_content_element " >
-                                    <div class="wpb_wrapper">
-                                       <ul>
-                                          <li>Is the media bootable?</li>
-                                          <li>Preventive maintenance?</li>
-                                          <li>Let us know ur wish</li>
-                                       </ul>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </section>
-                  <div class="vc_row-full-width vc_clearfix"></div>
-                  <section data-vc-full-width="true" data-vc-full-width-init="false" class="vc_section">
-                     <div  class="vc_row wpb_row vc_row-fluid">
-                        <div class="wpb_column vc_column_container vc_col-sm-12">
-                           <div class="vc_column-inner ">
-                              <div class="wpb_wrapper">
-                                 <div id=seofy_dbl_60657ec72605d class="seofy_module_double_headings acenter   wpb_animate_when_almost_visible wpb_flipInY flipInY">
-                                    <div class="heading_subtitle" style="font-size:14px; line-height:12px; font-weight:600; ">LET&#039;S MAKE SOMETHING GREAT!</div>
-                                    <div class="heading_title" style="font-size:36px; line-height:1.333; font-weight:800; ">
-                                       <span class="heading_divider"></span>
-                                       <div>Get In Touch</div>
-                                    </div>
-                                 </div>
-                                 <div class="wpb_text_column wpb_content_element " >
-                                    <div class="wpb_wrapper">
-                                       <p style="text-align: center;padding: 10px 0px"><span>Hope you found a match ! and you would like to know more about us. Fill out the form and we will get connect with you and talk about putting together a exciting digital transformation journey for your business. Or you can always call us.</span></p>
-                                    </div>
-                                 </div>
-                                 <div role="form" class="wpcf7" id="wpcf7-f2496-p1056-o1" lang="en-US" dir="ltr">
+                             
+                              <div role="form" class="wpcf7" id="wpcf7-f2496-p1056-o1" lang="en-US" dir="ltr">
                                     <div class="screen-reader-response">
                                        <p role="status" aria-live="polite" aria-atomic="true"></p>
                                        <ul></ul>
                                     </div>
-                                    <form action="https://aarvytechnologies.com/#wpcf7-f2496-p1056-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+                                    <form action="" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
                                        <div style="display: none;">
                                           <input type="hidden" name="_wpcf7" value="2496" />
                                           <input type="hidden" name="_wpcf7_version" value="5.3.2" />
@@ -797,12 +846,32 @@ require('include/nav.php');
                                           }
                                           .display_content_form{padding:10PX 0PX 10PX 0PX;}
                                        </style>
-                                       <div style="text-align:center"><span class="display_flex"> <span class="display_content_form"> I am</span> <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required set_width" aria-required="true" aria-invalid="false" placeholder="Your Name" /></span> </span><span class="display_flex"><span class="display_content_form"> and wish to talk to you about</span> <span class="wpcf7-form-control-wrap your-message"><input type="text" name="your-message" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required set_width" aria-required="true" aria-invalid="false" placeholder="Your Message/Query" /></span> <span class="display_content_form">, </span></span><span class="display_flex"><span class="display_content_form"> you can reach me on my email</span> <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email set_width" aria-required="true" aria-invalid="false" placeholder="Your Email-Id" /></span> </span><span class="display_flex"><span class="display_content_form"> or call me on</span> <span class="wpcf7-form-control-wrap tel-511"><input type="tel" name="tel-511" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel set_width" aria-required="true" aria-invalid="false" placeholder="Your Phone" /></span><span class="display_content_form"> .</span></span><br><br />
+                                       <div style="text-align:center"><span class="display_flex"> <span class="display_content_form">Name:</span> <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required set_width" aria-required="true" aria-invalid="false" placeholder="Your Name" /></span> </span><span class="display_flex"><span class="display_content_form"> Enquiry</span> <span class="wpcf7-form-control-wrap your-message"><input type="text" name="your-message" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required set_width" aria-required="true" aria-invalid="false" placeholder="Your Message/Query" /></span> <span class="display_content_form">, </span></span><span class="display_flex"><span class="display_content_form"> Email</span> <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email set_width" aria-required="true" aria-invalid="false" placeholder="Your Email-Id" /></span> </span><span class="display_flex"><span class="display_content_form"> Phone No:</span> <span class="wpcf7-form-control-wrap tel-511"><input type="tel" name="tel-511" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel set_width" aria-required="true" aria-invalid="false" placeholder="Your Phone" /></span><span class="display_content_form"> .</span></span><br><br />
                                           <input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit" />
                                        </div>
                                        <div class="wpcf7-response-output" aria-hidden="true"></div>
                                     </form>
                                  </div>
+
+
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </section>
+                  <div class="vc_row-full-width vc_clearfix"></div>
+                  
+                  
+                  
+                  
+                  <section data-vc-full-width="true" data-vc-full-width-init="false" class="vc_section">
+                     <div  class="vc_row wpb_row vc_row-fluid">
+                        <div class="wpb_column vc_column_container vc_col-sm-12">
+                           <div class="vc_column-inner ">
+                              <div class="wpb_wrapper">
+                            
+                               
+                                
                               </div>
                            </div>
                         </div>
