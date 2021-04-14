@@ -27,7 +27,7 @@
                      </div>
                   </div>
                   <div  data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1542704069755">
-                     <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6">
+                     <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4 vc_col-md-6">
                         <div class="vc_column-inner ">
                            <div class="wpb_wrapper">
                               <div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1528465408378">
@@ -44,49 +44,8 @@
                            </div>
                         </div>
                      </div>
-                     <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3">
-                        <div class="vc_column-inner ">
-                           <div class="wpb_wrapper">
-                              <div  class ="seofy_module_spacing">
-                                 <div class="spacing_size spacing_size-initial" style="height:15px;"></div>
-                              </div>
-                              <div class="wpb_text_column wpb_content_element " >
-                                 <div class="wpb_wrapper">
-                                    <h5><span style="color: #ffffff;">Services</span></h5>
-                                 </div>
-                              </div>
-                              <div  class ="seofy_module_spacing">
-                                 <div class="spacing_size spacing_size-initial" style="height:20px;"></div>
-                              </div>
-                              <div class="vc_row wpb_row vc_inner vc_row-fluid hover_links">
-                                 <div class="wpb_column vc_column_container vc_col-sm-12">
-                                    <div class="vc_column-inner">
-                                       <div class="wpb_wrapper">
-                                          <div class ="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;"><a href="website-design-development/index.html" style="color: #ffffff;">Website Deign &amp; Development</a></span></div>
-                                          <div  class ="seofy_module_spacing">
-                                             <div class="spacing_size spacing_size-initial" style="height:6px;"></div>
-                                          </div>
-                                          <div class ="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;"><a href="mobile-development/index.html" style="color: #ffffff;">Mobile Development</a></span></div>
-                                          <div  class ="seofy_module_spacing">
-                                             <div class="spacing_size spacing_size-initial" style="height:6px;"></div>
-                                          </div>
-                                          <div class ="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;"><a href="digital-marketing/index.html" style="color: #ffffff;">Digital Marketing</a></span></div>
-                                          <div  class ="seofy_module_spacing">
-                                             <div class="spacing_size spacing_size-initial" style="height:6px;"></div>
-                                          </div>
-                                          <div class ="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;"><a href="ui-ux-development/index.html" style="color: #ffffff;">UI / UX Development</a></span></div>
-                                          <div  class ="seofy_module_spacing">
-                                             <div class="spacing_size spacing_size-initial" style="height:6px;"></div>
-                                          </div>
-                                          <div class ="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;"><a href="softwere-development/index.html" style="color: #ffffff;">Software Development</a></span></div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3">
+                   
+                     <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4">
                         <div class="vc_column-inner ">
                            <div class="wpb_wrapper">
                               <div  class ="seofy_module_spacing">
@@ -100,11 +59,11 @@
                               <div  class ="seofy_module_spacing">
                                  <div class="spacing_size spacing_size-initial" style="height:20px;"></div>
                               </div>
-                              <div class ="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;"><a href="our-portfolio/index.html" style="color: #ffffff;">Portfolio</a></span></div>
+                              <div class ="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;"><a href="our-portfolio/index.html" style="color: #ffffff;">Our Clients</a></span></div>
                               <div  class ="seofy_module_spacing">
                                  <div class="spacing_size spacing_size-initial" style="height:6px;"></div>
                               </div>
-                              <div class ="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;"><a href="solutions/index.html" style="color: #ffffff;">Solutions</a></span></div>
+                              <div class ="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;"><a href="solutions/index.html" style="color: #ffffff;">Blogs</a></span></div>
                               <div  class ="seofy_module_spacing">
                                  <div class="spacing_size spacing_size-initial" style="height:6px;"></div>
                               </div>
@@ -123,7 +82,7 @@
                            </div>
                         </div>
                      </div>
-                     <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3">
+                     <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4">
                         <div class="vc_column-inner ">
                            <div class="wpb_wrapper">
                               <div  class ="seofy_module_spacing">
@@ -131,7 +90,7 @@
                               </div>
                               <div class="wpb_text_column wpb_content_element " >
                                  <div class="wpb_wrapper">
-                                    <h5><span style="color: #ffffff;">Contacts</span></h5>
+                                    <h5><span style="color: #ffffff;">Head office / registered office :</span></h5>
                                  </div>
                               </div>
                               <div  class ="seofy_module_spacing">
@@ -147,7 +106,10 @@
                                           <div  class ="seofy_module_spacing">
                                              <div class="spacing_size spacing_size-initial" style="height:20px;"></div>
                                           </div>
-                                          <div class ="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;"><span style="font-weight: bold;" class="custom-weight">Email:</span> <a href="mailto:hyginos.in@gmail.com" style="color: #ffffff;">Hyginos.in@gmail.com</a></span></div>
+                                          <div class ="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;">
+                                          <span style="font-weight: bold;" class="custom-weight">9-2-167, UKV nagar,
+9th Street, Pondicherry , Yanam -533464.<br>+91 9391767777 ,+91 9492505152</span></span></div>
+                                          <span style="font-weight: bold;" class="custom-weight">Email:</span> <a href="mailto:hyginos.in@gmail.com" style="color: #ffffff;">Hyginos.in@gmail.com</a></span></div>
                                           <div  class ="seofy_module_spacing">
                                              <div class="spacing_size spacing_size-initial" style="height:7px;"></div>
                                           </div>

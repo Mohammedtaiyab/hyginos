@@ -424,7 +424,7 @@ require('include/nav.php');
                                           <div  class ="seofy_module_spacing">
                                              <div class="spacing_size spacing_size-initial" style="height:19px;"></div>
                                           </div>
-                                          <div class ="seofy_module_text  wpb_animate_when_almost_visible wpb_right-to-left right-to-left" style="font-size:18px;line-height:30px;"><span>We are a Software Development Company in Pune priding itself on our Website Development services. Our experts help you make a statement by designing and maintaining an attractive and sophisticated platform built to attract more business your way, be it in the form of a website or a mobile application. We also deliver websites and apps integrated with Artificial Intelligence and Machine Learning services. Additionally, we cater to clients who are on the lookout to make an online presence using social media platforms.</span></div>
+                                          <div class ="seofy_module_text  wpb_animate_when_almost_visible wpb_right-to-left right-to-left" style="font-size:18px;line-height:30px;"><span>We are a Software Development Company in Pondicherry  priding itself on our Website Development services. Our experts help you make a statement by designing and maintaining an attractive and sophisticated platform built to attract more business your way, be it in the form of a website or a mobile application. We also deliver websites and apps integrated with Artificial Intelligence and Machine Learning services. Additionally, we cater to clients who are on the lookout to make an online presence using social media platforms.</span></div>
                                           <div class="seofy_module_button wgl_button wgl_button-s button_def aleft wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft"><a href="aboutus.php" title='About Us' style="border-width:1px; " class="wgl_button_link">Read More..</a></div>
                                        </div>
                                     </div>
@@ -653,7 +653,7 @@ require('include/nav.php');
                                  <div  class ="seofy_module_spacing">
                                     <div class="spacing_size spacing_size-initial" style="height:10px;"></div>
                                  </div>
-                                 <h5 style="font-size: 16px;line-height: 1;text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft" ><a href="digital-marketing.php" title="UI / UX Development">UI / UX Development</a></h5>
+                                 <h5 style="font-size: 16px;line-height: 1;text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft" ><a href="ui-ux-development.php" title="UI / UX Development">UI / UX Development</a></h5>
                               </div>
                            </div>
                         </div>
@@ -675,7 +675,7 @@ require('include/nav.php');
                                  <div  class ="seofy_module_spacing">
                                     <div class="spacing_size spacing_size-initial" style="height:18px;"></div>
                                  </div>
-                                 <h5 style="font-size: 16px;line-height: 1;text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft" ><a href="softwere-development.php" title="Cloud">Cloud</a></h5>
+                                 <h5 style="font-size: 16px;line-height: 1;text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft" ><a href="cloud.php" title="Cloud">Cloud</a></h5>
                               </div>
                            </div>
                         </div>
@@ -695,7 +695,7 @@ require('include/nav.php');
                                  <div  class ="seofy_module_spacing">
                                     <div class="spacing_size spacing_size-initial" style="height:18px;"></div>
                                  </div>
-                                 <h5 style="font-size: 16px;line-height: 1;text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft" ><a href="softwere-development.php" title="Artificial Intelligence ">Artificial Intelligence </a></h5>
+                                 <h5 style="font-size: 16px;line-height: 1;text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft" ><a href="artificalintelligence.php" title="Artificial Intelligence ">Artificial Intelligence </a></h5>
                               </div>
                            </div>
                         </div>
@@ -711,7 +711,7 @@ require('include/nav.php');
                                  <div  class ="seofy_module_spacing">
                                     <div class="spacing_size spacing_size-initial" style="height:18px;"></div>
                                  </div>
-                                 <h5 style="font-size: 16px;line-height: 1;text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft" ><a href="softwere-development.php" title="Machine Learning ">Machine Learning </a></h5>
+                                 <h5 style="font-size: 16px;line-height: 1;text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft" ><a href="machinelearning.php" title="Machine Learning ">Machine Learning </a></h5>
                               </div>
                            </div>
                         </div>
@@ -729,7 +729,7 @@ require('include/nav.php');
                                  <div  class ="seofy_module_spacing">
                                     <div class="spacing_size spacing_size-initial" style="height:18px;"></div>
                                  </div>
-                                 <h5 style="font-size: 16px;line-height: 1;text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft" ><a href="softwere-development.php" title="Internet Of Things">Internet Of Things</a></h5>
+                                 <h5 style="font-size: 16px;line-height: 1;text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft" ><a href="iot.php" title="Internet Of Things">Internet Of Things</a></h5>
                               </div>
                            </div>
                         </div>
@@ -746,7 +746,7 @@ require('include/nav.php');
                                  <div  class ="seofy_module_spacing">
                                     <div class="spacing_size spacing_size-initial" style="height:18px;"></div>
                                  </div>
-                                 <h5 style="font-size: 16px;line-height: 1;text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft" ><a href="softwere-development.php" title="IT Consulting">IT Consulting</a></h5>
+                                 <h5 style="font-size: 16px;line-height: 1;text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft" ><a href="itconsulting.php" title="IT Consulting">IT Consulting</a></h5>
                               </div>
                            </div>
                         </div>
@@ -763,7 +763,7 @@ require('include/nav.php');
                                  <div  class ="seofy_module_spacing">
                                     <div class="spacing_size spacing_size-initial" style="height:18px;"></div>
                                  </div>
-                                 <h5 style="font-size: 16px;line-height: 1;text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft" ><a href="softwere-development.php" title="Testing And Quality Assurance">Testing And Quality Assurance</a></h5>
+                                 <h5 style="font-size: 16px;line-height: 1;text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft" ><a href="testingandquality.php" title="Testing And Quality Assurance">Testing And Quality Assurance</a></h5>
                               </div>
                            </div>
                         </div> 
@@ -846,7 +846,22 @@ require('include/nav.php');
                                           }
                                           .display_content_form{padding:10PX 0PX 10PX 0PX;}
                                        </style>
-                                       <div style="text-align:center"><span class="display_flex"> <span class="display_content_form">Name:</span> <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required set_width" aria-required="true" aria-invalid="false" placeholder="Your Name" /></span> </span><span class="display_flex"><span class="display_content_form"> Enquiry</span> <span class="wpcf7-form-control-wrap your-message"><input type="text" name="your-message" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required set_width" aria-required="true" aria-invalid="false" placeholder="Your Message/Query" /></span> <span class="display_content_form">, </span></span><span class="display_flex"><span class="display_content_form"> Email</span> <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email set_width" aria-required="true" aria-invalid="false" placeholder="Your Email-Id" /></span> </span><span class="display_flex"><span class="display_content_form"> Phone No:</span> <span class="wpcf7-form-control-wrap tel-511"><input type="tel" name="tel-511" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel set_width" aria-required="true" aria-invalid="false" placeholder="Your Phone" /></span><span class="display_content_form"> .</span></span><br><br />
+                                       <div style="text-align:center"><span class="display_flex"> <span class="display_content_form">Name :  </span> 
+                                       <span class="wpcf7-form-control-wrap your-name">
+                                       <input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required set_width" aria-required="true" aria-invalid="false" placeholder="Your Name" /></span> </span>
+                                       
+                                       <span class="display_flex"><span class="display_content_form">Enquiry</span> 
+                                       <span class="wpcf7-form-control-wrap your-message">
+                                       <input type="text" name="your-message" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required set_width" aria-required="true" aria-invalid="false" placeholder="Your Message/Query" /></span> 
+                 
+                                       </span>
+                                       <span class="display_flex">
+                                       <span class="display_content_form">Email :   </span> 
+                                       <span class="wpcf7-form-control-wrap your-email">
+                                       <input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email set_width" aria-required="true" aria-invalid="false" placeholder="Your Email-Id" /></span> </span>
+                                       <span class="display_flex"><span class="display_content_form"> Phone: </span> <span class="wpcf7-form-control-wrap tel-511">
+                                       <input type="tel" name="tel-511" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel set_width" aria-required="true" aria-invalid="false" placeholder="Your Phone" /></span>
+                                       </span><br><br />
                                           <input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit" />
                                        </div>
                                        <div class="wpcf7-response-output" aria-hidden="true"></div>

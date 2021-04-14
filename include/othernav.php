@@ -107,11 +107,11 @@
                                              </a>
                                           </li>
                                           <li id="menu-item-2434" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2434 menu-item-2434">
-                                             <a href="softwere-development.php">
+                                             <a href="cloud.php">
                                                 <span>
                                                    <div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='wp-content/uploads/2021/02/ezgif.com-gif-maker-1.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
                                                    <div class='wpmi-icon-divider'></div>
-                                                   <span class='wpmi-mlabel'><span class='wpmi-mlabel'>Softwere Development</span></span><span class="menu-item_plus"></span>
+                                                   <span class='wpmi-mlabel'><span class='wpmi-mlabel'>Cloud</span></span><span class="menu-item_plus"></span>
                                                 </span>
                                              </a>
                                           </li>
@@ -119,6 +119,7 @@
                                     </li>
 									<li id="menu-item-2594" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="aboutus.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>About us</span></span><span class="menu-item_plus"></span></span></a></li>
                                     <li id="menu-item-2594" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourclients.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Our Clients</span></span><span class="menu-item_plus"></span></span></a></li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourclients.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Blogs</span></span><span class="menu-item_plus"></span></span></a></li>
                                  </ul>
                               </nav>
                               <div class="mobile-hamburger-toggle">
@@ -201,11 +202,11 @@
                                              </a>
                                           </li>
                                           <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2434 menu-item-2434">
-                                             <a href="softwere-development.php">
+                                             <a href="cloud.php">
                                                 <span>
                                                    <div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='wp-content/uploads/2021/02/ezgif.com-gif-maker-1.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
                                                    <div class='wpmi-icon-divider'></div>
-                                                   <span class='wpmi-mlabel'><span class='wpmi-mlabel'>Softwere Development</span></span><span class="menu-item_plus"></span>
+                                                   <span class='wpmi-mlabel'><span class='wpmi-mlabel'>Cloud</span></span><span class="menu-item_plus"></span>
                                                 </span>
                                              </a>
                                           </li>
@@ -213,6 +214,7 @@
                                     </li>
 									<li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="aboutus.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>About us</span></span><span class="menu-item_plus"></span></span></a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourclients.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Our Clients</span></span><span class="menu-item_plus"></span></span></a></li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourclients.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Blogs</span></span><span class="menu-item_plus"></span></span></a></li>
                                  </ul>
                               </nav>
                               <div class="mobile-hamburger-toggle">
@@ -286,11 +288,11 @@
                                              </a>
                                           </li>
                                           <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2434 menu-item-2434">
-                                             <a href="softwere-development.php">
+                                             <a href="cloud.php">
                                                 <span>
                                                    <div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='wp-content/uploads/2021/02/ezgif.com-gif-maker-1.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
                                                    <div class='wpmi-icon-divider'></div>
-                                                   <span class='wpmi-mlabel'><span class='wpmi-mlabel'>Softwere Development</span></span><span class="menu-item_plus"></span>
+                                                   <span class='wpmi-mlabel'><span class='wpmi-mlabel'>Cloud</span></span><span class="menu-item_plus"></span>
                                                 </span>
                                              </a>
                                           </li>
@@ -298,6 +300,7 @@
                                     </li>
 									<li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="aboutus.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>About us</span></span><span class="menu-item_plus"></span></span></a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourclients.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Our Clients</span></span><span class="menu-item_plus"></span></span></a></li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourclients.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Blogs</span></span><span class="menu-item_plus"></span></span></a></li>
                                  </ul>
                               </nav>
                               <div class="mobile-hamburger-toggle">
@@ -379,11 +382,11 @@
                                        </a>
                                     </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2434 menu-item-2434">
-                                       <a href="softwere-development.php">
+                                       <a href="cloud.php">
                                           <span>
                                              <div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='wp-content/uploads/2021/02/ezgif.com-gif-maker-1.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
                                              <div class='wpmi-icon-divider'></div>
-                                             <span class='wpmi-mlabel'><span class='wpmi-mlabel'>Softwere Development</span></span><span class="menu-item_plus"></span>
+                                             <span class='wpmi-mlabel'><span class='wpmi-mlabel'>Cloud</span></span><span class="menu-item_plus"></span>
                                           </span>
                                        </a>
                                     </li>
@@ -391,6 +394,7 @@
                               </li>
 							  <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="aboutus.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>About us</span></span><span class="menu-item_plus"></span></span></a></li>
                               <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourclients.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Our Clients</span></span><span class="menu-item_plus"></span></span></a></li>
+                              <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourclients.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Blogs</span></span><span class="menu-item_plus"></span></span></a></li>
                            </ul>
                         </nav>
                      </div>

@@ -1,4 +1,4 @@
-<link rel='stylesheet' id='wp-block-library-css'  href='wp-includes/css/dist/block-library/style.mine23c.css?ver=5.7' type='text/css' media='all' />
+      <link rel='stylesheet' id='wp-block-library-css'  href='wp-includes/css/dist/block-library/style.mine23c.css?ver=5.7' type='text/css' media='all' />
       <link rel='stylesheet' id='wc-block-vendors-style-css'  href='wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-stylecce7.css?ver=4.0.0' type='text/css' media='all' />
       <link rel='stylesheet' id='wc-block-style-css'  href='wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/stylecce7.css?ver=4.0.0' type='text/css' media='all' />
       <link rel='stylesheet' id='dashicons-css'  href='wp-includes/css/dashicons.mine23c.css?ver=5.7' type='text/css' media='all' />
@@ -70,7 +70,7 @@
       <link rel='stylesheet' id='wws-public-template-css'  href='wp-content/plugins/wordpress-whatsapp-support/assets/css/wws-public-template-14c56.css?ver=2.0.2' type='text/css' media='all' />
       <script type='text/javascript' src='wp-includes/js/jquery/jquery.min9d52.js?ver=3.5.1' id='jquery-core-js'></script>
       <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
-      <script type='text/javascript' src='../cdn.linearicons.com/free/1.0.0/svgembedder.mine23c.js?ver=5.7' id='wpmi-linearicons-js'></script>
+      <script type='text/javascript' src='cdn.linearicons.com/free/1.0.0/svgembedder.mine23c.js?ver=5.7' id='wpmi-linearicons-js'></script>
       <script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/rbtools.min0587.js?ver=6.3.6' id='tp-tools-js'></script>
       <script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/rs6.min0587.js?ver=6.3.6' id='revmin-js'></script>
       <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70' id='jquery-blockui-js'></script>
@@ -82,6 +82,7 @@
       <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min20fd.js?ver=4.9.2' id='wc-add-to-cart-js'></script>
       <script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-carte6df.js?ver=6.5.0' id='vc_woocommerce-add-to-cart-js-js'></script>
       <link rel="https://api.w.org/" href="wp-json/index.html" />
+      <style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1542703433555{background-color: #f4f6fd !important;}.vc_custom_1542873226451{background: #f4f6fd url(wp-content/uploads/2018/11/section_timeline1fa28.png?id=537) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1542793661832{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1542801858058{margin-top: -270px !important;}</style>
       <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/1056.json" />
       <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
       <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
@@ -144,7 +145,8 @@
          //});
           };
       </script>
-      <style type="text/css" title="dynamic-css" class="options-output">.wgl-footer{padding-top:84px;padding-right:0;padding-bottom:48px;padding-left:0;}</style>
+      <style type="text/css" title="dynamic-css" class="options-output">.wgl-footer{padding-top:84px;padding-right:0;padding-bottom:48px;padding-left:0;}.wgl-footer{padding-top:84px;padding-right:0;padding-bottom:48px;padding-left:0;}</style><script type='text/javascript'></script><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1612503450057{padding-top: 30px !important;padding-right: 10px !important;padding-bottom: 30px !important;padding-left: 10px !important;}.vc_custom_1612356028044{background-color: #efefef !important;}.vc_custom_1612356484030{padding-top: 30px !important;padding-right: 10px !important;padding-bottom: 30px !important;padding-left: 10px !important;}</style>
+     
       <script type='text/javascript'></script>
       <style type="text/css" data-type="vc_custom-css">@media (min-width: 1200px) {
          .padding-responsive {
