@@ -7,7 +7,7 @@
       <meta http-equiv="X-UA-Compatible" content="IE=Edge">
       <link rel="pingback" href="xmlrpc.php">
       <title>HYGINOS</title>
-      <link rel="icon" href="wp-content/uploads/2021/02/Hyginos_Logo_white.png" type="image/gif" sizes="16x16">
+      <link rel="icon" href="wp-content/uploads/2021/02/Hyginos_Logo_white.png" type="image/gif" >
       <meta name='robots' content='max-image-preview:large' />
       <link rel='dns-prefetch' href='http://cdn.linearicons.com/' />
       <link rel='dns-prefetch' href='http://s.w.org/' />
