@@ -90,7 +90,7 @@
                               </div>
                               <div class="wpb_text_column wpb_content_element " >
                                  <div class="wpb_wrapper">
-                                    <h5><span style="color: #ffffff;">Head office / Branch office :</span></h5>
+                                    <h5><span style="color: #ffffff;">Address:</span></h5>
                                  </div>
                               </div>
                               <!-- <div  class ="seofy_module_spacing">
@@ -100,22 +100,26 @@
                                  <div class="wpb_column vc_column_container vc_col-sm-12">
                                     <div class="vc_column-inner">
                                        <div class="wpb_wrapper">
-                                          <!-- <div class ="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;"><span style="font-weight: bold;" class="custom-weight">Adress (India):</span> Sector-9, Rohini Delhi</span>
-                                             <span style="color: #ffffff;"><span style="font-weight: bold;" class="custom-weight">Adress (Canada):</span> 6 Bottomwood Street Brampton Ontario</span>
-                                          </div> -->
-                                          <div  class ="seofy_module_spacing">
-                                             <div class="spacing_size spacing_size-initial" style="height:20px;"></div>
-                                          </div>
-                                          <div class ="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;">
+                                    <div class="vc_col-sm-6">
+                                    <div class ="seofy_module_text" style="font-size:16px;line-height:30px;">
+                                          <span style="color: #ffffff;">Head Office   </span><br>
                                           <span  class="">9-2-167, UKV nagar,
-                                             9th Street, Pondicherry ,<br> Yanam -533464.</span><br>
-                                          
-                                         <small>
-                                            
+                                             9th Street, Pondicherry, Yanam -533464.</span>
+                                             
                                         
-                                          5-1-87, Suryaraopeta ,opposite two town police station,<br> Andhra Pradesh , kakinada urban - 533001
-                                          </small>
                                           </div>
+                                    </div>
+                                    <div class="vc_col-sm-6">
+                                    <div class ="seofy_module_text" style="font-size:16px;line-height:30px;">
+                                          <span style="color: #ffffff;">Branch Office:</span><br>
+                                          
+                                          <span  class=""> 5-1-87, Suryaraopeta ,
+                                             Andhra Pradesh , kakinada urban - 533001</span>
+                                             
+                                      
+                                          </div>
+                                    </div>
+                                        
                                           <span style="font-weight: bold;" class="custom-weight">Email:</span> <a href="mailto:info@hyginos.in" style="color: #ffffff;">info@Hyginos.in</a></span><br>
                                           <span style="font-weight: bold;" class="custom-weight">Phone:</span> <a href="mailto:info@hyginos.in" style="color: #ffffff;">+91 9391767777 , +91 9492505152</a></span>
                                        </div>

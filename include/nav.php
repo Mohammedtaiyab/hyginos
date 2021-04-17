@@ -48,7 +48,7 @@
                            <div class='header_area_container'>
                               <div class='wgl-logotype-container logo-sticky_enable logo-mobile_enable'>
                                  <a href='index.php'>
-                                 <img class="default_logo" src="wp-content/uploads/2021/02/Hyginos_Logo_green.png" alt="HYGINOS"  style="height:90px;">
+                                 <img class="default_logo" src="wp-content/uploads/2021/02/Hyginos_Logo_white.png" alt="HYGINOS"  style="height:90px;">
                                  </a>
                               </div>
                            </div>

@@ -60,7 +60,7 @@ require('include/nav.php');
                                                 data-dim="w:701px,598px,454px,280px;h:471px,401px,304px,187px;"
                                                 data-frame_999="o:0;st:w;"
                                                 style="z-index:19;"
-                                                ><img src="wp-content/uploads/2021/02/webdesign2.gif" width="1200" height="807" data-no-retina> 
+                                                ><img src="wp-content/uploads/2021/02/allserv.gif" width="1200" height="807" data-no-retina> 
                                              </rs-layer>
                                              <!--
                                                 -->
@@ -102,28 +102,7 @@ require('include/nav.php');
                                                 style="z-index:8;font-family:Crimson Text;"
                                                 >Web Development
                                              </rs-layer>
-                                             <!--
-                                                --><a
-                                                id="slider-3-slide-3-layer-26" 
-                                                class="rs-layer gradient-button rev-btn"
-                                                href="contactus.php" rel="noopener"
-                                                data-type="button"
-                                                data-color="rgba(255,255,255,1)"
-                                                data-xy="x:l,l,c,c;xo:722px,540px,0,0;yo:520px,523px,616px,595px;"
-                                                data-text="s:16;l:16;ls:1px;fw:800;a:inherit;"
-                                                data-rsp_bd="off"
-                                                data-padding="t:20;r:36;b:20;l:36;"
-                                                data-border="bor:5px,5px,5px,5px;"
-                                                data-frame_0="x:100%;"
-                                                data-frame_0_mask="u:t;"
-                                                data-frame_1="st:650;sp:1000;"
-                                                data-frame_1_mask="u:t;"
-                                                data-frame_999="o:0;st:w;sR:7250;"
-                                                data-frame_hover="bgc:transparent;boc:#ff7400;bor:5px,5px,5px,5px;bos:solid;bow:1,1,1,1;oX:50;oY:50;e:power0.in;"
-                                                style="z-index:11;background-color:#ff7400;font-family:Nunito Sans;text-transform:uppercase;cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"
-                                                >Get In Touch 
-                                             </a><!--
-                                                -->
+                                            
                                              <rs-layer
                                                 id="slider-3-slide-3-layer-52" 
                                                 data-type="image"

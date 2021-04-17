@@ -354,7 +354,7 @@ Our client-centric approach puts you in charge of your Flutter application and h
                               <div class="wpb_wrapper">
                                  <div class="heading head-left">
                                     <p><span style="font-size: 16px;">React Native Hybrid applications are increasing their hold in the digital arena day by day. React Native is a framework that enables building a hybrid mobile application. This kind of hybrid mobile application can run smoothly on both Android and iOS operating systems. Hyginos, the best Mobile App Development Company in Pondicherry, offers the designing services of its experts to create a React Native Hybrid App.</span></p>
-                                <p>Don’t hesitate to take a look into the future with a React Native Hybrid App. SoftEzi will hand you the binoculars.</p>
+                                <p>Don’t hesitate to take a look into the future with a React Native Hybrid App. Hyginoswill hand you the binoculars.</p>
                                  </div>
 
                               </div>
