@@ -48,7 +48,7 @@
                            <div class='header_area_container'>
                               <div class='wgl-logotype-container logo-sticky_enable logo-mobile_enable'>
                                  <a href='index.php'>
-                                 <img class="default_logo" src="" alt="HYGINOS"  style="height:90px;">
+                                 <img class="default_logo" src="wp-content/uploads/2021/02/Hyginos_Logo_green.png" alt="HYGINOS"  style="height:90px;">
                                  </a>
                               </div>
                            </div>
@@ -108,7 +108,7 @@
                                           <li id="menu-item-2434" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2434 menu-item-2434">
                                              <a href="services.php">
                                                 <span>
-                                                   <div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='http://localhost/hyginos/wp-content/uploads/2021/02/webdesign2.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
+                                                   <div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='wp-content/uploads/2021/02/web_developing.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
                                                    <div class='wpmi-icon-divider'></div>
                                                    <span class='wpmi-mlabel'><span class='wpmi-mlabel'>More Services..</span></span><span class="menu-item_plus"></span>
                                                 </span>
@@ -155,7 +155,7 @@
                            <div class='header_area_container'>
                               <div class='wgl-logotype-container logo-sticky_enable logo-mobile_enable'>
                                  <a href='index.php'>
-                                 <img class="logo-sticky" src="" alt="HYGINOS"  style="height:80px;">
+                                 <img class="logo-sticky" src="wp-content/uploads/2021/02/Hyginos_Logo_white.png" alt="HYGINOS"  style="height:80px;">
                                  </a>
                               </div>
                            </div>
@@ -207,7 +207,7 @@
                                           <li id="menu-item-2434" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2434 menu-item-2434">
                                              <a href="services.php">
                                                 <span>
-                                                   <div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='http://localhost/hyginos/wp-content/uploads/2021/02/webdesign2.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
+                                                   <div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='wp-content/uploads/2021/02/web_developing.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
                                                    <div class='wpmi-icon-divider'></div>
                                                    <span class='wpmi-mlabel'><span class='wpmi-mlabel'>More Services..</span></span><span class="menu-item_plus"></span>
                                                 </span>
@@ -295,7 +295,7 @@
                                           <li id="menu-item-2434" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-disable-mobile  wpmi-disable-tablet  wpmi-iposition-top wpmi-enable-animation hvr-icon-back wpmi-custom-style-2434 menu-item-2434">
                                              <a href="services.php">
                                                 <span>
-                                                   <div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='http://localhost/hyginos/wp-content/uploads/2021/02/webdesign2.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
+                                                   <div class='wpmicons-set wpmicons-customicon' data-iposition='top' data-eanimation='1' data-animation='hvr-icon-back'><img src='wp-content/uploads/2021/02/web_developing.gif' class='wpmi-custom-icon hvr-icon' alt='' style='width:150px;height:150px;'/></div>
                                                    <div class='wpmi-icon-divider'></div>
                                                    <span class='wpmi-mlabel'><span class='wpmi-mlabel'>More Services..</span></span><span class="menu-item_plus"></span>
                                                 </span>
@@ -317,25 +317,13 @@
                               </div>
                            </div>
                         </div>
-                        <div class='position_center header_side'>
-                           <div class='header_area_container'>
-                              <div class='wgl-logotype-container logo-sticky_enable logo-mobile_enable'>
-                                 <a href='index.php'>
-                                 <img class="logo-mobile" src="" alt="HYGINOS"   style="height:50px;">
-                                 </a>
-                              </div>
-                           </div>
-                        </div>
+                       
                         <div class='position_right header_side'>
                            <div class='header_area_container'>
-                              <div class="header_search search_standard" style="height: 100px;">
-                                 <div class="header_search-button"></div>
-                                 <div class="header_search-field">
-                                    <form role="search" method="get" action="" class="search-form">
-                                       <input type="text" id="search-form-60657ec7102d8" class="search-field" placeholder="Search &hellip;" value="" name="s" />
-                                       <input class="search-button" type="submit" value="Search">
-                                    </form>
-                                 </div>
+                           <div class='wgl-logotype-container logo-sticky_enable logo-mobile_enable'>
+                                 <a href='index.php'>
+                                 <img class="logo-mobile" src="wp-content/uploads/2021/02/Hyginos_Logo_green.png" alt="HYGINOS"   style="height:70px;">
+                                 </a>
                               </div>
                            </div>
                         </div>

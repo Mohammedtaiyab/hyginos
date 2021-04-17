@@ -1,6 +1,6 @@
 <?php
 require('include/head.php');
-require('include/otherheadstyle.php');
+// require('include/otherheadstyle.php');
 require('include/headstyle.php');
 
 require('include/othernav.php');
@@ -111,7 +111,7 @@ require('include/othernav.php');
                            <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp" >
                               <div class="wpb_wrapper">
                                  <div class="heading head-left"></div>
-                                 <p>Remodel your business plan by stepping into the digital arena with SoftEzi, the best eCommerce website development company in Pune. Enhance your branding by utilizing our futuristic vision and increase your conversion rate.</p>
+                                 <p>Remodel your business plan by stepping into the digital arena with Hyginos, the best eCommerce website development company in Pune. Enhance your branding by utilizing our futuristic vision and increase your conversion rate.</p>
                               
                                  <p>Quit wasting time you could spend making money. Create your online presence and dominate the market with an elegant and efficient eCommerce website.</p>
                               </div>
@@ -188,7 +188,7 @@ require('include/othernav.php');
                                        <div class="heading head-left">
                                           <div class="heading head-left">
                                              <div class="heading head-left"></div>
-                                             <p>Need an attractive company website? SoftEzi will design it for you. Utilize our web development services to create a digital footprint for your brand. </p>
+                                             <p>Need an attractive company website? Hyginos will design it for you. Utilize our web development services to create a digital footprint for your brand. </p>
                                              
                                              <p>We promise result-driven conversion optimization and marketing services, along with full maintenance and support. Utilize our experienced professionals and witness a boost in your business model.</p>
                                           </div>

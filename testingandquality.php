@@ -104,7 +104,7 @@ require('include/othernav.php');
                               </div>
                            <div class="wpb_text_column wpb_content_element " >
                               <div class="wpb_wrapper">
-                                 <p>They say no one can predict the future. Well, we can! Claim credibility and trust by ensuring security and endurance with SoftEzi’s Software Testing and QA services.</p>
+                                 <p>They say no one can predict the future. Well, we can! Claim credibility and trust by ensuring security and endurance with Hyginos's Software Testing and QA services.</p>
                               </div>
                            </div>
                            <div class="vc_row wpb_row vc_inner vc_row-fluid">

@@ -108,12 +108,12 @@
                                           </div>
                                           <div class ="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;">
                                           <span  class="">9-2-167, UKV nagar,
-                                             9th Street, Pondicherry ,<br> Yanam -533464.</span>
+                                             9th Street, Pondicherry ,<br> Yanam -533464.</span><br>
                                           
                                          <small>
                                             
                                         
-                                          5-1-87, Suryaraopeta , <br>opposite two town police station,<br> Andhra Pradesh , kakinada urban - 533001
+                                          5-1-87, Suryaraopeta ,opposite two town police station,<br> Andhra Pradesh , kakinada urban - 533001
                                           </small>
                                           </div>
                                           <span style="font-weight: bold;" class="custom-weight">Email:</span> <a href="mailto:info@hyginos.in" style="color: #ffffff;">info@Hyginos.in</a></span><br>

@@ -375,7 +375,7 @@ require('include/othernav.php');
                            </div>
                            <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInRight fadeInRight">
                               <div class="wpb_wrapper">
-                                 <p><span>Time and success wait for none. However cruel this Darwinian state of affairs might be, it always helps to have a reliable go-to team by your side. Hyginos, the best IT Consulting Company in Pune, offers IT consulting services for all your requirements.</span></p>
+                                 <p><span>Time and success wait for none. However cruel this Darwinian state of affairs might be, it always helps to have a reliable go-to team by your side. Hyginos, the best IT Consulting Company in Pondicherry, offers IT consulting services for all your requirements.</span></p>
                               </div>
                            </div>
                            <div id=seofy_button_60657ee1634d8 class="seofy_module_button wgl_button wgl_button-s wgl_button-icon_right button_color aleft wpb_animate_when_almost_visible wpb_zoomIn zoomIn"><a href="itconsulting.php" title='Website Design &amp; Development' style="border-width:1px; margin-top:20px; " class="wgl_button_link">View More<i class="wgl_button-icon fas fa-angle-right"></i></a></div>
