@@ -47,7 +47,7 @@ require('include/nav.php');
                                                 data-frame_1_mask="u:t;"
                                                 data-frame_999="o:0;st:w;sR:7900;"
                                                 style="z-index:10;font-family:Crimson Text;"
-                                                >Mobile App Development 
+                                                >Mobile App Development
                                              </rs-layer>
                                              <!--
                                                 -->
@@ -80,7 +80,7 @@ require('include/nav.php');
                                                 data-frame_1_mask="u:t;"
                                                 data-frame_999="o:0;st:w;sR:7900;"
                                                 style="z-index:9;font-family:Crimson Text;"
-                                                >UX,UI Development 
+                                                >UX,UI Development
                                              </rs-layer>
                                              <!--
                                                 -->

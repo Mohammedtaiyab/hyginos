@@ -146,7 +146,7 @@ require('include/othernav.php');
                                           </div>
                                           <div class="services_content">
                                              <h3 class="services_title" >OUR TEAM</h3>
-                                             <div class="services_content" >Get yourself acquainted with SoftEzi's Tech experts, who have committed themselves to your enterprise's growth through custom software solutions. We have a track record of creating opportunities globally by employing a global perspective and futuristic vision. We have expertise in Website Development, Mobile Application Development, AI services, Machine Learning, Digital Marketing, and Cloud services. Our IT Consultants have been offering reliable services to small and thriving businesses. Meet our team, and become a part of the SoftEzi family tree, linked through trust and mutual growth.</div>
+                                             <div class="services_content" >Get yourself acquainted with Hyginos's Tech experts, who have committed themselves to your enterprise's growth through custom software solutions. We have a track record of creating opportunities globally by employing a global perspective and futuristic vision. We have expertise in Website Development, Mobile Application Development, AI services, Machine Learning, Digital Marketing, and Cloud services. Our IT Consultants have been offering reliable services to small and thriving businesses. Meet our team, and become a part of the Hyginos family tree, linked through trust and mutual growth.</div>
                                           </div>
                                        </div>
                                     </div>

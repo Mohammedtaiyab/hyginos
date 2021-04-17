@@ -108,8 +108,8 @@
                                           </div>
                                           <div class ="seofy_module_text" style="font-size:16px;line-height:30px;"><span style="color: #ffffff;">
                                           <span style="font-weight: bold;" class="custom-weight">9-2-167, UKV nagar,
-9th Street, Pondicherry , Yanam -533464.<br>+91 9391767777 ,+91 9492505152</span></span></div>
-                                          <span style="font-weight: bold;" class="custom-weight">Email:</span> <a href="mailto:hyginos.in@gmail.com" style="color: #ffffff;">Hyginos.in@gmail.com</a></span></div>
+                                             9th Street, Pondicherry , Yanam -533464.<br>+91 9391767777 ,+91 9492505152</span></span></div>
+                                          <span style="font-weight: bold;" class="custom-weight">Email:</span> <a href="mailto:info@hyginos.in" style="color: #ffffff;">info@Hyginos.in</a></span></div>
                                           <div  class ="seofy_module_spacing">
                                              <div class="spacing_size spacing_size-initial" style="height:7px;"></div>
                                           </div>

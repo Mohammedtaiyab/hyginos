@@ -29,7 +29,7 @@ require('include/othernav.php');
                      <div class="wpb_wrapper">
                         <div class="wpb_text_column wpb_content_element " >
                            <div class="wpb_wrapper">
-                              <p style="text-align: center;"><span>Someone once said, what’s in a name? A lot rides on its name when it comes to a brand. Thriving brands know this and apply most of their resources to building a name for themselves. And we are here to do that for you. SoftEzi, the best Digital Marketing Company in Pune, assists you in your social and digital marketing adventures. We come up with promotional strategies to boost your content and engagement and help create a name for your band.</span></p>
+                              <p style="text-align: center;"><span>Someone once said, what’s in a name? A lot rides on its name when it comes to a brand. Thriving brands know this and apply most of their resources to building a name for themselves. And we are here to do that for you. Hyginos, the best Digital Marketing Company in Pondicherry, assists you in your social and digital marketing adventures. We come up with promotional strategies to boost your content and engagement and help create a name for your band.</span></p>
                            </div>
                         </div>
                      </div>
@@ -40,7 +40,7 @@ require('include/othernav.php');
             <div class="vc_row-full-width vc_clearfix"></div>
             <section class="vc_section vc_custom_1612203436027 vc_section-has-fill">
                <div  class="vc_row wpb_row vc_row-fluid vc_custom_1612203475801 wgl-row-animation">
-                  <div class="wpb_column vc_column_container vc_col-sm-5">
+                  <div class="wpb_column vc_column_container vc_col-sm-4">
                      <div class="vc_column-inner ">
                         <div class="wpb_wrapper">
                            <div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft">
@@ -51,7 +51,7 @@ require('include/othernav.php');
                         </div>
                      </div>
                   </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-7">
+                  <div class="wpb_column vc_column_container vc_col-sm-8">
                      <div class="vc_column-inner ">
                         <div class="wpb_wrapper">
                            <div id=seofy_dbl_60657ee507336 class="seofy_module_double_headings aleft   wpb_animate_when_almost_visible wpb_fadeIn fadeIn">
@@ -62,13 +62,74 @@ require('include/othernav.php');
                            </div>
                            <div class="wpb_text_column wpb_content_element  vc_custom_1612203959541" >
                               <div class="wpb_wrapper">
-                                 <p><span>Life might not be a race, but social media certainly is. And we know how hard running alone can be. SoftEzi, the best Social Media Marketing Company in Pune, offers you a hand in your social media journey. Here is why this partnership will benefit you:</span></p>
+                                 <p><span>Life might not be a race, but social media certainly is. And we know how hard running alone can be. Hyginos, the best Social Media Marketing Company in Pondicherry, offers you a hand in your social media journey. Here is why this partnership will benefit you:</span></p>
+                              <p>With Hyginos, you can measure your growth. We encourage that. After all, your growth means our growth. So why hesitate? Hire us.</p>
                               </div>
                            </div>
                            <div id=seofy_button_60657ee507634 class="seofy_module_button wgl_button wgl_button-s button_color aleft wpb_animate_when_almost_visible wpb_fadeInDown fadeInDown"><a href="contactus.php" title='Contact Us' target="_blank" style="border-width:1px; margin-top:10px; " class="wgl_button_link">Get in Touch</a></div>
                         </div>
                      </div>
                   </div>
+
+
+
+
+
+                  <div class="wpb_column vc_column_container vc_col-sm-12">
+                     <div class="vc_column-inner ">
+                        <div class="wpb_wrapper">
+
+                           <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft vc_custom_1612505515585">
+                              <div class="wpb_wrapper">
+                                 <div class="row">
+
+                                    <div class="vc_col-sm-6">
+                                       <div class="heading head-left"></div>
+                                       <ul>
+                                          <li>
+                                        	We conduct thorough research of your industry, competitors, consumers, and target group. 
+                                          </li>
+                                          <li>
+                                          We understand your expectations and create a plan based on your vision and our research. We take into account all available resources and potential capabilities.
+                                          </li>
+                                       <li>
+                                       We put the plan to action with full force and monitor results and performance. Based on those, we optimize your platform further. Whoever said less is more?</li>
+                                       </ul>
+                                    </div>
+
+                                    <div class="vc_col-sm-6">
+                                       <div class="heading head-left"></div>
+                                       <ul>
+                                          <li>
+                                          Our action plans stand out. We attract attention to your brand and manage to maintain it.
+                                          </li>
+                                          <li>
+                                          Constant market analysis is an integral part of our approach.
+We provide our services quickly and at affordable prices.
+
+
+                                          </li>
+         <li>
+         We ensure a good ROI and growth chart. In case you need support, we are trustworthy and reliable.
+         </li>
+                                       </ul>
+
+                                    </div>
+
+                                 </div>
+                              </div>
+
+                           </div>
+
+                        </div>
+                     </div>
+                  </div>
+
+
+
+
+
+
                   <div id="particles_60657ee5076d1" class="particles-js" style="top:0%; left:0%; width:100%; height:100%; " data-particles-type="particles" data-particles-number="50" data-particles-color="#ff7e00,#3224e9,#69e9f2" data-particles-line="false" data-particles-size="10" data-particles-speed="2" data-particles-hover="true" data-particles-hover-mode="grab" data-particles-colors-type="random_colors" ></div>
                </div>
             </section>
@@ -85,7 +146,8 @@ require('include/othernav.php');
                            </div>
                            <div class="wpb_text_column wpb_content_element  vc_custom_1612205240732" >
                               <div class="wpb_wrapper">
-                                 <p style="text-align: left;"><span>If you are even a little aware of how digital marketing works, you would know the importance SEO holds. SoftEzi provides Search Engine Optimization (SEO) services based on ROI, with a clear focus on results and value. We offer consultation services to budding enterprises and help them thrive with Search Engine Optimization.</span></p>
+                                 <p style="text-align: left;"><span>If you are even a little aware of how digital marketing works, you would know the importance SEO holds. Hyginos provides Search Engine Optimization (SEO) services based on ROI, with a clear focus on results and value. We offer consultation services to budding enterprises and help them thrive with Search Engine Optimization.</span></p>
+                             <p>Drive those results home and cash them. Hyginos will assist you with that.</p>
                               </div>
                            </div>
                            <div id=seofy_button_60657ee507f95 class="seofy_module_button wgl_button wgl_button-s button_color aleft wpb_animate_when_almost_visible wpb_fadeInDown fadeInDown"><a href="contactus.php" title='Contact Us' target="_blank" style="border-width:1px; margin-top:10px; " class="wgl_button_link">Get in Touch</a></div>
@@ -103,6 +165,54 @@ require('include/othernav.php');
                         </div>
                      </div>
                   </div>
+
+                  <div class="wpb_column vc_column_container vc_col-sm-12">
+                     <div class="vc_column-inner ">
+                        <div class="wpb_wrapper">
+
+                           <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft vc_custom_1612505515585">
+                              <div class="wpb_wrapper">
+                                 <div class="row">
+
+                                    <div class="vc_col-sm-6">
+                                       <div class="heading head-left"></div>
+                                       <ul>
+                                          <li>
+                                          We raise awareness about your brand and increase your conversion rate. We do not shy away from taking risks. Innovation is our favorite strategy.
+                                          </li>
+                                          <li>
+                                          We pay close attention to catchy headlines and stimulating content that attracts more traffic and leads. That increases your platform’s ranking organically on the web.
+                                          </li>
+                                      
+                                    </div>
+
+                                    <div class="vc_col-sm-6">
+                                       <div class="heading head-left"></div>
+                                       <ul>
+                                          <li>
+                                          We audit your website and fix anything that needs fixing.
+Our experts have mastered the SEO domain who ensure that you get the best at a reasonable price.
+
+                                          </li>
+                                          <li>
+                                          We focus on keywords, their length, and density after researching extensively. We use various tools to analyze the amount of traffic these keywords would attract to your platform.
+
+
+                                          </li>
+         
+                                       </ul>
+
+                                    </div>
+
+                                 </div>
+                              </div>
+
+                           </div>
+
+                        </div>
+                     </div>
+                  </div>
+
                   <div id="particles_60657ee50850a" class="particles-js" style="top:0%; left:0%; width:100%; height:100%; " data-particles-type="particles" data-particles-number="50" data-particles-color="#ff7e00,#3224e9,#69e9f2" data-particles-line="false" data-particles-size="10" data-particles-speed="2" data-particles-hover="true" data-particles-hover-mode="grab" data-particles-colors-type="random_colors" ></div>
                </div>
             </section>

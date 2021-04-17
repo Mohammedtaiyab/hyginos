@@ -82,6 +82,78 @@ require('include/othernav.php');
                </div>
             </section>
             <div class="vc_row-full-width vc_clearfix"></div>
+            <section class="vc_section vc_custom_1612356484030">
+               <div  class="vc_row wpb_row vc_row-fluid wpb_animate_when_almost_visible wpb_fadeInRightBig fadeInRightBig wgl-row-animation">
+                  <div class="wpb_column vc_column_container vc_col-sm-6">
+                     <div class="vc_column-inner ">
+                        <div class="wpb_wrapper">
+                           <div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_zoomInUp zoomInUp">
+                              <figure class="wpb_wrapper vc_figure">
+                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="509" height="323" src="wp-content/uploads/2021/02/ad.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
+                              </figure>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="wpb_column vc_column_container vc_col-sm-6">
+                     <div class="vc_column-inner ">
+                        <div class="wpb_wrapper">
+                           <div class="wpb_text_column wpb_content_element " >
+                              <div class="wpb_wrapper">
+                                 <p>Hyginos specializes in adding visual impact with bouts of creative thoughts infused while coming up with advertising and marketing collateral designing solutions that adds that much needed elevation your business needs.</p>
+                              </div>
+                           </div>
+                           <div class="vc_row wpb_row vc_inner vc_row-fluid">
+                              <div class="wpb_column vc_column_container vc_col-sm-6">
+                                 <div class="vc_column-inner">
+                                    <div class="wpb_wrapper">
+                                       <div class="wpb_text_column wpb_content_element " >
+                                          <div class="wpb_wrapper">
+                                             <ul class="list-icon list-icon2">
+                                                <li>Magazines</li>
+                                                <li>Brochures</li>
+                                                <li>Business visiting cards</li>
+                                             </ul>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="wpb_column vc_column_container vc_col-sm-6">
+                                 <div class="vc_column-inner">
+                                    <div class="wpb_wrapper">
+                                       <div class="wpb_text_column wpb_content_element " >
+                                          <div class="wpb_wrapper">
+                                             <ul class="list-icon list-icon2">
+                                                <li>Catalogues</li>
+                                                <li>Posters</li>
+                                                <li>Signages</li>
+                                                <li>And lot more</li>
+                                             </ul>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div id="particles_60657ee7b8df2" class="particles-js" style="top:0%; left:0%; width:100%; height:100%; " data-particles-type="particles" data-particles-number="50" data-particles-color="#ff7e00,#3224e9,#69e9f2" data-particles-line="false" data-particles-size="10" data-particles-speed="2" data-particles-hover="true" data-particles-hover-mode="grab" data-particles-colors-type="random_colors" ></div>
+               </div>
+            </section>
+            <section class="vc_section">
+               <div  class="vc_row wpb_row vc_row-fluid wgl-row-animation">
+                  <div class="wpb_column vc_column_container vc_col-sm-12">
+                     <div class="vc_column-inner ">
+                        <div class="wpb_wrapper">
+                           <div id=seofy_button_60657ee7b955f class="seofy_module_button wgl_button wgl_button-s button_color acenter wpb_animate_when_almost_visible wpb_appear appear"><a href="contactus.php" title='Get In Touch' target="_blank" style="border-radius:10px; border-width:1px; margin-top:20px; " class="wgl_button_link">Get in Touch</a></div>
+                        </div>
+                     </div>
+                  </div>
+                  <div id="particles_60657ee7b9602" class="particles-js" style="top:0%; left:0%; width:100%; height:100%; " data-particles-type="particles" data-particles-number="50" data-particles-color="#ff7e00,#3224e9,#69e9f2" data-particles-line="false" data-particles-size="10" data-particles-speed="2" data-particles-hover="true" data-particles-hover-mode="grab" data-particles-colors-type="random_colors" ></div>
+               </div>
+            </section>
      
 
            
