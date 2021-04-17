@@ -35,7 +35,7 @@ require('include/othernav.php');
                         </div>
                         <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bounceInUp bounceInUp" >
                            <div class="wpb_wrapper">
-                              <p class="text-center" style="text-align: center;">Fun or ease? Aesthetic or smooth? Why choose? SoftEzi, the best UI/UX Design Service Provider in Pune, offers a platform for your enterprise to attract and engage traffic. We ensure that the User Interface is not lousy, assuring a great user experience. Get ready to obtain results that guarantee your satisfaction, as well as that of your user</p>
+                              <p class="text-center" style="text-align: center;">Fun or ease? Aesthetic or smooth? Why choose? Hyginos, the best UI/UX Design Service Provider in Pondicherry, offers a platform for your enterprise to attract and engage traffic. We ensure that the User Interface is not lousy, assuring a great user experience. Get ready to obtain results that guarantee your satisfaction, as well as that of your user</p>
   
                            </div>
                         </div>
@@ -59,7 +59,10 @@ require('include/othernav.php');
                            <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_lightSpeedIn lightSpeedIn" >
                               <div class="wpb_wrapper">
                                  <div class="heading head-left">
-                                    <p><span style="font-size: 16px;">SoftEzi recognizes that your platform’s interface should reflect what you expect from the software. We break down complicated user flow into a seemingly coherent experience by generating wireframes to test our designs. We make sure that your users feel satisfied and accomplished by offering an easily navigable interface that also defines your brand image. Need the right look and feel for your platform? You are at the right place.</span></p>
+                                    <p><span style="font-size: 16px;">Hyginos recognizes that your platform’s interface should reflect what you expect from the software. We break down complicated user flow into a seemingly coherent experience by generating wireframes to test our designs. We make sure that your users feel satisfied and accomplished by offering an easily navigable interface that also defines your brand image. Need the right look and feel for your platform? You are at the right place.</span></p>
+                                 <p>Are you looking for end-results that guarantee your satisfaction, as well as that of your customers? Hire us. We will make it happen.
+
+</p>
                                  </div>
                                  
                               </div>
@@ -89,7 +92,7 @@ require('include/othernav.php');
                         <div class="wpb_wrapper">
                            <div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_zoomInUp zoomInUp">
                               <figure class="wpb_wrapper vc_figure">
-                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="509" height="323" src="wp-content/uploads/2021/02/ad.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
+                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="509" height="323" src="wp-content/uploads/2021/02/gdr.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
                               </figure>
                            </div>
                         </div>
@@ -98,36 +101,32 @@ require('include/othernav.php');
                   <div class="wpb_column vc_column_container vc_col-sm-6">
                      <div class="vc_column-inner ">
                         <div class="wpb_wrapper">
-                           <div class="wpb_text_column wpb_content_element " >
-                              <div class="wpb_wrapper">
-                                 <p>Hyginos specializes in adding visual impact with bouts of creative thoughts infused while coming up with advertising and marketing collateral designing solutions that adds that much needed elevation your business needs.</p>
-                              </div>
-                           </div>
+                     
                            <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                              <div class="wpb_column vc_column_container vc_col-sm-6">
+                              <div class="wpb_column vc_column_container vc_col-sm-12">
                                  <div class="vc_column-inner">
                                     <div class="wpb_wrapper">
                                        <div class="wpb_text_column wpb_content_element " >
                                           <div class="wpb_wrapper">
                                              <ul class="list-icon list-icon2">
-                                                <li>Magazines</li>
-                                                <li>Brochures</li>
-                                                <li>Business visiting cards</li>
+                                                <li>Our first step? We ask you what YOU want. Your vision is our priority, as we design your platform around these requirements to get you the best you deserve.</li>
+                                                <li>Extensive research never hurt anyone. We identify your usual target group and what visual shorthand they find attractive and comforting. We create a plan to encourage engagement with the assurance of security.</li>
+                                                <li>We create and oversee a dynamic and collaborative process between UI and UX and ensure that your customers get the best out of it.</li>
                                              </ul>
                                           </div>
                                        </div>
                                     </div>
                                  </div>
                               </div>
-                              <div class="wpb_column vc_column_container vc_col-sm-6">
+                              <div class="wpb_column vc_column_container vc_col-sm-12">
                                  <div class="vc_column-inner">
                                     <div class="wpb_wrapper">
                                        <div class="wpb_text_column wpb_content_element " >
                                           <div class="wpb_wrapper">
                                              <ul class="list-icon list-icon2">
-                                                <li>Catalogues</li>
-                                                <li>Posters</li>
-                                                <li>Signages</li>
+                                                <li>You do not have to choose between affordability and design anymore. With us, you can achieve a modern and sophisticated UI and UX at a reasonable price.</li>
+                                                <li>We ensure that the User Experience is smooth and positively interactive, be it a responsive website or an immersive mobile application.</li>
+                                                <li>We also offer UI/UX consulting at an affordable price to make your platform more efficient and productive.</li>
                                                 <li>And lot more</li>
                                              </ul>
                                           </div>

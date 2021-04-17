@@ -763,7 +763,7 @@ require('include/nav.php');
                                  <div  class ="seofy_module_spacing">
                                     <div class="spacing_size spacing_size-initial" style="height:18px;"></div>
                                  </div>
-                                 <h5 style="font-size: 16px;line-height: 1;text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft" ><a href="testingandquality.php" title="Testing And Quality Assurance">Testing And Quality Assurance</a></h5>
+                                 <h5 style="font-size: 16px;line-height: 1;text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft" ><a href="testingandquality.php" title="Testing And Quality Assurance">Software Testing And Quality Assurance</a></h5>
                               </div>
                            </div>
                         </div> 

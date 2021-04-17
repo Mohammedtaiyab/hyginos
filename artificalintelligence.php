@@ -35,7 +35,7 @@ require('include/othernav.php');
                         </div>
                         <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bounceInUp bounceInUp" >
                            <div class="wpb_wrapper">
-                              <p class="text-center" style="text-align: center;">Merely having an up and running website or application does not guarantee a high success rate. Many enterprises find themselves in need of an automated system. It becomes hard to maintain customer engagement and satisfaction in the absence of such a system. SoftEzi, the best Software Development Company in Pune, offers you the solution to your woes.</p>
+                              <p class="text-center" style="text-align: center;">Merely having an up and running website or application does not guarantee a high success rate. Many enterprises find themselves in need of an automated system. It becomes hard to maintain customer engagement and satisfaction in the absence of such a system. Hyginos, the best Software Development Company in Pondicherry, offers you the solution to your woes.</p>
                               
                            </div>
                         </div>
@@ -99,19 +99,43 @@ require('include/othernav.php');
                   <div class="wpb_column vc_column_container vc_col-sm-6">
                      <div class="vc_column-inner ">
                         <div class="wpb_wrapper">
-                           <div class="wpb_text_column wpb_content_element " >
-                              <div class="wpb_wrapper">
-                                 <p>develop an AI system that can predict trends and boost your brand accordingly. 
-Our experts at SoftEzi develop custom-built AIs for use across industries.<br>
-AI-enabled chat systems do not get overwhelmed by too many customer texts. It increases the speed and efficiency of grievance redressal.<br>
-<br>An Artificial Intelligence system increases the speed of decision making. It makes your application more responsive and user friendly and eliminates human error.
-<br>Increase customer satisfaction and engagement and boost your growth by leveraging our Artificial Intelligence Development services.
-Enjoy tech support from launch to post-deployment.
-</p>
-<p>Last but not least, AIs are smart enough to know that you need to hire us NOW! So, why waste time speculating?</p>
+                     
+                           <div class="vc_row wpb_row vc_inner vc_row-fluid">
+                              <div class="wpb_column vc_column_container vc_col-sm-12">
+                                 <div class="vc_column-inner">
+                                    <div class="wpb_wrapper">
+                                       <div class="wpb_text_column wpb_content_element " >
+                                          <div class="wpb_wrapper">
+                                             <ul class="list-icon list-icon2">
+                                                <li>An AI system feeds on data and instructions. Hence it can learn by analyzing behavioral patterns of users and make suggestions, thereby optimizing User Experience. </li>
+                                                <li>We access your needs and wishes and offer you an Artificial Intelligence system to hack your growth plan. This system is accurate and can make rational choices round the clock. We develop an AI system that can predict trends and boost your brand accordingly. </li>
+                                                <li>Our experts at Hyginos develop custom-built AIs for use across industries.
+AI-enabled chat systems do not get overwhelmed by too many customer texts. It increases the speed and efficiency of grievance redressal.
+</li>
+                                             </ul>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="wpb_column vc_column_container vc_col-sm-12">
+                                 <div class="vc_column-inner">
+                                    <div class="wpb_wrapper">
+                                       <div class="wpb_text_column wpb_content_element " >
+                                          <div class="wpb_wrapper">
+                                             <ul class="list-icon list-icon2">
+                                                <li>An Artificial Intelligence system increases the speed of decision making. It makes your application more responsive and user friendly and eliminates human error.</li>
+                                                <li>Increase customer satisfaction and engagement and boost your growth by leveraging our Artificial Intelligence Development services.</li>
+                                                <li>Enjoy tech support from launch to post-deployment.</li>
+                                                <li>And lot more..</li>
+                                             </ul>
+                                             <p>Last but not least, AIs are smart enough to know that you need to hire us NOW! So, why waste time speculating?</p>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
                               </div>
                            </div>
-                           
                         </div>
                      </div>
                   </div>

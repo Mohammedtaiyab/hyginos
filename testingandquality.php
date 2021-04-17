@@ -9,9 +9,9 @@ require('include/othernav.php');
    <div class='page-header_wrapper'>
       <div class='wgl-container'>
          <div class='page-header_content'>
-            <h1 class='page-header_title' style="color:#252525; font-size:42px; line-height:54px;">ARTIFICIAL INTELLIGENCE</h1>
+            <h1 class='page-header_title' style="color:#252525; font-size:42px; line-height:54px;">Software Testing & Quality Assurance</h1>
             <div class='page-header_breadcrumbs' style="color:#252525; font-size:16px; line-height:34px;">
-               <div class="breadcrumbs"><a href="index.php" class="home">Home</a> <span class="divider"></span> <span class="current">ARTIFICIAL INTELLIGENCE</span></div>
+               <div class="breadcrumbs"><a href="index.php" class="home">Home</a> <span class="divider"></span> <span class="current">Software Testing & Quality Assurance</span></div>
                <!-- .breadcrumbs -->
             </div>
          </div>
@@ -30,14 +30,13 @@ require('include/othernav.php');
                         <div id=seofy_dbl_60657ee7b65d1 class="seofy_module_double_headings acenter   wpb_animate_when_almost_visible wpb_bounceIn bounceIn">
                            <div class="heading_title" style="font-size:36px; line-height:1.333; font-weight:800; ">
                               <span class="heading_divider"></span>
-                              <div>Full Service Design Service Agency</div>
+                              <div>SOFTWARE TESTING AND QUALITY ASSURANCE</div>
                            </div>
                         </div>
                         <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bounceInUp bounceInUp" >
                            <div class="wpb_wrapper">
-                              <p class="text-center" style="text-align: center;">Merely having an up and running website or application does not guarantee a high success rate. Many enterprises find themselves in need of an automated system. It becomes hard to maintain customer engagement and satisfaction in the absence of such a system. SoftEzi, the best Software Development Company in Pune, offers you the solution to your woes.</p>
-                              <p class="text-center" style="text-align: center;">We offer advertising design, graphic design, collateral design, logo design, packaging design and print design solutions that enhance the persona of your product. As a ambitious business unit, you would like your products as well as business to have an online personality that meshes well with your offerings.</p>
-                              <p class="text-center" style="text-align: center;">With creative designs, proper consultation and execution in place, you can count on us for objective and highly engaging campaigns that help you reach out to your target customers with increased efficacy.</p>
+                              <p class="text-center" style="text-align: justify;">If you want your enterprise to run smoothly, your software should be no different. Ignoring software bugs could lead to a software crash. Hyginos offers the best Software Testing and Quality Assurance Services in Pondicherry. We provide niche testing and your own QA masterplan at an affordable price to concretize your credibility with your customers. Consulting us would be wise, no?</p>
+
                            </div>
                         </div>
                         <div id=seofy_dbl_60657ee7b68e3 class="seofy_module_double_headings aleft "></div>
@@ -54,15 +53,15 @@ require('include/othernav.php');
                            <div id=seofy_dbl_60657ee7b71e1 class="seofy_module_double_headings aleft   wpb_animate_when_almost_visible wpb_bounceIn bounceIn">
                               <div class="heading_title" style="font-size:36px; line-height:1.333; font-weight:800; ">
                                  <span class="heading_divider"></span>
-                                 <div>Packaging Design Solutions Offered At Aarvy Technology</div>
+                                 <div>WHY YOU NEED OUR QA SERVICES?</div>
                               </div>
                            </div>
                            <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_lightSpeedIn lightSpeedIn" >
                               <div class="wpb_wrapper">
                                  <div class="heading head-left">
-                                    <p><span style="font-size: 16px;">Whether it&#8217;s retail packaging or industrial one, packaging design is one of the core components, you just cannot overlook. As a retail business, your product is up against zillions of products out there on the shelves and hence an eye-catchy and yet interesting design can take your business a long way. In the industrial arena buying decisions are also determined by designs as much as by features and benefits they have to offer to the buyers.</span></p>
+                                    <p><span style="font-size: 16px;">How would you know if the software you have been raving about for months is everything it needs to be? EASY! You hire us. We aim to find the gaps between what you need your software to be and what it presently is. We discover these software requirements and fix them for you. Our next step is making sure that it is bug-free before its delivery and launch so that your customers enjoy a secure platform.</span></p>
                                  </div>
-                                 <p class="text-justify">At Aarvy Technology, from ideation to execution, we leverage our years of experience and creative outlook to create stunning packaging persuading enough for your customers to buy your products.</p>
+                             
                               </div>
                            </div>
                         </div>
@@ -73,7 +72,7 @@ require('include/othernav.php');
                         <div class="wpb_wrapper">
                            <div  class="wpb_single_image wpb_content_element vc_align_left  wpb_animate_when_almost_visible wpb_appear appear">
                               <figure class="wpb_wrapper vc_figure">
-                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="800" height="800" src="wp-content/uploads/2021/02/packaging.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" srcset="https://aarvytechnologies.com/wp-content/uploads/2021/02/packaging.png 800w, https://aarvytechnologies.com/wp-content/uploads/2021/02/packaging-300x300.png 300w, https://aarvytechnologies.com/wp-content/uploads/2021/02/packaging-150x150.png 150w, https://aarvytechnologies.com/wp-content/uploads/2021/02/packaging-768x768.png 768w, https://aarvytechnologies.com/wp-content/uploads/2021/02/packaging-440x440.png 440w, https://aarvytechnologies.com/wp-content/uploads/2021/02/packaging-120x120.png 120w, https://aarvytechnologies.com/wp-content/uploads/2021/02/packaging-540x540.png 540w, https://aarvytechnologies.com/wp-content/uploads/2021/02/packaging-240x240.png 240w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="800" height="800" src="wp-content/uploads/2021/02/testing.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy"  sizes="(max-width: 800px) 100vw, 800px" /></div>
                               </figure>
                            </div>
                         </div>
@@ -90,7 +89,7 @@ require('include/othernav.php');
                         <div class="wpb_wrapper">
                            <div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_zoomInUp zoomInUp">
                               <figure class="wpb_wrapper vc_figure">
-                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="509" height="323" src="wp-content/uploads/2021/02/ad.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
+                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="509" height="323" src="wp-content/uploads/2021/02/testingsoftwere.gif" class="vc_single_image-img attachment-full" alt="" loading="lazy" /></div>
                               </figure>
                            </div>
                         </div>
@@ -99,43 +98,41 @@ require('include/othernav.php');
                   <div class="wpb_column vc_column_container vc_col-sm-6">
                      <div class="vc_column-inner ">
                         <div class="wpb_wrapper">
+                        <div class="heading_title" style="font-size:36px; line-height:1.333; font-weight:800; ">
+                                 <span class="heading_divider"></span>
+                                 <div>what do we offer?</div>
+                              </div>
                            <div class="wpb_text_column wpb_content_element " >
                               <div class="wpb_wrapper">
-                                 <p>Hyginos specializes in adding visual impact with bouts of creative thoughts infused while coming up with advertising and marketing collateral designing solutions that adds that much needed elevation your business needs.</p>
+                                 <p>They say no one can predict the future. Well, we can! Claim credibility and trust by ensuring security and endurance with SoftEzi’s Software Testing and QA services.</p>
                               </div>
                            </div>
                            <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                              <div class="wpb_column vc_column_container vc_col-sm-6">
+                              <div class="wpb_column vc_column_container vc_col-sm-12">
                                  <div class="vc_column-inner">
                                     <div class="wpb_wrapper">
                                        <div class="wpb_text_column wpb_content_element " >
                                           <div class="wpb_wrapper">
                                              <ul class="list-icon list-icon2">
-                                                <li>Magazines</li>
-                                                <li>Brochures</li>
-                                                <li>Business visiting cards</li>
-                                             </ul>
+                                                <li>Save your money by catching that bug today. Prevention is better than cure.
+We test, we try! Ensure that your product is efficient and functional by getting it tested. Deliver high-quality software ready for installation and configuration.
+</li>
+                                                <li>Hyginos gives you a precise idea of your product’s life cycle. We also ensure a fast release of your software to keep up with your development plan.</li>
+                                                <li>Avoid lagging! We ensure that the product delivers top-notch performance after it has been checked and fixed. Utilize our performance testing services.</li>
+                                          <li>
+                                          Our QA professionals ensure that you enjoy our maintenance services for the long haul.
+                                          </li>
+                                   </ul>
+
+                                   <p>
+                                   You could almost say, we’re no less than doctors, are we? And wise men say: You should never keep a doctor away.
+                                   </p>
                                           </div>
                                        </div>
                                     </div>
                                  </div>
                               </div>
-                              <div class="wpb_column vc_column_container vc_col-sm-6">
-                                 <div class="vc_column-inner">
-                                    <div class="wpb_wrapper">
-                                       <div class="wpb_text_column wpb_content_element " >
-                                          <div class="wpb_wrapper">
-                                             <ul class="list-icon list-icon2">
-                                                <li>Catalogues</li>
-                                                <li>Posters</li>
-                                                <li>Signages</li>
-                                                <li>And lot more</li>
-                                             </ul>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
+      
                            </div>
                         </div>
                      </div>

@@ -153,6 +153,10 @@
          padding-left: 25px;
          }
          }
+         .nonecol{
+
+flex-flow: revert;
+}
       </style>
   <noscript>
          <style> .wpb_animate_when_almost_visible { opacity: 1; }</style>

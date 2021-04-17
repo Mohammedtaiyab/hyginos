@@ -120,8 +120,8 @@
                                     </li>
 									<li id="menu-item-2594" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="aboutus.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>About us</span></span><span class="menu-item_plus"></span></span></a></li>
                                     <li id="menu-item-2594" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourclients.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Our Clients</span></span><span class="menu-item_plus"></span></span></a></li>
-                                    <li id="menu-item-2594" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourclients.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Blogs</span></span><span class="menu-item_plus"></span></span></a></li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourclients.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Our Partners</span></span><span class="menu-item_plus"></span></span></a></li>
+                                    <li id="menu-item-2594" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="blogs.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Blogs</span></span><span class="menu-item_plus"></span></span></a></li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourpartners.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Our Partners</span></span><span class="menu-item_plus"></span></span></a></li>
 
                                  </ul>
                               </nav>
@@ -217,8 +217,8 @@
                                     </li>
 									<li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="aboutus.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>About us</span></span><span class="menu-item_plus"></span></span></a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourclients.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Our Clients</span></span><span class="menu-item_plus"></span></span></a></li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourclients.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Blogs</span></span><span class="menu-item_plus"></span></span></a></li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourclients.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Our Partners</span></span><span class="menu-item_plus"></span></span></a></li>
+                                    <li id="menu-item-2594" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="blogs.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Blogs</span></span><span class="menu-item_plus"></span></span></a></li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourpartners.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Our Partners</span></span><span class="menu-item_plus"></span></span></a></li>
 
                                  </ul>
                               </nav>
@@ -305,8 +305,8 @@
                                     </li>
 									<li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="aboutus.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>About us</span></span><span class="menu-item_plus"></span></span></a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourclients.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Our Clients</span></span><span class="menu-item_plus"></span></span></a></li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourclients.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Blogs</span></span><span class="menu-item_plus"></span></span></a></li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourclients.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Our Partners</span></span><span class="menu-item_plus"></span></span></a></li>
+                                    <li id="menu-item-2594" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="blogs.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Blogs</span></span><span class="menu-item_plus"></span></span></a></li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourpartners.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Our Partners</span></span><span class="menu-item_plus"></span></span></a></li>
 
                                  </ul>
                               </nav>
@@ -446,8 +446,8 @@
 							  <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="aboutus.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>About us</span></span><span class="menu-item_plus"></span></span></a></li>
                               <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourclients.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Our Clients</span></span><span class="menu-item_plus"></span></span></a></li>
 
-                              <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourclients.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Blogs</span></span><span class="menu-item_plus"></span></span></a></li>
-                              <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourclients.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Our Partners</span></span><span class="menu-item_plus"></span></span></a></li>
+                              <li id="menu-item-2594" class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="blogs.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Blogs</span></span><span class="menu-item_plus"></span></span></a></li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page  wpmi-iposition-left wpmi-custom-style-2594 menu-item-2594"><a href="ourpartners.php"><span><span class='wpmi-mlabel'><span class='wpmi-mlabel'>Our Partners</span></span><span class="menu-item_plus"></span></span></a></li>
                            </ul>
                         </nav>
                      </div>
