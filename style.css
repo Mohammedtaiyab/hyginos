@@ -2198,3 +2198,105 @@ h6 span {
 
 	flex-flow: revert;
 }
+.hero-image{display:none;}
+@media only screen and (max-width: 600px) {
+    .vc_custom_1543332231082{display:none;}
+    .hero-image{display:block;}
+ }
+ .exclusions {
+font-family: Georgia;
+font-size: 8pt;
+letter-spacing: 1px;
+text-shadow: none;
+font-style: normal;
+}
+
+.hero-image {
+background-image: url("");
+background:linear-gradient(0deg, rgb(191 179 38 / 85%), rgb(204 66 66 / 56%)), url(wp-content/uploads/2021/02/allserv.gif);
+height: 100%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+}
+
+.hero-text {
+text-align: center;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+color: white;
+}
+
+.hero-exclusions {
+position: fixed;
+text-align: center;
+top: 88%;
+left: 50%;
+transform: translate(-50%, -50%);
+color: white;
+}
+
+.hero-text button {
+border: none;
+outline: 0;
+display: inline-block;
+padding: 12px 35px;
+color: white;
+background-color: #000;
+text-align: center;
+cursor: pointer;
+border: 5px solid black;
+margin-left: -1px;
+margin-top: 5%;
+font-size: 8pt;
+letter-spacing: 5px;
+font-weight: bold;
+font-family: Geogia;
+font-syle: italic;
+}
+
+.hero-text button:hover {
+background-color: transparent;
+color: white;
+border: 5px solid black;
+text-shadow: 2px 2px #000;
+}
+
+/*start of popup*/
+.exclusions {
+font-family: Georgia;
+font-size: 8pt;
+letter-spacing: 1px;
+text-shadow: none;
+font-style: normal;
+}
+
+.box {
+width: 40%;
+margin: 0 auto;
+background: rgba(255, 255, 255, 0.2);
+padding: 35px;
+border: 2px solid #fff;
+border-radius: 20px/50px;
+background-clip: padding-box;
+text-align: center;
+}
+
+.overlay {
+position: fixed;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+background: rgba(0, 0, 0, 0.7);
+transition: opacity 500ms;
+visibility: hidden;
+opacity: 0;
+}
+.overlay:target {
+visibility: visible;
+opacity: 1;
+}
