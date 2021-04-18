@@ -288,7 +288,7 @@ require('include/nav.php');
 
                   <div class="hero-image" style="height: 60vh;">
                      <div class="hero-text">
-                       <img src="wp-content/uploads/2021/02/Hyginos_Logo_green.png" alt="">
+                       <img src="wp-content/uploads/2021/02/Hyginos_Logo_white.png" alt="">
                        <p>Hyginos Technology LTD</p>
                        <div class="seofy_module_button wgl_button wgl_button-s button_def aleft"><a href="contactus.php" title="Get In Touch" target="_blank" style="border-width:1px; " class="wgl_button_link">Get In Touch</a></div>
                      </div>
