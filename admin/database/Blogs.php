@@ -63,6 +63,16 @@ class Blogs
 		$result =$this->db->con->query("UPDATE blogs SET Status='".$status."' WHERE ID='".$id."'");
 		return $result;
 	}
+
+	public function recenblog(){
+		$result =$this->db->con->query("SELECT * FROM blogs WHERE Status=1 LIMIT 3");
+		$resultArray=array();
+		while ($item=mysqli_fetch_array($result,MYSQLI_ASSOC)) {
+			$resultArray[]=$item;
+			# code...
+		}
+		return $resultArray;
+	}
 }
 ?>
 

@@ -54,7 +54,7 @@ $blog=$blogs->webblog();
                                 <div class="hover-area" style="background-image: url(" http://blog.connatix.com/wp-content/uploads/2017/06/pexels-photo-256738.jpeg");">
                                     <div class="flare"></div>
                                    
-                                    <a class="apply" href="">Full Article</a>
+                                    <a class="apply" href="blog.php?id=<?php echo$key['ID'];?>">Full Article</a>
                                 </div>
                             </div>
                         </div>
