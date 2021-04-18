@@ -157,6 +157,13 @@
 
 flex-flow: revert;
 }
+.description p{
+   overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+}
       </style>
   <noscript>
          <style> .wpb_animate_when_almost_visible { opacity: 1; }</style>

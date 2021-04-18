@@ -26,42 +26,29 @@ require('include/othernav.php');
          <div id='main-content' class="wgl_col-12">
             <section class="vc_section">
                <div class="vc_row wpb_row vc_row-fluid">
+
+
+               <?php $project=$sections->getAllprojectsweb();
+
+             
+               foreach ($project as $key) {?>
+            
                   <div class="wpb_column vc_column_container vc_col-sm-4">
                      <div class="vc_column-inner ">
                         <div class="wpb_wrapper">
                            <div class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_flipInX flipInX  scroll_image">
-                              <h2 class="wpb_heading wpb_singleimage_heading"></h2>
+                              <h2 class="wpb_heading wpb_singleimage_heading"><?php echo$key['Title'];?></h2>
                               <figure class="wpb_wrapper vc_figure">
-                                 <a href="#" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img width="540" height="1080" src="" class="vc_single_image-img attachment-full" alt="" loading="lazy"  sizes="(max-width: 540px) 100vw, 540px" /></a>
+                                 <a href="<?php echo$key['Paragraph'];?>" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey">
+                                 <img width="540" height="1080" src="assets/img/<?php echo$key['Bg_img'];?>" class="vc_single_image-img attachment-full" alt="" loading="lazy"  sizes="(max-width: 540px) 100vw, 540px" /></a>
                               </figure>
                            </div>
                         </div>
                      </div>
                   </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-4">
-                     <div class="vc_column-inner ">
-                        <div class="wpb_wrapper">
-                           <div class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_flipInX flipInX  scroll_image">
-                              <h2 class="wpb_heading wpb_singleimage_heading"></h2>
-                              <figure class="wpb_wrapper vc_figure">
-                                 <a href="#" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img width="1366" height="8048" src="" class="vc_single_image-img attachment-full" alt="" loading="lazy"  sizes="(max-width: 1366px) 100vw, 1366px" /></a>
-                              </figure>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="wpb_column vc_column_container vc_col-sm-4">
-                     <div class="vc_column-inner ">
-                        <div class="wpb_wrapper">
-                           <div class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_flipInX flipInX  scroll_image">
-                              <h2 class="wpb_heading wpb_singleimage_heading"></h2>
-                              <figure class="wpb_wrapper vc_figure">
-                                 <a href="#" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img width="1366" height="8048" src="" class="vc_single_image-img attachment-full" alt="" loading="lazy"  sizes="(max-width: 1366px) 100vw, 1366px" /></a>
-                              </figure>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
+                  <?php } ?>
+           
+                
                </div>
 
 

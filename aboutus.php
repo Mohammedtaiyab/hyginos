@@ -177,39 +177,24 @@ require('include/othernav.php');
 
       <div class="container">
         <div class="row">
+        <?php $whyussec=$header->webwhyus();
+        
+        foreach ($whyussec as $key) {?>
 
           <div class="col-md-4">
             <div class="team-member">
               <figure>
-                <img src="wp-content/themes/seofy/img/COO.jpeg" alt="" class="img-responsive imgr">
+                <img src="assets/img/<?php echo $key['icon_img'];?>" alt="" class="img-responsive imgr">
             
               </figure>
-              <h4>Gavvaraju Rajapanthula.</h4>
-              <p>Chief Operating Officer</p>
+              <h4><?php echo $key['Title'];?></h4>
+              <p><?php echo $key['Paragraph'];?></p>
             </div><!-- /.team-member-->
           </div><!-- /.col-md-4 -->
+<?php } ?>
+    
 
-          <div class="col-md-4">
-            <div class="team-member">
-              <figure>
-                <img src="wp-content/themes/seofy/img/Ceo.jpeg" alt="" class="img-responsive imgr">
-             
-              </figure>
-              <h4>Bhaskar kotturi</h4>
-              <p>Chief Executive Officer</p>
-            </div><!-- /.team-member-->
-          </div><!-- /.col-md-4 -->
-
-          <div class="col-md-4">
-            <div class="team-member">
-              <figure>
-                <img src="wp-content/themes/seofy/img/md.jpeg" alt="" class="img-responsive imgr">
-             
-              </figure>
-              <h4>Murthy Konambhotla</h4>
-              <p>Managing Director </p>
-            </div><!-- /.team-member-->
-          </div><!-- /.col-md-4 -->
+  
 
 
         </div><!-- /.row -->
@@ -270,58 +255,22 @@ require('include/othernav.php');
                                        <div class="seofy_module_carousel-wrapper">
                                           <div id=seofy_carousel_60657eff699ed class="seofy_module_carousel pagination_line_circle pag_align_center">
                                              <div class="seofy_carousel_slick" data-slick='{"slidesToShow":2,"slidesToScroll":1,"infinite":true,"autoplay":false,"autoplaySpeed":"3000","speed":300,"arrows":false,"dots":true,"adaptiveHeight":false,"responsive":[{"breakpoint":1025,"settings":{"slidesToShow":2,"slidesToScroll":1}},{"breakpoint":800,"settings":{"slidesToShow":2,"slidesToScroll":1}},{"breakpoint":480,"settings":{"slidesToShow":1,"slidesToScroll":1}}]}'>
+                                             <?php $reviews=$services->reviewsweb();
+                                                 foreach ($reviews as $key) {?>
                                                 <div class="testimonials_item">
                                                    <div class="testimonials_item_wrap">
                                                       <div class="testimonials_content_wrap">
                                                          <div class="testimonials_meta_wrap">
                                                             <div class="testimonials_name_wrap">
-                                                               <h3 class="testimonials_name" >Rahul</h3>
+                                                               <h3 class="testimonials_name" ><?php echo$key['Give_by'];?></h3>
                                                                <span class="testimonials_status" ></span>
                                                             </div>
                                                          </div>
-                                                         <div class="testimonials_quote" >One of your technicians came, did what he had to do, and left. He’s not only talented but also a nice guy. As I told him, that was the best phone call I made all week. I’m most appreciative.</div>
+                                                         <div class="testimonials_quote" ><?php echo$key['Review'];?></div>
                                                       </div>
                                                    </div>
                                                 </div>
-                                                <div class="testimonials_item">
-                                                   <div class="testimonials_item_wrap">
-                                                      <div class="testimonials_content_wrap">
-                                                         <div class="testimonials_meta_wrap">
-                                                            <div class="testimonials_name_wrap">
-                                                               <h3 class="testimonials_name" >Eleanor</h3>
-                                                               <span class="testimonials_status" ></span>
-                                                            </div>
-                                                         </div>
-                                                         <div class="testimonials_quote" >&quot;HYGINOS as demonstrated they are a professional, dedicated and customer focused IT services and support organization.&quot;</div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                                <div class="testimonials_item">
-                                                   <div class="testimonials_item_wrap">
-                                                      <div class="testimonials_content_wrap">
-                                                         <div class="testimonials_meta_wrap">
-                                                            <div class="testimonials_name_wrap">
-                                                               <h3 class="testimonials_name" >David</h3>
-                                                               <span class="testimonials_status" ></span>
-                                                            </div>
-                                                         </div>
-                                                         <div class="testimonials_quote" >&quot;They provide great quality for the best prices that i have found in the business thanks for the good job.&quot;</div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                                <div class="testimonials_item">
-                                                   <div class="testimonials_item_wrap">
-                                                      <div class="testimonials_content_wrap">
-                                                         <div class="testimonials_meta_wrap">
-                                                            <div class="testimonials_name_wrap">
-                                                               <h3 class="testimonials_name" >Sumit</h3>
-                                                               <span class="testimonials_status" ></span>
-                                                            </div>
-                                                         </div>
-                                                         <div class="testimonials_quote" >&quot;I just checked the app. WELL DONE guys - you made my day!!! Looks really good!&quot;</div>
-                                                      </div>
-                                                   </div>
-                                                </div>
+                                                <?php } ?>
                                              </div>
                                           </div>
                                        </div>

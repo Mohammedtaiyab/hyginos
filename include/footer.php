@@ -101,10 +101,10 @@
                                     <div class="vc_column-inner">
                                        <div class="wpb_wrapper">
                                     <div class="vc_col-sm-6">
+                                    <?php  $about=$employee->aboutus(); ?>
                                     <div class ="seofy_module_text" style="font-size:16px;line-height:30px;">
                                           <span style="color: #ffffff;">Head Office   </span><br>
-                                          <span  class="">9-2-167, UKV nagar,
-                                             9th Street, Pondicherry, Yanam -533464.</span>
+                                          <span  class=""><?php echo $about[0]['Headoffice'];?></span>
                                              
                                         
                                           </div>
@@ -113,15 +113,14 @@
                                     <div class ="seofy_module_text" style="font-size:16px;line-height:30px;">
                                           <span style="color: #ffffff;">Branch Office:</span><br>
                                           
-                                          <span  class=""> 5-1-87, Suryaraopeta ,
-                                             Andhra Pradesh , kakinada urban - 533001</span>
+                                          <span  class=""><?php echo $about[0]['Branchoffice'];?></span>
                                              
                                       
                                           </div>
                                     </div>
                                         
-                                          <span style="font-weight: bold;" class="custom-weight">Email:</span> <a href="mailto:info@hyginos.in" style="color: #ffffff;">info@Hyginos.in</a></span><br>
-                                          <span style="font-weight: bold;" class="custom-weight">Phone:</span> <a href="mailto:info@hyginos.in" style="color: #ffffff;">+91 9391767777 , +91 9492505152</a></span>
+                                          <span style="font-weight: bold;" class="custom-weight">Email:</span> <a href="mailto:<?php echo $about[0]['Email'];?>" style="color: #ffffff;"><?php echo $about[0]['Email'];?></a></span><br>
+                                          <span style="font-weight: bold;" class="custom-weight">Phone:</span> <a href="" style="color: #ffffff;"><?php echo $about[0]['Phone'];?></a></span>
                                        </div>
                                           <div  class ="seofy_module_spacing">
                                              <div class="spacing_size spacing_size-initial" style="height:7px;"></div>

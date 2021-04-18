@@ -47,8 +47,9 @@ require('include/othernav.php');
 											<div class="infobox_icon_container" style="width:50px; height:50px; "><i class="infobox_icon flaticon-map" style="font-size:25px;"></i></div>
 										</div>
 										<div class="infobox_content_wrapper">
+										<?php  $about=$employee->aboutus(); ?>
 											<h3 class="infobox_title" style="font-size:18px; font-weight:700; margin-bottom:0px; ">Head office / registered office:</h3>
-											<div class="infobox_content" style="font-size:18px; ">9-2-167, UKV nagar,<br>9th Street, Pondicherry , Yanam -533464</div>
+											<div class="infobox_content" style="font-size:18px; width:50%"><?php echo $about[0]['Headoffice'];?></div>
 										</div>
 									</div>
 								</div>
@@ -62,7 +63,7 @@ require('include/othernav.php');
 										</div>
 										<div class="infobox_content_wrapper">
 											<h3 class="infobox_title" style="font-size:18px; font-weight:700; margin-bottom:0px; ">Branch:</h3>
-											<div class="infobox_content" style="font-size:18px; "> 5-1-87, Suryaraopeta , <br>opposite two town police station,<br> Andhra Pradesh , kakinada urban - 533001</div>
+											<div class="infobox_content" style="font-size:18px; width:50%"><?php echo $about[0]['Branchoffice'];?></div>
 										</div>
 									</div>
 								</div>
@@ -76,7 +77,7 @@ require('include/othernav.php');
 										</div>
 										<div class="infobox_content_wrapper">
 											<h3 class="infobox_title" style="font-size:18px; font-weight:700; margin-bottom:0px; ">Mail Us:</h3>
-											<div class="infobox_content" style="font-size:18px; ">Info@Hyginos.in</div>
+											<div class="infobox_content" style="font-size:18px; "><?php echo $about[0]['Email'];?></div>
 										</div>
 									</div>
 								</div>
@@ -90,8 +91,8 @@ require('include/othernav.php');
 										</div>
 										<div class="infobox_content_wrapper">
 											<h3 class="infobox_title" style="font-size:18px; font-weight:700; margin-bottom:0px; ">Call Us:</h3>
-											<div class="infobox_content" style="font-size:18px; ">+91 9391767777 </div>
-											<div class="infobox_content" style="font-size:18px; ">+91 9492505152</div>
+											<div class="infobox_content" style="font-size:18px;"><?php echo $about[0]['Phone'];?></div>
+											
 										</div>
 									</div>
 								</div>
