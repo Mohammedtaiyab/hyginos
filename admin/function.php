@@ -95,6 +95,43 @@ if(isset($_POST['blog'])){
 	$updateservice=$blogs->addblog($title,$paragraph,$new_filename,$category,$tags);
 	header('Location: blog.php');
 }
+
+
+
+
+
+
+
+
+
+
+if(isset($_POST['job'])){
+
+	$title=$_POST['title'];
+	$paragraph=$_POST['paragraph'];
+	$company=$_POST['company'];
+	$tags=$_POST['tags'];
+	$updateservice=$employee->addjob($title,$paragraph,$company,$tags);
+	header('Location: career.php');
+}
+
+if(isset($_POST['updatejob'])){
+	$id=$_POST['id'];
+	$title=$_POST['title'];
+	$paragraph=$_POST['paragraph'];
+	$company=$_POST['company'];
+	$tags=$_POST['tags'];
+	
+	$updateservice=$employee->updatejob($id,$title,$paragraph,$company,$tags);
+	header('Location: career.php');
+}
+
+
+
+
+
+
+
 if(isset($_POST['updateblog'])){
 	$id=$_POST['id'];
 	$title=$_POST['title'];

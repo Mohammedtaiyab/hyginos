@@ -61,13 +61,13 @@
 						<div class="menu-title">Team</div>
 					</a>
 				</li>
-					<!-- <li>
-					<a  href="services.php">
+					<li>
+					<a  href="career.php">
 						<div class="parent-icon icon-color-11"><i class="bx bx-group"></i>
 						</div>
 						<div class="menu-title">Career</div>
 					</a>
-				</li> -->
+				</li>
 			
 				
 					<li>

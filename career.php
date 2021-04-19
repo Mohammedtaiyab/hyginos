@@ -1,7 +1,20 @@
 <?php
 require('include/head.php');
 ?>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Primer/10.8.1/build.css" />
+<link rel="stylesheet" href="build.css" />
+<style>
+    .formsub{
+        vertical-align: baseline;
+    font-family: inherit;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    outline: 0;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    }
+</style>
 <?php
 require('include/headstyle.php');
 
@@ -30,37 +43,59 @@ require('include/othernav.php');
         <div class="row ">
             <div id='main-content' class="wgl_col-12">
                 <div class="row">
+
+
+
+
+
+
+
+
+
+
+
+                <?php
+									
+                $jobs=$employee->webjob();
+
+                foreach ($jobs as $job) {
+?>
                     <div class="col-md-4">
                         <div class="Box m-4">
                             <div class="Box-row Box-row--unread">
                                 <div class="CircleBadge CircleBadge--small bg-green float-left d-block mr-3 text-center">
-                                <img src="wp-content/uploads/2021/02/Hyginos_Logo_white.png" alt="">
+                                    <img src="wp-content/uploads/2021/02/Hyginos_Logo_white.png" alt="">
                                 </div>
-                                <h4>Senior iOS Engineer</h4>
-                                <span>SuperAppCo</span><br />
-                                <span>
-                                    <label class="Label Label--gray mr-1">IOS</label> <label class="Label Label--gray mr-1">SENIOR</label> <label class="Label Label--gray mr-1">ENGINEER</label>
+                                <h4><?php echo $job['Title'];?></h4>
+                                <span><?php echo $job['Company'];?></span><br />
+                                <span><?php
+                                $tages=explode(',',$job['Tags']);
+           $length = count($tages);
+           for ($i = 0; $i < $length; $i++) { ?>
+            <label class="Label Label--gray mr-1"><?php echo $tages[$i] ?></label>
+
+          <?php  } ?>
+                                 
                                 </span>
                             </div>
                             <div class="Box-row">
-                                <ul class=" ml-4 mb-0">
-                                    <li><b>
-                                            $150-$200k</b> salary</li>
-                                    <li>
-                                        Flexible hours</li>
-                                    <li>
-                                        Up to <b>20</b> weeks parental leave</li>
-                                    <li>
-                                        <b>$3,000</b> learning budget per year
-                                    </li>
-                                    <li>
-                                        New laptop every 2 years
-                                    </li>
-                                </ul>
+                            <?php echo $job['Description'];?>
                             </div>
                         </div>
 
                     </div>
+
+
+<?php } ?>
+
+
+
+
+
+
+
+
+
 
                 </div>
 
@@ -94,34 +129,35 @@ require('include/othernav.php');
                         <div class="wpb_column vc_column_container vc_col-sm-12">
                             <div class="vc_column-inner ">
                                 <div class="wpb_wrapper">
-                                    <div role="form" class="wpcf7" id="wpcf7-f2557-p2553-o1" lang="en-US" dir="ltr">
-                                        <div class="screen-reader-response">
+
+
+                                    <div role="form" class="formsub" id="wpcf7-f2557-p2553-o1" lang="en-US" dir="ltr">
+                                        
+                                    <div class="screen-reader-response">
                                             <p role="status" aria-live="polite" aria-atomic="true"></p>
                                             <ul></ul>
                                         </div>
-                                        <form action="https://aarvytechnologies.com/career/#wpcf7-f2557-p2553-o1" method="post" class="wpcf7-form init" enctype="multipart/form-data" novalidate="novalidate" data-status="init">
-                                            <div style="display: none;">
-                                                <input type="hidden" name="_wpcf7" value="2557" />
-                                                <input type="hidden" name="_wpcf7_version" value="5.3.2" />
-                                                <input type="hidden" name="_wpcf7_locale" value="en_US" />
-                                                <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f2557-p2553-o1" />
-                                                <input type="hidden" name="_wpcf7_container_post" value="2553" />
-                                                <input type="hidden" name="_wpcf7_posted_data_hash" value="" />
-                                            </div>
+                                        <form action="" method="post" class="wpcf7-form init" enctype="multipart/form-data" >
+
                                             <p><label> Your Name<br />
-                                                    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </label></p>
-                                            <p><label> Your Email:<br />
-                                                    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span> </label></p>
-                                            <p><label> Position: <span class="wpcf7-form-control-wrap post_name"><select name="post_name" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
+                                                    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </label></p>
+                                                    <p><label> Your Phone No.<br />
+                                                    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-required="true" aria-invalid="false" /></span> </label></p>
+                                                    <p><label> Your Email:<br />
+                                                    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span> </label></p>
+                                            <p><label> Position: <span class="wpcf7-form-control-wrap post_name"><select name="position" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
                                                             <option value="">---</option>
-                                                            <option value="WEB DEVELOPER">WEB DEVELOPER</option>
-                                                            <option value="ANDROID DEVELOPER">ANDROID DEVELOPER</option>
+                                                            <?php foreach ($jobs as $job) { ?>
+                                                                <option value="<?php echo $job['Title'];?>"><?php echo $job['Title'];?></option>
+                                                                <?php } ?>
+                                                           
+                                                           
                                                         </select></span> </label></p>
-                                            <p><label> Upload Resume <small style="color:red;">* (2 MB Limit)</small>: <span class="wpcf7-form-control-wrap resume_file"><input type="file" name="resume_file" size="40" class="wpcf7-form-control wpcf7-file wpcf7-validates-as-required" accept=".pdf" aria-required="true" aria-invalid="false" /></span> </label></p>
+                                            <p><label> Upload Resume <small style="color:red;">* (2 MB Limit)</small>: <span class="wpcf7-form-control-wrap resume_file"><input type="file" name="cv" size="40" class="wpcf7-form-control wpcf7-file wpcf7-validates-as-required" accept=".pdf" aria-required="true" aria-invalid="false" /></span> </label></p>
                                             <p><label> Any Note (optional):<br />
-                                                    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span> </label></p>
+                                                    <span class="wpcf7-form-control-wrap your-message"><textarea name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span> </label></p>
                                             <p>
-                                                <center><input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit" /></center>
+                                                <center><input type="submit" value="Submit" name="jobsubmit" class="wpcf7-form-control wpcf7-submit" /></center>
                                             </p>
                                             <div class="wpcf7-response-output" aria-hidden="true"></div>
                                         </form>
@@ -143,7 +179,33 @@ require('include/othernav.php');
 
 
 
+<?php
 
+if(isset($_POST['jobsubmit'])){
+  $name=$_POST['name'];
+  $phone=$_POST['phone'];
+  $email=$_POST['email'];
+  $position=$_POST['position'];
+  $msg=$_POST['message'];
+  $filename = $_FILES['cv']['name'];
+	if(!empty($filename)){
+				$ext = pathinfo($filename, PATHINFO_EXTENSION);
+				$new_filename = rand(10,10000)."_".$name.'.'.$ext;
+				move_uploaded_file($_FILES['cv']['tmp_name'], 'cv/'.$new_filename);	
+			}
+			else{
+				$new_filename = '';
+			}
+  $contact=$header->jobapply($name,$phone,$email,$position,$msg,$new_filename);
+  $to=$email;
+  $from=$name;
+  $name= "hr@for-catering.com";
+  $subj ="Contact Enquiry";
+  //$mssg = $msg."<br>Name:-".$name."<br>Phone:-".$phone."<br>Address:-".$city." ".$state; 
+  $new_filename="";
+  //$error=smtpmailer($to,$from, $name ,$subj, $mssg,$new_filename);
+}
+?>
 
 
 

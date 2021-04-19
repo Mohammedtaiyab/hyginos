@@ -808,12 +808,12 @@ require('include/nav.php');
                            <div class="vc_column-inner ">
                               <div class="wpb_wrapper">
                              
-                              <div role="form" class="wpcf7" id="wpcf7-f2496-p1056-o1" lang="en-US" dir="ltr">
+                              <div role="form" lang="en-US" dir="ltr">
                                     <div class="screen-reader-response">
                                        <p role="status" aria-live="polite" aria-atomic="true"></p>
                                        <ul></ul>
                                     </div>
-                                    <form action="" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+                                    <form action="index.php" method="post">
                                        <style>
                                           .control-label{display: none;}
                                           .mr2{
@@ -824,35 +824,51 @@ require('include/nav.php');
                                         <div class="form-group">
     <label class="control-label col-sm-2" for="email">Name:</label>
     <div class="col-sm-10 mr2">
-      <input type="text" class="form-control" id="email" placeholder="Enter Name">
+      <input type="text" name="name" class="form-control" id="" placeholder="Enter Name">
     </div>
   </div>
                                         <div class="form-group">
     <label class="control-label col-sm-2" for="email">Email:</label>
     <div class="col-sm-10 mr2">
-      <input type="email" class="form-control" id="email" placeholder="Enter email">
+      <input type="email" name="email" class="form-control" id="email" placeholder="Enter email">
     </div>
   </div>
   <div class="form-group">
-    <label class="control-label col-sm-2" for="email">Phone:</label>
+    <label class="control-label col-sm-2" for="">Phone:</label>
     <div class="col-sm-10 mr2">
-      <input type="text" class="form-control" id="email" placeholder="Enter Contact No.">
+      <input type="text" name="phone" class="form-control" id="" placeholder="Enter Contact No.">
     </div>
   </div>
   <div class="form-group">
     <label class="control-label col-sm-2" for="">Message</label>
     <div class="col-sm-10 mr2">
-      <textarea type="text" class="form-control" id="" placeholder="Enter Message"></textarea>
+      <textarea type="text" name="message" class="form-control" id="" placeholder="Enter Message"></textarea>
     </div>
   </div>
   <div class="form-group">
     <div class="col-sm-10">
-    <input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit" />
+    <input type="submit" value="Submit" name="contact" class="" />
     </div>
   </div>
+<?php
 
+  if(isset($_POST['contact'])){
+  $name=$_POST['name'];
+  $phone=$_POST['phone'];
+  $email=$_POST['email'];
+  $required="--";//$_POST['required'];
+  $msg=$_POST['message'];
+  $contact=$header->savecontact($name,$phone,$email,$required,$msg);
+  $to=$email;
+  $from=$name;
+  $name= "hr@for-catering.com";
+  $subj ="Contact Enquiry";
+ //$mssg = $msg."<br>Name:-".$name."<br>Phone:-".$phone."<br>Address:-".$city." ".$state; 
+  $new_filename="";
+  //$error=smtpmailer($to,$from, $name ,$subj, $mssg,$new_filename);
+}
+?>
 
- 
 
 
 

@@ -1,5 +1,6 @@
 <?php
 require('include/head.php');
+
 require('include/headstyle.php');
 require('include/othernav.php');
 ?>
@@ -47,9 +48,9 @@ require('include/othernav.php');
 											<div class="infobox_icon_container" style="width:50px; height:50px; "><i class="infobox_icon flaticon-map" style="font-size:25px;"></i></div>
 										</div>
 										<div class="infobox_content_wrapper">
-										<?php  $about=$employee->aboutus(); ?>
+											<?php $about = $employee->aboutus(); ?>
 											<h3 class="infobox_title" style="font-size:18px; font-weight:700; margin-bottom:0px; ">Head office / registered office:</h3>
-											<div class="infobox_content" style="font-size:18px; width:50%"><?php echo $about[0]['Headoffice'];?></div>
+											<div class="infobox_content" style="font-size:18px; width:50%"><?php echo $about[0]['Headoffice']; ?></div>
 										</div>
 									</div>
 								</div>
@@ -63,7 +64,7 @@ require('include/othernav.php');
 										</div>
 										<div class="infobox_content_wrapper">
 											<h3 class="infobox_title" style="font-size:18px; font-weight:700; margin-bottom:0px; ">Branch:</h3>
-											<div class="infobox_content" style="font-size:18px; width:50%"><?php echo $about[0]['Branchoffice'];?></div>
+											<div class="infobox_content" style="font-size:18px; width:50%"><?php echo $about[0]['Branchoffice']; ?></div>
 										</div>
 									</div>
 								</div>
@@ -77,7 +78,7 @@ require('include/othernav.php');
 										</div>
 										<div class="infobox_content_wrapper">
 											<h3 class="infobox_title" style="font-size:18px; font-weight:700; margin-bottom:0px; ">Mail Us:</h3>
-											<div class="infobox_content" style="font-size:18px; "><?php echo $about[0]['Email'];?></div>
+											<div class="infobox_content" style="font-size:18px; "><?php echo $about[0]['Email']; ?></div>
 										</div>
 									</div>
 								</div>
@@ -91,8 +92,8 @@ require('include/othernav.php');
 										</div>
 										<div class="infobox_content_wrapper">
 											<h3 class="infobox_title" style="font-size:18px; font-weight:700; margin-bottom:0px; ">Call Us:</h3>
-											<div class="infobox_content" style="font-size:18px;"><?php echo $about[0]['Phone'];?></div>
-											
+											<div class="infobox_content" style="font-size:18px;"><?php echo $about[0]['Phone']; ?></div>
+
 										</div>
 									</div>
 								</div>
@@ -108,26 +109,37 @@ require('include/othernav.php');
 								<div class="wpb_text_column wpb_content_element  vc_custom_1542726008557 box-shadow">
 									<div class="wpb_wrapper">
 										<h4 style="margin-bottom: 30px;"><span style="font-weight: bold;" class="custom-weight">Drop Us a Line</span></h4>
-										<div role="form" class="wpcf7" id="wpcf7-f466-p450-o1" lang="en-US" dir="ltr">
+										<div role="form" class="" id="" lang="en-US" dir="ltr">
 											<div class="screen-reader-response">
 												<p role="status" aria-live="polite" aria-atomic="true"></p>
 												<ul></ul>
 											</div>
-											<form action="https://aarvytechnologies.com/contact-us/#wpcf7-f466-p450-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
-												<div style="display: none;">
-													<input type="hidden" name="_wpcf7" value="466" />
-													<input type="hidden" name="_wpcf7_version" value="5.3.2" />
-													<input type="hidden" name="_wpcf7_locale" value="en_US" />
-													<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f466-p450-o1" />
-													<input type="hidden" name="_wpcf7_container_post" value="450" />
-													<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
-												</div>
+											<form action="contactus.php" method="post" class="wpcf7-form init" >
+												
 												<div class='row'>
-													<div class='wgl_col-12'><span class="wpcf7-form-control-wrap text-759"><input type="text" name="text-759" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Name *" /></span></div>
-													<div class='wgl_col-12'><span class="wpcf7-form-control-wrap email-613"><input type="email" name="email-613" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-email" aria-invalid="false" placeholder="Email *" /></span></div>
-													<div class='wgl_col-12'><span class="wpcf7-form-control-wrap textarea-378"><textarea name="textarea-378" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message..."></textarea></span></div>
+													<div class='wgl_col-12'><span class="wpcf7-form-control-wrap text-759"><input type="text" name="name" value="" size="40" class="" placeholder="Name *" /></span></div>
+													<div class='wgl_col-12'><span class=""><input type="text" name="phone" value="" size="40" class="" placeholder="Phone No. *" /></span></div>
+													 <div class='wgl_col-12'><span class="wpcf7-form-control-wrap "><input type="email" name="email" value="" size="40" class="wpcf7-form-control  " placeholder="Email *" /></span></div>
+													<div class='wgl_col-12'><span class="wpcf7-form-control-wrap ">
+													<select name="required" class="wpcf7-form-control" aria-required="true">
+                                                            <option value="">Type Of Service Required</option>
+                                                            <option value="Web Development">Web Development</option>
+                                                            <option value="Mobile Application">Mobile Application </option>
+															<option value="Digital Marketing">Digital Marketing</option>
+                                                            <option value="Cloud Computing">Cloud Computing</option>
+															<option value="Artifical Intelligence">Artifical Intelligence</option>
+                                                            <option value="Machine Learning">Machine Learning</option>
+															<option value="IT Consultancy">IT Consultancy</option>
+                                                            <option value="Software Testing">Software Testing</option>
+															<option value="UI/UX Designing">UI/UX Designing</option>
+                                                            <option value="Internet Of Things">Internet Of Things</option>
+                                                        </select>	
+
+													</span></div>
+													
+													<div class='wgl_col-12'><span class="wpcf7-form-control-wrap textarea-378"><textarea name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" placeholder="Message..."></textarea></span></div> 
 												</div>
-												<p><input type="submit" value="SEND A MESSAGE" class="wpcf7-form-control wpcf7-submit" /></p>
+												<p><input type="submit" name="contact" value="SEND A MESSAGE" class="" /></p>
 												<div class="wpcf7-response-output" aria-hidden="true"></div>
 											</form>
 										</div>
@@ -142,15 +154,28 @@ require('include/othernav.php');
 
 		</div>
 	</div>
-
 </main>
 
 
 
+<?php
 
-
-
-
+if(isset($_POST['contact'])){
+  $name=$_POST['name'];
+  $phone=$_POST['phone'];
+  $email=$_POST['email'];
+  $required=$_POST['required'];
+  $msg=$_POST['message'];
+  $contact=$header->savecontact($name,$phone,$email,$required,$msg);
+  $to=$email;
+  $from=$name;
+  $name= "hr@for-catering.com";
+  $subj ="Contact Enquiry";
+  //$mssg = $msg."<br>Name:-".$name."<br>Phone:-".$phone."<br>Address:-".$city." ".$state; 
+  $new_filename="";
+  //$error=smtpmailer($to,$from, $name ,$subj, $mssg,$new_filename);
+}
+?>
 
 <?php
 require('include/footer.php');

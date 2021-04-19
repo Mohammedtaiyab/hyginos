@@ -55,5 +55,61 @@ class Employee
 		return $result;
 	
 	}
+
+
+
+
+
+
+	public function getallData(){
+		$result =$this->db->con->query("SELECT * FROM jobsvacancy ORDER BY ID DESC");
+		$resultArray=array();
+		while ($item=mysqli_fetch_array($result,MYSQLI_ASSOC)) {
+			$resultArray[]=$item;
+			# code...
+		}
+		return $resultArray;
+	}
+
+	public function addjob($title,$paragraph,$company,$tags){
+		$addon=date('Y-m-d');
+	$sql="INSERT INTO jobsvacancy(Title,Description,Addon,Company,Tags) VALUES ('$title','$paragraph','$addon','$company','$tags')";
+	$result = mysqli_query($this->db->con,$sql) or die(mysqli_error($this->db->con));
+	return $result;
+}
+public function jobstatus($id,$status){
+	$result =$this->db->con->query("UPDATE jobsvacancy SET Status='".$status."' WHERE ID='".$id."'");
+	return $result;
+}
+
+
+
+
+
+public function getDatabyid($id){
+	$result =$this->db->con->query("SELECT * FROM jobsvacancy WHERE ID=".$id);
+	$resultArray=array();
+	while ($item=mysqli_fetch_array($result,MYSQLI_ASSOC)) {
+		$resultArray[]=$item;
+		# code...
+	}
+	return $resultArray;
+}
+
+
+public function updatejob($id,$title,$paragraph,$company,$tags){
+		$result =$this->db->con->query("UPDATE jobsvacancy SET Title='".$title."',Description='".$paragraph."',Company='".$company."',Tags='".$tags."' WHERE ID=".$id);
+		return $result;
+	}
+	public function webjob(){
+		$result =$this->db->con->query("SELECT * FROM jobsvacancy WHERE Status=1");
+		$resultArray=array();
+		while ($item=mysqli_fetch_array($result,MYSQLI_ASSOC)) {
+			$resultArray[]=$item;
+			# code...
+		}
+		return $resultArray;
+	}
+
 }
 ?>

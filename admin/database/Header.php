@@ -98,20 +98,26 @@ public function webwhyus(){
 					return $result;
 			
 	}
-		public function savecontact($name,$phone,$email,$state,$city,$msg){
-			$result =$this->db->con->query("INSERT INTO contacts(Name,Phone,Email,State,City,Messege,Status,Type) VALUES ('".$name."',".$phone.",'".$email."','".$state."','".$city."','".$msg."','Pending','Contact')");
+		public function savecontact($name,$phone,$email,$state,$msg){
+			$result =$this->db->con->query("INSERT INTO contacts(Name,Phone,Email,State,Messege,Status,Type) VALUES ('".$name."',".$phone.",'".$email."','".$state."','".$msg."','Pending','Contact')");
 			return $result;
 	}
-	public function savechef($name,$age,$gender,$phone,$email,$state,$city,$profi,$msg){
-		$result =$this->db->con->query("INSERT INTO contacts(Name,Age,Gender,Phone,Email,State,City,proficient,Messege,Status,Type) VALUES ('".$name."','".$age."','".$gender."',".$phone.",'".$email."','".$state."','".$city."','".$profi."','".$msg."','Pending','Chef')");
+
+
+
+	public function jobapply($name,$phone,$email,$position,$msg,$cv){
+		$result =$this->db->con->query("INSERT INTO contacts(Name,Phone,Email,State,Messege,Status,Type,CV) VALUES ('".$name."',".$phone.",'".$email."','".$position."','".$msg."','Pending','Job','".$cv."')");
 		return $result;
 }
+
+
+
 public function saveevent($name,$age,$gender,$phone,$email,$state,$city,$profi,$msg){
 	$result =$this->db->con->query("INSERT INTO contacts(Name,Age,Gender,Phone,Email,State,City,proficient,Messege,Status,Type) VALUES ('".$name."','".$age."','".$gender."',".$phone.",'".$email."','".$state."','".$city."','".$profi."','".$msg."','Pending','Event')");
 	return $result;
 }
 	public function getcontact(){
-		$result =$this->db->con->query("SELECT * FROM contacts  WHERE Type='Contact'");
+		$result =$this->db->con->query("SELECT * FROM contacts  WHERE Type='Contact' ORDER BY ID  DESC");
 		$resultArray=array();
 		while ($item=mysqli_fetch_array($result,MYSQLI_ASSOC)) {
 			$resultArray[]=$item;
@@ -128,8 +134,8 @@ public function saveevent($name,$age,$gender,$phone,$email,$state,$city,$profi,$
 		}
 		return $resultArray;
 	}
-	public function getevents(){
-		$result =$this->db->con->query("SELECT * FROM contacts WHERE Type='Event'");
+	public function getjobs(){
+		$result =$this->db->con->query("SELECT * FROM contacts WHERE Type='Job'");
 		$resultArray=array();
 		while ($item=mysqli_fetch_array($result,MYSQLI_ASSOC)) {
 			$resultArray[]=$item;

@@ -40,25 +40,35 @@ $chero=$header->getcontacthead();
 										<tr>
 											<th>SNo:</th>
 											<th>Full Name</th>
-											<th>Age</th>
-											<th>Gender</th>
 											<th>Email</th>
 											<th>Phone</th>
-											<th>CV</th>
-											<th>Address</th>
+											<th>Enquiry About</th>
 											<th>Message</th>
+										
 										
 										</tr>
 									</thead>
 									<tbody>
-										<?php
+									<?php
 										$i=1;
-										$events=$header->getevents();
-										foreach ($events as $page) {
-											echo "<tr><td>".$i."</td><td>".$page['Name']."</td><td>".$page['Age']."</td><td>"
-											.$page['Gender']."</td><td>".$page['Email']."</td><td>".$page['Phone']."</td><td><a href='../cv/".$page['proficient']."'>view</a></td><td>".$page['City']."" .$page['State']."</td><td>".$page['Messege'].
-											"</td></tr>";
+										$contacts=$header->getcontact();
+										foreach ($contacts as $page) {
+												echo "<tr>
+												<td>".$i."</td>
+											<td>".$page['Name']."</td>
+											<td>".$page['Email']."</td>
+													<td>".$page['Phone']."</td>
+													<td>".$page['City']."" .$page['State']."</td>
+														<td>".$page['Messege']."</td>";
+												
+													
 											
+											
+										?>
+										
+											<?php echo "
+												</tr>
+												";
 												$i++;
 										}
 									?>
