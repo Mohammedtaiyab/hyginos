@@ -1,5 +1,6 @@
 <?php
 require('include/head.php');
+
 require('include/headstyle.php');
 require('include/nav.php');
 ?>
@@ -294,7 +295,6 @@ require('include/nav.php');
                      </div>
                      
                      </div>
-
                   
                   <!-- <section data-vc-full-width="true" data-vc-full-width-init="false" data-vc-parallax="1.5" data-vc-parallax-o-fade="on" class="vc_section vc_section-has-fill vc_general vc_parallax vc_parallax-content-moving-fade js-vc_parallax-o-fade">
                      <div  data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1613318216840 vc_row-has-fill">
@@ -814,24 +814,49 @@ require('include/nav.php');
                                        <ul></ul>
                                     </div>
                                     <form action="" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
-                                       <div style="display: none;">
-                                          <input type="hidden" name="_wpcf7" value="2496" />
-                                          <input type="hidden" name="_wpcf7_version" value="5.3.2" />
-                                          <input type="hidden" name="_wpcf7_locale" value="en_US" />
-                                          <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f2496-p1056-o1" />
-                                          <input type="hidden" name="_wpcf7_container_post" value="1056" />
-                                          <input type="hidden" name="_wpcf7_posted_data_hash" value="" />
-                                       </div>
                                        <style>
-                                          span.display_flex {
-                                          display: inline-flex;
+                                          .control-label{display: none;}
+                                          .mr2{
+                                             margin-bottom: 3px;
                                           }
-                                          .display_flex>span {
-                                          margin: 5px 10px 5px 10px !important;
-                                          }
-                                          .display_content_form{padding:10PX 0PX 10PX 0PX;}
                                        </style>
-                                       <div style="text-align:center"><span class="display_flex"> <span class="display_content_form">Name :  </span> 
+                              
+                                        <div class="form-group">
+    <label class="control-label col-sm-2" for="email">Name:</label>
+    <div class="col-sm-10 mr2">
+      <input type="text" class="form-control" id="email" placeholder="Enter Name">
+    </div>
+  </div>
+                                        <div class="form-group">
+    <label class="control-label col-sm-2" for="email">Email:</label>
+    <div class="col-sm-10 mr2">
+      <input type="email" class="form-control" id="email" placeholder="Enter email">
+    </div>
+  </div>
+  <div class="form-group">
+    <label class="control-label col-sm-2" for="email">Phone:</label>
+    <div class="col-sm-10 mr2">
+      <input type="text" class="form-control" id="email" placeholder="Enter Contact No.">
+    </div>
+  </div>
+  <div class="form-group">
+    <label class="control-label col-sm-2" for="">Message</label>
+    <div class="col-sm-10 mr2">
+      <textarea type="text" class="form-control" id="" placeholder="Enter Message"></textarea>
+    </div>
+  </div>
+  <div class="form-group">
+    <div class="col-sm-10">
+    <input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit" />
+    </div>
+  </div>
+
+
+ 
+
+
+
+                                       <!-- <div style="text-align:center"><span class="display_flex"> <span class="display_content_form">Name :  </span> 
                                        <span class="wpcf7-form-control-wrap your-name">
                                        <input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required set_width" aria-required="true" aria-invalid="false" placeholder="Your Name" /></span> </span>
                                        
@@ -847,8 +872,8 @@ require('include/nav.php');
                                        <span class="display_flex"><span class="display_content_form"> Phone: </span> <span class="wpcf7-form-control-wrap tel-511">
                                        <input type="tel" name="tel-511" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel set_width" aria-required="true" aria-invalid="false" placeholder="Your Phone" /></span>
                                        </span><br><br />
-                                          <input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit" />
-                                       </div>
+                                        
+                                       </div> -->
                                        <div class="wpcf7-response-output" aria-hidden="true"></div>
                                     </form>
                                  </div>
