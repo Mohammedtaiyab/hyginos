@@ -804,7 +804,7 @@ require('include/nav.php');
                               </div>
                            </div>
                         </div>
-                        <div class="wpb_column vc_column_container vc_col-sm-6">
+                        <div class="wpb_column vc_column_container vc_col-sm-5">
                            <div class="vc_column-inner ">
                               <div class="wpb_wrapper">
                              
@@ -824,25 +824,25 @@ require('include/nav.php');
                                         <div class="form-group">
     <label class="control-label col-sm-2" for="email">Name:</label>
     <div class="col-sm-10 mr2">
-      <input type="text" name="name" class="form-control" id="" placeholder="Enter Name">
+      <input type="text" name="name" class="form-control input-group" id="" placeholder="Enter Name">
     </div>
   </div>
                                         <div class="form-group">
     <label class="control-label col-sm-2" for="email">Email:</label>
     <div class="col-sm-10 mr2">
-      <input type="email" name="email" class="form-control" id="email" placeholder="Enter email">
+      <input type="email" name="email" class="form-control input-group" id="email" placeholder="Enter email">
     </div>
   </div>
   <div class="form-group">
     <label class="control-label col-sm-2" for="">Phone:</label>
     <div class="col-sm-10 mr2">
-      <input type="text" name="phone" class="form-control" id="" placeholder="Enter Contact No.">
+      <input type="text" name="phone" class="form-control input-group" id="" placeholder="Enter Contact No.">
     </div>
   </div>
   <div class="form-group">
     <label class="control-label col-sm-2" for="">Message</label>
     <div class="col-sm-10 mr2">
-      <textarea type="text" name="message" class="form-control" id="" placeholder="Enter Message"></textarea>
+      <textarea type="text" name="message " class="form-control input-group" id="" placeholder="Enter Message"></textarea>
     </div>
   </div>
   <div class="form-group">

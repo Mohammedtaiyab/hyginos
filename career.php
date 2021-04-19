@@ -140,12 +140,12 @@ require('include/othernav.php');
                                         <form action="" method="post" class="wpcf7-form init" enctype="multipart/form-data" >
 
                                             <p><label> Your Name<br />
-                                                    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </label></p>
+                                                    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required input-group" aria-required="true" aria-invalid="false" /></span> </label></p>
                                                     <p><label> Your Phone No.<br />
-                                                    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-required="true" aria-invalid="false" /></span> </label></p>
+                                                    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text input-group" aria-required="true" aria-invalid="false" /></span> </label></p>
                                                     <p><label> Your Email:<br />
-                                                    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span> </label></p>
-                                            <p><label> Position: <span class="wpcf7-form-control-wrap post_name"><select name="position" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
+                                                    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email input-group" aria-required="true" aria-invalid="false" /></span> </label></p>
+                                            <p><label> Position: <span class="wpcf7-form-control-wrap post_name"><select name="position" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required input-group" aria-required="true" aria-invalid="false">
                                                             <option value="">---</option>
                                                             <?php foreach ($jobs as $job) { ?>
                                                                 <option value="<?php echo $job['Title'];?>"><?php echo $job['Title'];?></option>
@@ -153,9 +153,9 @@ require('include/othernav.php');
                                                            
                                                            
                                                         </select></span> </label></p>
-                                            <p><label> Upload Resume <small style="color:red;">* (2 MB Limit)</small>: <span class="wpcf7-form-control-wrap resume_file"><input type="file" name="cv" size="40" class="wpcf7-form-control wpcf7-file wpcf7-validates-as-required" accept=".pdf" aria-required="true" aria-invalid="false" /></span> </label></p>
+                                            <p><label> Upload Resume <small style="color:red;">* (2 MB Limit)</small>: <span class="wpcf7-form-control-wrap resume_file"><input type="file" name="cv" size="40" class="wpcf7-form-control wpcf7-file wpcf7-validates-as-required input-group" accept=".pdf" aria-required="true" aria-invalid="false" /></span> </label></p>
                                             <p><label> Any Note (optional):<br />
-                                                    <span class="wpcf7-form-control-wrap your-message"><textarea name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span> </label></p>
+                                                    <span class="wpcf7-form-control-wrap your-message"><textarea name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea input-group" aria-invalid="false"></textarea></span> </label></p>
                                             <p>
                                                 <center><input type="submit" value="Submit" name="jobsubmit" class="wpcf7-form-control wpcf7-submit" /></center>
                                             </p>
