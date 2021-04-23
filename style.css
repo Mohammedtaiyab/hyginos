@@ -1489,7 +1489,7 @@ h6 span {
   }
   
   .team-member figure img {
-	min-width: 100%;
+
   }
   
   .team-member figcaption p {
@@ -1580,8 +1580,12 @@ h6 span {
   }
 
   .imgr{
-	  width: 360px;
-	  height: 360px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0 auto;
+    object-fit: cover;
+    object-position: center right;
   }
 
 
