@@ -149,7 +149,7 @@
             </div>
             <div class="wpb_column vc_column_container vc_col-sm-6">
                <div class="vc_column-inner vc_custom_1542637255006">
-                  <div class="wpb_wrapper"> </div>
+                  <div class="wpb_wrapper"><span style="color: #ffffff;">Copyright © 2021 Hyginos. All Rights Reserved.</span></div>
                </div>
             </div>
             <div class="wpb_column vc_column_container vc_col-sm-6">
@@ -157,7 +157,7 @@
                   <div class="wpb_wrapper">
                      <div class="seofy_module_text mobile-acenter" style="font-size:14px;line-height:30px;">
                         <div class="text_mobile" style="font-size:14px;line-height:18px;">
-                           <p style="text-align: right;"><span style="color: #ffffff;">Copyright © 2021 Hyginos. All Rights Reserved.</span></p>
+                           <p style="text-align: right;">Design By <a href="http://softezi.com/" style="color: white;">SoftEzi.com</a></p>
                         </div>
                      </div>
                   </div>
