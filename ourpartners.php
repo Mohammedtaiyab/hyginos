@@ -205,7 +205,7 @@ require('include/othernav.php');
 									<div class="wpb_wrapper">
 										<div id=seofy_button_60657ee7b955f
 											class="seofy_module_button wgl_button wgl_button-s button_color acenter wpb_animate_when_almost_visible wpb_appear appear">
-											<a href="https://www.softezi.in" title='Get In Touch' target="_blank"
+											<a href="https://www.softezi.com" title='Get In Touch' target="_blank"
 												style="border-radius:10px; border-width:1px; margin-top:20px; "
 												class="wgl_button_link">Get in Touch</a></div>
 									</div>
